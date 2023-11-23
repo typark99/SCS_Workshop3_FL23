@@ -1,0 +1,2552 @@
+﻿Course,Math,Verbal,HT,Shoe,MomHT,DadHT,Color,WT,Major,Gender,id
+Stats for Humanities,470,600,72,12,65,73,blue,170,ECON,male,1
+Stats for Humanities,540,590,64,8.5,66,70,green,115,BIOSC,female,2
+Stats for Humanities,600,750,62,7,63,66,pink,96,COMMRC,female,3
+Stats for Humanities,650,690,62,8,59,72,red,175,no answer,female,4
+Stats for Humanities,550,550,64,7.5,64,68,pink,131,PSY,female,5
+Stats for Humanities,510,490,62,7.5,63,72,pink,110,HRS,female,6
+Stats for Humanities,600,590,65,8.5,64,76,pink,150,PHARM,female,7
+Stats for Humanities,560,580,72,11.5,65,71,blue,190,PS,male,8
+Stats for Humanities,570,630,63,8.5,64,73,pink,180,ECON,female,9
+Stats for Humanities,600,650,61,8,60,69,green,160,EDUC,female,10
+Stats for Humanities,610,580,64,6.5,58,70,yellow,121,HRS,female,11
+Stats for Humanities,600,560,64,8.5,61,67,red,150,BIOSC,female,12
+Stats for Humanities,590,520,72,11,62,71,green,158,BIOSC,male,13
+Stats for Humanities,640,530,70,11,65,71,red,150,no answer,male,14
+Stats for Humanities,610,590,64,7.5,61,75,yellow,125,PHARM,female,15
+Stats for Humanities,600,660,63,6,60,70,pink,135,no answer,female,16
+Stats for Humanities,600,710,63,6,62,68,green,170,JPNSE,female,17
+Stats for Humanities,500,700,68,8,66,72,pink,160,PS,female,18
+Stats for Humanities,600,720,63,6.5,61,70,green,110,SOC,female,19
+Stats for Humanities,500,600,71,8.5,65,71,blue,210,COMMRC,female,20
+Stats for Humanities,610,670,70,10.5,60,69,green,150,no answer,female,21
+Stats for Humanities,630,560,68,10,63,65,blue,140,HRS,male,22
+Stats for Humanities,520,520,59,5.5,60,66,blue,102,SPAN,female,23
+Business Stats,600,500,67,8.5,64,71,purple,170,BUS,female,24
+Business Stats,710,560,67,10,62,67,blue,133,BUS,male,25
+Business Stats,730,690,64,6.5,64,77,yellow,111,ECON,female,26
+Business Stats,670,600,71,11,61,70,green,170,PS,male,27
+Business Stats,620,620,67,9,68,72,blue,150,BUS,female,28
+Business Stats,640,610,69,10,67,66,blue,142,no answer,male,29
+Stats for Humanities,790,510,70,13,63,71,green,160,BUS,male,30
+Stats for Science,710,690,74,12,65,72,black,175,PHIL,male,31
+Stats for Science,700,600,68,9.5,66,72,pink,155,HRS,female,32
+Stats for Science,700,590,65,8.5,64,72,green,150,no answer,female,33
+Stats for Science,640,670,67,7.5,68,71,green,128,no answer,female,34
+Stats for Science,690,570,73,15,65,68,blue,280,MATH,male,35
+Stats for Science,600,540,64,10,62,74,blue,150,no answer,female,36
+Stats for Science,700,630,71,11,66,70,blue,175,no answer,male,37
+Stats for Science,580,540,64,9,64,72,blue,155,NROSCI,female,38
+Stats for Science,520,500,63,7.5,66,68,green,130,CHEM,female,39
+Stats for Science,650,720,71,10.5,65,69,blue,175,BIOSC,male,40
+Stats for Science,680,800,74,13,67,69,green,195,ENGING,male,41
+Stats for Science,450,540,64,6.5,64,70,red,108,ANTH,female,42
+Stats for Science,670,650,72,11.5,64,71,black,165,NROSCI,male,43
+Stats for Science,630,620,70,11,65,68,blue,160,PS,male,44
+Stats for Science,660,680,71,10.5,69,70,red,170,ECON,male,45
+Stats for Science,600,600,63,9.5,65,67,blue,222,PSY,female,46
+Stats for Science,780,740,74,11,64,66,green,190,ENGING,male,47
+Stats for Science,660,650,72,12.5,69,73,blue,175,no answer,male,48
+Stats for Science,740,770,64,8,61,67,red,100,NROSCI,female,49
+Stats for Science,600,600,72,11.5,66,75,black,145,BIOSC,male,50
+Stats for Science,650,620,66,8.5,64,70,blue,128,PHARM,female,51
+Stats for Science,600,590,65,7.5,64,73,pink,128,no answer,female,52
+Stats for Science,750,700,73,10,69,70,red,162,MED,male,53
+Stats for Science,680,740,64,9,59,65,blue,190,PHIL,male,54
+Stats for Science,620,710,63,6,65,69,green,120,PSY,female,55
+Stats for Science,660,650,73,11,72,74,green,160,BIOSC,female,56
+Stats for Science,740,760,68,11.5,65,63,yellow,215,ENGING,male,57
+Stats for Science,700,560,68,8.5,66,67,blue,135,no answer,male,58
+Stats for Science,780,730,74,13.5,66,70,blue,199,BIOSC,male,59
+Stats for Science,650,610,62,8.5,63,66,blue,120,no answer,female,60
+Stats for Science,680,670,76,11.5,68,76,blue,200,ENGING,male,61
+Stats for Science,700,520,63,6.5,61,71,blue,110,PHARM,female,62
+Stats for Science,550,650,72,13,68,71,black,222,CS,male,63
+Stats for Science,610,600,66,9.5,62,65,blue,175,BIOSC,male,64
+Stats for Science,690,720,72,9,67,71,blue,135,URBST,male,65
+Stats for Science,690,690,71,10.5,67,73,blue,200,HIST,male,66
+Stats for Science,650,600,65,10,65,68,blue,160,no answer,female,67
+Stats for Science,580,620,69,10,59,73,black,164,ANTH,male,68
+Stats for Science,620,650,66,8,64,75,purple,135,no answer,female,69
+Stats for Science,590,630,64,8,65,69,purple,130,no answer,female,70
+Stats for Science,620,610,63,7.5,63,73,blue,124,PHARM,female,71
+Stats for Science,650,600,71,12,66,70,blue,220,CS,male,72
+Stats for Science,740,680,68,9,65,71,pink,120,SOCWRK,female,73
+Stats for Science,660,770,72,10.5,68,70,blue,210,PS,male,74
+Stats for Science,700,620,73,12,67,68,blue,188,ECON,male,75
+Stats for Science,760,660,70,10,63,68,blue,154,ENGLIT,male,76
+Stats for Science,550,620,68,9,64,75,blue,144,no answer,female,77
+Stats for Science,480,550,66,9,68,70,purple,145,no answer,female,78
+Stats for Science,680,600,64,8.5,63,70,purple,148,HRS,female,79
+Stats for Humanities,580,610,73,11.5,67,69,red,205,HPS,male,80
+Stats for Science,710,640,73,9,63,73,green,215,FILMST,male,81
+Stats for Science,650,570,69,11,67,71,green,285,SOC,male,82
+Stats for Science,520,590,66,8,63,75,pink,120,BIOSC,female,83
+Stats for Science,710,650,66,9.5,63,71,yellow,127,MATH,female,84
+Stats for Science,650,680,77,12,68,74,blue,175,ENGING,male,85
+Stats for Science,700,700,72,11,65,69,red,240,ENGING,male,86
+Stats for Science,640,530,65,8,67,73,red,147,no answer,female,87
+Stats for Science,610,580,66,8,63,72,pink,125,no answer,female,88
+Stats for Science,620,680,65,7.5,65,72,blue,140,no answer,female,89
+Stats for Science,600,680,60,5,59,67,pink,96,FR,female,90
+Stats for Science,550,650,65,8,62,68,green,115,ENGWRT,female,91
+Stats for Science,590,520,67,9.5,66,70,red,155,no answer,female,92
+Stats for Science,750,690,66,9,64,75,pink,120,BIOSC,female,93
+Stats for Science,580,550,69,10,63,66,blue,188,no answer,male,94
+Stats for Science,670,680,63,7,65,70,blue,128,PHARM,female,95
+Stats for Science,520,500,68,8.5,63,69,red,140,no answer,male,96
+Stats for Science,610,620,71,11,63,74,blue,161,PS,female,97
+Stats for Science,530,620,62,6,61,70,pink,105,MATH,female,98
+Stats for Science,550,600,70,10,66,71,green,132,SOCWRK,female,99
+Stats for Humanities,620,590,70,10.5,61,71,blue,195,FILMST,male,100
+Stats for Humanities,650,560,66,8,68,71,pink,170,no answer,female,101
+Stats for Humanities,570,660,64,8,64,71,yellow,115,SOCWRK,female,102
+Stats for Humanities,570,540,69,9.5,64,75,green,153,MED,female,103
+Stats for Humanities,560,560,74,11,63,70,red,178,no answer,male,104
+Stats for Humanities,600,640,68,9.5,63,70,blue,140,PSY,male,105
+Stats for Humanities,620,700,71,11.5,65,72,green,210,PHARM,male,106
+Stats for Humanities,610,530,63,6.5,60,76,blue,120,HRS,female,107
+Stats for Humanities,720,650,70,12,64,68,orange,165,no answer,male,108
+Stats for Humanities,500,500,63,7,63,71,pink,125,SOC,female,109
+Stats for Humanities,400,450,66,9,63,67,purple,250,no answer,female,110
+Stats for Humanities,740,700,74,12,64,73,green,180,CHEM,male,111
+Stats for Humanities,400,700,70,10,60,74,red,140,PSY,female,112
+Stats for Humanities,500,600,61,6,61,72,purple,105,PS,female,113
+Stats for Humanities,540,570,63,9.5,62,72,blue,120,no answer,female,114
+Stats for Humanities,625,625,69,8.5,70,72,pink,150,HRS,female,115
+Stats for Humanities,630,770,66,8.5,66,73,green,160,JPNSE,male,116
+Stats for Humanities,540,570,63,9,65,67,pink,180,PSY,female,117
+Stats for Humanities,680,670,75,13,66,76,green,210,HRS,male,118
+Stats for Humanities,600,600,69,10,67,72,black,140,NURS,female,119
+Stats for Humanities,700,700,65,8.5,68,72,green,150,no answer,female,120
+Stats for Humanities,670,530,72,13,65,69,orange,200,INFOSCI,male,121
+Stats for Humanities,550,600,71,10.5,67,74,red,250,NURS,male,122
+Stats for Humanities,700,750,62,6.5,66,69,pink,120,NURS,female,123
+Stats for Humanities,700,650,64,7,62,74,orange,120,NURS,female,124
+Stats for Humanities,710,650,77,8,60,71,green,120,NURS,female,125
+Stats for Humanities,600,600,64,8,60,71,blue,135,NURS,female,126
+Stats for Humanities,650,640,61,7.5,64,70,blue,118,NURS,female,127
+Stats for Humanities,610,590,71,10.5,67,75,blue,140,MED,female,128
+Stats for Humanities,420,620,61,7,60,64,green,140,PSY,female,129
+Stats for Humanities,540,540,71,11,63,73,yellow,147,no answer,male,130
+Stats for Humanities,510,540,62,8,62,67,blue,135,HRS,female,131
+Stats for Humanities,650,550,69,9,65,74,black,155,no answer,female,132
+Stats for Humanities,610,590,71,10.5,67,75,blue,140,MED,female,133
+Stats for Humanities,680,540,69,10.5,63,72,orange,182,no answer,male,134
+Stats for Humanities,530,450,76,11,64,73,blue,165,NURS,male,135
+Stats for Science,790,670,75,13,65,70,green,180,HRS,male,136
+Stats for Science,650,700,73,11,67,74,black,175,no answer,male,137
+Stats for Science,700,720,67,10,64,69,pink,183,BIOSC,female,138
+Stats for Science,720,620,63,7.5,59,64,blue,123,ENGING,female,139
+Stats for Science,620,680,61,6,61,65,green,95,ENGING,female,140
+Stats for Science,690,680,68,8.5,67,73,purple,144,no answer,female,141
+Stats for Science,680,600,74,12,67,71,black,195,ECON,male,142
+Stats for Science,720,690,71,10,63,70,orange,153,no answer,male,143
+Stats for Science,600,600,71,11.5,67,70,blue,190,no answer,male,144
+Stats for Science,600,600,66,8,64,71,pink,132,no answer,female,145
+Stats for Science,600,550,62,7.5,63,72,green,110,BIOSC,female,146
+Stats for Science,600,600,67,8.5,69,73,blue,120,CS,female,147
+Stats for Science,710,650,68,9.5,68,74,pink,148,NROSCI,female,148
+Stats for Science,700,550,71,12,63,69,blue,190,BIOSC,male,149
+Stats for Science,660,560,70,10,69,75,pink,155,ECON,female,150
+Stats for Science,640,610,66,7.5,64,73,purple,160,no answer,female,151
+Stats for Science,650,680,71,10,69,72,green,150,no answer,female,152
+Stats for Science,550,610,62,8,62,67,green,115,no answer,female,153
+Stats for Science,670,620,72,12,67,68,green,200,ENGING,male,154
+Stats for Science,670,590,65,8,68,69,blue,128,no answer,female,155
+Stats for Science,550,610,67,8.5,66,71,purple,128,no answer,female,156
+Stats for Science,530,550,70,9.5,65,64,red,167,NROSCI,male,157
+Stats for Science,680,680,67,8,66,75,pink,120,BIOSC,female,158
+Stats for Science,700,550,71,10.5,65,69,blue,185,ECON,male,159
+Stats for Science,650,690,73,11,67,72,black,215,BIOSC,male,160
+Stats for Science,620,640,66,8,63,65,pink,155,NURS,female,161
+Stats for Science,760,750,63,9,64,70,yellow,115,no answer,female,162
+Stats for Science,720,550,67,8.5,66,72,pink,150,PSY,female,163
+Stats for Science,670,650,70,9,71,74,green,122,no answer,female,164
+Stats for Humanities,540,710,67,9,66,74,purple,190,SPAN,female,165
+Stats for Humanities,600,600,64,7.5,63,69,green,108,NURS,female,166
+Stats for Humanities,610,640,70,8.5,64,75,blue,125,INFOSCI,male,167
+Stats for Humanities,620,710,67,11.5,61,71,blue,160,no answer,male,168
+Stats for Humanities,640,600,70,9,64,66,blue,145,HIST,male,169
+Stats for Humanities,580,620,64,8.5,57,70,blue,166,no answer,female,170
+Stats for Humanities,600,520,66,6,65,69,blue,120,no answer,female,171
+Stats for Humanities,670,520,66,9.5,63,73,blue,180,no answer,female,172
+Stats for Humanities,610,700,69,8.5,64,75,black,150,no answer,female,173
+Stats for Humanities,660,680,65,8.5,65,72,purple,128,no answer,female,174
+Stats for Humanities,550,550,66,9,64,71,red,145,no answer,female,175
+Stats for Humanities,780,600,67,7.5,63,68,pink,115,PHARM,female,176
+Stats for Humanities,580,440,70,10,64,68,blue,150,HRS,male,177
+Stats for Humanities,560,690,69,9.5,72,72,blue,140,HRS,female,178
+Stats for Humanities,610,550,67,8.5,62,66,red,155,COMMRC,male,179
+Stats for Humanities,500,600,67,9,67,69,purple,155,no answer,female,180
+Stats for Humanities,650,680,71,11,67,73,green,183,SPAN,male,181
+Stats for Humanities,660,660,70,11,65,69,blue,150,INFOSCI,male,182
+Stats for Humanities,570,590,67,7,62,70,blue,124,no answer,female,183
+Stats for Humanities,600,600,61,7,63,66,black,102,no answer,female,184
+Stats for Humanities,400,550,68,8,64,69,blue,140,HRS,male,185
+Stats for Humanities,400,450,64,9,65,69,pink,140,COMMRC,female,186
+Stats for Humanities,550,630,75,13,64,71,blue,165,PSY,male,187
+Stats for Humanities,480,620,61,6.5,59,70,green,96,no answer,female,188
+Stats for Humanities,500,500,72,12,68,70,blue,190,PSY,male,189
+Stats for Humanities,640,710,69,12,65,73,black,176,GER,male,190
+Stats for Humanities,540,680,68,7,62,70,blue,138,ENGWRT,female,191
+Stats for Humanities,700,500,64,10.5,63,63,blue,125,PHARM,female,192
+Stats for Humanities,600,650,74,13,67,75,orange,175,HIST,male,193
+Stats for Humanities,600,600,84,11.5,66,70,green,200,PSY,female,194
+Stats for Humanities,450,620,65,8,64,69,red,119,no answer,female,195
+Stats for Humanities,490,530,66,9,65,69,blue,150,HRS,female,196
+Stats for Humanities,400,400,73,12.5,66,75,orange,160,SOC,male,197
+Stats for Humanities,670,550,63,7,61,69,blue,115,no answer,female,198
+Stats for Humanities,520,680,73,12,70,69,blue,188,HRS,male,199
+Stats for Humanities,520,520,69,11,63,69,purple,170,COMMRC,male,200
+Stats for Humanities,630,570,65,9,62,73,pink,175,no answer,female,201
+Stats for Humanities,630,670,67,9,65,69,blue,180,HIST,female,202
+Stats for Humanities,520,560,62,6.5,63,66,green,130,no answer,female,203
+Stats for Humanities,590,610,68,11,60,65,blue,135,no answer,male,204
+Stats for Humanities,620,600,71,10,67,74,pink,170,HRS,female,205
+Stats for Humanities,500,800,63,7.5,65,67,pink,120,no answer,female,206
+Stats for Humanities,700,600,64,7.5,60,68,black,99,PHARM,female,207
+Stats for Humanities,640,610,64,7,66,69,pink,115,HRS,female,208
+Stats for Humanities,560,680,67,9.5,66,71,yellow,135,no answer,female,209
+Stats for Humanities,600,600,68,9,64,75,black,160,ANTH,female,210
+Stats for Humanities,610,600,62,6,64,70,pink,125,PS,female,211
+Stats for Humanities,620,580,67,9,70,70,pink,160,no answer,female,212
+Stats for Humanities,600,540,67,10,65,66,black,125,PHARM,male,213
+Stats for Humanities,680,620,70,10.5,66,68,blue,135,no answer,male,214
+Stats for Humanities,610,610,61,6.5,63,70,green,130,HRS,female,215
+Stats for Humanities,610,620,65,7.5,68,72,green,131,PHARM,female,216
+Stats for Humanities,600,570,63,8.5,62,69,green,120,no answer,female,217
+Stats for Humanities,650,630,67,10,66,71,pink,138,PHARM,female,218
+Stats for Humanities,580,670,66,8.5,63,75,purple,180,PSY,female,219
+Stats for Humanities,600,610,65,9,63,76,green,127,MED,female,220
+Stats for Humanities,680,710,69,11.5,66,70,blue,172,PSY,male,221
+Stats for Humanities,640,620,70,8.5,68,69,green,137,HRS,male,222
+Stats for Science,700,660,64,9,68,71,green,125,FILMST,male,223
+Stats for Humanities,620,580,62,7.5,65,68,green,125,NURS,female,224
+Stats for Science,590,620,62,7,62,68,pink,125,no answer,female,225
+Stats for Science,630,570,63,6.5,66,70,pink,117,no answer,female,226
+Stats for Science,740,610,75,13,71,69,blue,180,ECON,male,227
+Stats for Science,630,520,71,10.5,63,71,blue,165,CS,male,228
+Stats for Science,690,710,61,8.5,66,69,blue,150,no answer,female,229
+Stats for Science,680,530,68,9.5,60,68,green,155,no answer,male,230
+Stats for Science,630,640,68,11,62,72,blue,171,no answer,male,231
+Stats for Science,710,690,62,6,63,68,blue,112,no answer,female,232
+Stats for Science,700,580,68,9.5,63,69,blue,144,no answer,male,233
+Stats for Science,620,590,62,7.5,64,69,blue,113,no answer,female,234
+Stats for Science,670,630,62,7.5,62,65,purple,125,NROSCI,female,235
+Stats for Science,670,670,64,7.5,64,71,pink,124,BIOSC,female,236
+Stats for Science,670,690,71,11,64,76,blue,180,no answer,female,237
+Stats for Science,580,610,66,7.5,62,76,blue,140,PSY,female,238
+Stats for Science,690,600,67,7.5,65,72,blue,135,BIOSC,female,239
+Stats for Humanities,650,540,70,13,60,72,orange,230,no answer,male,240
+Stats for Science,600,600,66,9,65,69,blue,150,GENS,female,241
+Stats for Science,630,550,67,10.5,62,70,blue,168,BIOSC,male,242
+Stats for Science,620,560,65,8,66,71,purple,141,no answer,female,243
+Stats for Science,790,790,72,14,66,71,green,155,NROSCI,male,244
+Stats for Science,740,640,69,10,66,69,green,155,NROSCI,male,245
+Stats for Science,690,550,70,9.5,65,68,blue,165,no answer,male,246
+Stats for Science,590,570,71,10,62,70,purple,170,no answer,female,247
+Stats for Science,630,550,71,11.5,65,71,blue,205,BIOSC,male,248
+Stats for Science,610,500,62,6.5,60,70,blue,117,CS,female,249
+Stats for Science,680,630,70,11.5,65,68,orange,164,BIOSC,male,250
+Stats for Humanities,710,650,72,10,66,72,green,178,no answer,male,251
+Stats for Humanities,580,570,68,8.5,66,71,green,160,no answer,female,252
+Stats for Humanities,475,550,63,7.5,61,74,pink,135,HIST,female,253
+Stats for Humanities,520,670,65,7.5,66,69,purple,110,NURS,female,254
+Stats for Humanities,620,650,64,8,64,70,blue,168,ANTH,female,255
+Stats for Humanities,450,440,61,7,59,67,pink,116,NURS,female,256
+Stats for Humanities,650,640,67,8.5,66,77,pink,130,NURS,female,257
+Stats for Humanities,640,730,74,10.5,65,78,blue,176,no answer,male,258
+Stats for Humanities,720,570,66,10,65,72,pink,150,NURS,female,259
+Stats for Humanities,640,590,63,7.5,63,70,purple,122,NURS,female,260
+Stats for Humanities,550,540,62,7,64,72,pink,110,HRS,female,261
+Stats for Humanities,560,670,59,6,60,71,green,94,NURS,female,262
+Stats for Humanities,560,580,73,12,68,74,blue,234,GENS,male,263
+Stats for Humanities,610,620,62,6.5,63,70,pink,122,NURS,female,264
+Stats for Humanities,640,530,75,10.5,64,73,blue,200,HIST,male,265
+Stats for Humanities,590,610,66,8.5,68,73,orange,135,NURS,female,266
+Stats for Humanities,660,630,61,7,62,68,green,108,NURS,female,267
+Stats for Humanities,600,590,68,10,69,73,yellow,153,NURS,female,268
+Stats for Humanities,540,450,61,7.5,62,65,red,138,no answer,male,269
+Stats for Humanities,620,570,67,9.5,61,66,orange,155,no answer,male,270
+Stats for Humanities,600,660,67,10,66,72,purple,225,FILMST,female,271
+Stats for Humanities,500,600,64,7.5,76,64,green,128,NURS,female,272
+Stats for Humanities,640,640,63,8,62,70,purple,104,no answer,female,273
+Stats for Humanities,590,700,68,9,68,72,blue,150,no answer,female,274
+Stats for Humanities,700,740,62,8,60,68,green,120,no answer,female,275
+Stats for Humanities,620,600,72,12,67,71,blue,160,no answer,male,276
+Stats for Humanities,580,620,66,9,68,72,green,135,EDUC,female,277
+Stats for Humanities,640,650,76,11.5,68,69,blue,189,no answer,male,278
+Stats for Humanities,670,640,71,14,63,70,blue,225,no answer,male,279
+Stats for Humanities,780,620,70,9,69,74,green,145,HA&A,female,280
+Stats for Humanities,500,610,71,10,65,75,blue,170,GEOL,female,281
+Stats for Humanities,620,530,64,8,63,75,pink,140,no answer,female,282
+Stats for Humanities,430,460,62,8,62,68,blue,147,no answer,female,283
+Stats for Humanities,650,800,64,6.5,63,69,pink,123,no answer,female,284
+Stats for Humanities,500,640,64,8,64,72,green,130,no answer,female,285
+Stats for Humanities,620,720,69,10,64,74,blue,180,HIST,female,286
+Stats for Humanities,740,660,71,10,62,73,orange,165,no answer,male,287
+Stats for Humanities,660,580,62,9,63,64,yellow,117,NURS,female,288
+Stats for Humanities,540,550,70,11,66,68,orange,240,PSY,male,289
+Stats for Humanities,520,580,63,7.5,65,64,blue,100,NURS,female,290
+Stats for Humanities,650,580,67,8.5,66,72,pink,128,no answer,female,291
+Stats for Humanities,690,710,64,7,61,69,blue,110,COMMRC,female,292
+Stats for Humanities,660,600,65,7.5,68,73,purple,125,NURS,female,293
+Stats for Humanities,600,600,65,9.5,69,69,blue,130,NURS,female,294
+Stats for Humanities,610,580,69,9.5,64,75,blue,148,NURS,female,295
+Stats for Humanities,630,560,62,8,62,66,yellow,128,NURS,female,296
+Stats for Humanities,650,580,64,7,65,67,blue,125,NURS,female,297
+Stats for Humanities,530,570,66,9,62,67,purple,240,ENGWRT,female,298
+Stats for Humanities,610,540,67,9,68,70,purple,110,NURS,female,299
+Stats for Humanities,680,600,75,10.5,67,73,green,185,BIOSC,male,300
+Stats for Humanities,610,600,63,8.5,63,72,purple,125,NURS,female,301
+Stats for Humanities,620,620,62,6.5,64,70,pink,122,NURS,female,302
+Stats for Science,650,500,64,8,65,71,red,140,no answer,female,303
+Stats for Science,670,660,64,7.5,63,70,orange,150,PHARM,female,304
+Stats for Science,550,570,63,8.5,69,70,purple,141,no answer,female,305
+Business Stats,680,520,71,12,70,68,blue,215,no answer,male,306
+Business Stats,590,700,66,7.5,65,72,purple,145,no answer,female,307
+Business Stats,800,660,72,11.5,68,71,blue,210,BUS,male,308
+Stats for Science,760,720,72,10.5,70,68,blue,255,CS,male,309
+Stats for Science,650,630,69,10,68,68,blue,155,BIOSC,female,310
+Stats for Science,710,610,65,9,66,65,green,142,no answer,male,311
+Stats for Science,700,700,60,6,60,66,blue,100,CS,male,312
+Stats for Science,500,500,62,7.5,62,68,blue,145,CS,female,313
+Stats for Science,640,660,72,12,67,67,blue,175,CS,male,314
+Stats for Science,500,650,64,10,67,68,pink,145,no answer,female,315
+Stats for Science,550,650,72,11.5,65,74,purple,180,PS,male,316
+Stats for Science,620,590,70,10,83,75,orange,135,SA,female,317
+Stats for Science,610,780,66,8,68,73,green,160,no answer,female,318
+Stats for Science,630,640,75,13,70,74,black,185,no answer,male,319
+Stats for Science,700,590,72,10.5,66,67,red,135,no answer,male,320
+Stats for Science,690,640,70,7.5,67,76,green,125,no answer,female,321
+Stats for Science,630,590,68,10,64,72,black,190,no answer,male,322
+Stats for Science,720,650,69,10.5,66,68,green,150,ECON,male,323
+Stats for Science,750,610,69,10,70,72,blue,135,ENGWRT,female,324
+Stats for Science,730,770,70,11.5,64,70,blue,150,PS,male,325
+Stats for Science,600,550,72,11,64,66,blue,202,no answer,male,326
+Stats for Science,600,630,72,10.5,67,74,red,175,no answer,male,327
+Stats for Science,730,620,74,11,69,73,blue,180,PHYS,male,328
+Stats for Science,780,550,69,9.5,65,67,blue,150,no answer,male,329
+Stats for Science,760,680,67,10,64,71,green,160,no answer,female,330
+Stats for Science,520,510,66,7,60,64,green,120,BIOSC,female,331
+Stats for Science,650,600,64,9,58,68,black,149,PIA,male,332
+Stats for Science,550,650,75,13,65,75,black,150,no answer,male,333
+Stats for Science,430,580,63,8.5,64,71,yellow,117,BIOSC,female,334
+Stats for Science,525,610,60,7.5,60,70,red,124,no answer,female,335
+Stats for Science,650,570,62,7,63,70,red,120,no answer,female,336
+Stats for Science,720,770,70,9.5,67,72,blue,148,no answer,female,337
+Business Stats,570,620,65,9.5,64,70,blue,155,BUS,female,338
+Stats for Science,620,600,70,11,67,71,blue,150,no answer,male,339
+Stats for Science,600,600,63,7,62,71,pink,98,no answer,female,340
+Stats for Science,710,630,77,15,64,78,blue,255,no answer,male,341
+Stats for Science,780,800,68,8,69,71,pink,130,no answer,female,342
+Stats for Science,690,550,73,13,66,71,red,150,ECON,male,343
+Stats for Science,700,660,72,12,67,71,green,235,no answer,male,344
+Stats for Science,620,540,65,8,62,71,red,140,PSY,female,345
+Stats for Science,680,570,66,9,66,76,green,135,no answer,female,346
+Stats for Science,720,720,64,9.5,67,69,blue,115,CS,female,347
+Stats for Science,660,640,68,7.5,61,73,black,135,PSY,female,348
+Stats for Science,580,540,66,10,65,68,blue,210,no answer,female,349
+Stats for Science,710,630,62,6,64,69,purple,110,BIOSC,female,350
+Stats for Science,560,580,63,6.5,70,74,pink,126,COMMRC,female,351
+Stats for Science,660,700,69,10,70,71,blue,170,no answer,female,352
+Business Stats,650,690,62,7.5,64,70,pink,121,no answer,female,353
+Business Stats,710,600,76,14,69,72,blue,230,BUS,male,354
+Business Stats,590,580,68,12,64,72,blue,218,no answer,male,355
+Stats for Science,750,730,70,11,67,74,blue,172,no answer,female,356
+Stats for Science,760,740,70,10.5,66,73,blue,175,no answer,male,357
+Stats for Science,780,640,65,8.5,63,70,pink,117,no answer,female,358
+Stats for Science,620,570,63,8.5,64,69,pink,120,GER,female,359
+Stats for Science,700,760,71,10.5,67,72,red,200,no answer,male,360
+Stats for Science,570,670,66,8.5,66,70,blue,115,no answer,female,361
+Stats for Science,550,450,66,9,68,70,red,230,PSY,female,362
+Stats for Science,630,740,66,9,64,73,blue,105,ECON,female,363
+Stats for Humanities,610,720,62,6.5,63,71,green,160,BUS,female,364
+Business Stats,660,690,78,12.5,69,73,blue,190,no answer,male,365
+Business Stats,600,590,66,8,64,72,purple,165,BUS,female,366
+Business Stats,650,560,70,8.5,70,75,blue,138,no answer,female,367
+Stats for Humanities,630,700,75,13.5,70,73,blue,195,no answer,male,368
+Stats for Humanities,620,610,67,9,60,65,green,175,ECON,male,369
+Stats for Humanities,650,570,68,11,71,64,green,169,no answer,female,370
+Stats for Humanities,580,700,69,9.5,67,71,blue,160,HIST,male,371
+Stats for Humanities,590,500,64,8.5,61,73,pink,140,no answer,female,372
+Stats for Humanities,600,700,61,6,64,68,pink,110,no answer,female,373
+Stats for Humanities,730,550,66,8.5,60,70,blue,142,PHARM,female,374
+Stats for Humanities,590,470,65,9,62,74,pink,160,HRS,female,375
+Stats for Humanities,620,500,63,7.5,61,70,pink,110,PHARM,female,376
+Stats for Humanities,530,580,73,13,68,72,blue,180,HRS,male,377
+Stats for Humanities,540,570,64,7.5,64,71,pink,125,HRS,female,378
+Stats for Humanities,590,630,65,8.5,63,75,green,136,no answer,female,379
+Stats for Humanities,540,570,70,11.5,63,69,blue,170,NROSCI,male,380
+Stats for Humanities,690,730,69,7.5,68,75,blue,130,PHARM,female,381
+Stats for Humanities,620,630,61,6,60,70,yellow,105,PSY,female,382
+Stats for Humanities,580,610,64,9,62,67,blue,115,JPNSE,female,383
+Stats for Humanities,620,650,65,9,63,73,green,153,no answer,female,384
+Stats for Humanities,580,770,61,7,63,72,green,126,GEOL,female,385
+Stats for Humanities,520,700,71,11,63,67,green,175,no answer,male,386
+Stats for Humanities,650,550,67,9.5,63,74,pink,160,no answer,female,387
+Stats for Humanities,400,400,59,6,67,68,pink,95,SOC,female,388
+Stats for Humanities,570,570,70,12,70,74,blue,170,URBST,male,389
+Stats for Humanities,520,540,83,10,69,76,blue,137,no answer,female,390
+Stats for Humanities,660,800,67,6.5,72,69,blue,123,BIOSC,female,391
+Stats for Humanities,780,710,70,11.5,58,70,blue,155,NROSCI,male,392
+Stats for Humanities,700,600,67,10,62,68,blue,140,NROSCI,male,393
+Stats for Humanities,610,520,71,10,67,68,blue,155,no answer,male,394
+Stats for Humanities,640,560,63,9,66,71,blue,133,PHARM,female,395
+Stats for Humanities,540,670,65,8,60,69,blue,125,HIST,female,396
+Stats for Humanities,550,670,68,10,64,66,black,148,no answer,male,397
+Stats for Humanities,510,670,75,12,67,75,blue,179,no answer,male,398
+Stats for Humanities,600,560,71,11,62,72,blue,171,COMMRC,male,399
+Stats for Humanities,720,670,72,13.5,64,69,black,160,HRS,male,400
+Stats for Humanities,600,700,68,8.5,66,73,pink,105,PSY,female,401
+Stats for Humanities,450,500,66,9.5,64,70,pink,132,COMMRC,female,402
+Stats for Humanities,570,570,69,9,66,73,green,155,BUS,female,403
+Stats for Humanities,670,660,66,7.5,69,71,pink,123,HRS,female,404
+Stats for Humanities,650,550,76,8,67,68,blue,124,no answer,female,405
+Stats for Humanities,475,500,71,11,63,72,black,167,FILMST,male,406
+Stats for Humanities,580,540,69,9.5,71,76,pink,138,no answer,female,407
+Stats for Humanities,660,540,66,7.5,64,74,pink,166,COMMRC,female,408
+Stats for Humanities,670,710,64,8.5,62,71,green,125,PHARM,female,409
+Stats for Humanities,560,580,68,9.5,66,74,pink,169,no answer,female,410
+Stats for Humanities,680,500,67,7,63,68,purple,110,HRS,female,411
+Stats for Humanities,700,590,74,14,65,73,blue,200,HRS,male,412
+Stats for Humanities,670,660,60,5.5,64,67,green,98,no answer,female,413
+Stats for Humanities,590,670,71,12,66,68,red,147,PS,male,414
+Stats for Humanities,490,490,63,9,63,72,orange,160,no answer,female,415
+Stats for Humanities,630,590,62,6.5,60,73,purple,115,SOC,female,416
+Stats for Humanities,600,700,68,10,65,71,red,140,no answer,male,417
+Stats for Humanities,600,590,61,6,65,68,orange,113,no answer,female,418
+Stats for Humanities,560,520,67,6.5,63,68,green,155,PS,male,419
+Stats for Humanities,510,490,70,10,66,70,black,180,PSY,male,420
+Stats for Humanities,600,610,71,12,69,67,green,175,PHARM,male,421
+Stats for Humanities,550,600,71,12,64,72,pink,200,ECON,male,422
+Stats for Humanities,700,800,76,14,70,68,red,285,ENGLIT,male,423
+Stats for Humanities,600,550,66,9.5,63,74,purple,133,no answer,female,424
+Stats for Humanities,670,480,64,7.5,63,71,red,123,MATH,female,425
+Stats for Humanities,610,620,74,13,66,72,blue,275,HIST,male,426
+Stats for Humanities,540,660,62,7.5,63,68,green,124,ECON,female,427
+Stats for Humanities,640,620,66,9,67,72,orange,125,PHARM,female,428
+Stats for Humanities,600,570,62,7.5,63,66,green,143,PHARM,female,429
+Stats for Humanities,490,670,67,7.5,64,68,purple,145,PS,female,430
+Stats for Humanities,540,650,60,7,62,69,green,114,no answer,female,431
+Stats for Humanities,570,520,70,10.5,67,66,red,162,INFOSCI,male,432
+Stats for Humanities,500,650,66,7.5,65,74,black,125,EDUC,female,433
+Stats for Humanities,500,600,65,7.5,67,72,orange,120,PSY,female,434
+Stats for Humanities,650,700,65,7.5,66,71,red,115,HRS,female,435
+Stats for Humanities,515,515,66,9,63,67,blue,120,NURS,female,436
+Stats for Humanities,540,480,63,7,67,72,pink,120,EDUC,female,437
+Stats for Humanities,610,540,66,8.5,65,73,green,120,PSY,female,438
+Stats for Humanities,660,590,64,8,65,69,green,150,no answer,female,439
+Stats for Humanities,700,720,66,8.5,64,69,blue,153,no answer,female,440
+Stats for Humanities,590,520,74,12,62,72,blue,200,INFOSCI,male,441
+Stats for Humanities,560,560,65,9,67,72,blue,135,HRS,female,442
+Stats for Humanities,600,540,73,12.5,68,74,blue,170.5,DENT,male,443
+Stats for Humanities,610,660,73,12,65,65,black,160,CHEM,male,444
+Stats for Humanities,480,510,63,7.5,65,71,purple,125,COMMRC,female,445
+Stats for Humanities,690,530,70,13.5,68,66,red,170,MED,male,446
+Stats for Humanities,670,640,74,13,69,71,green,233,HRS,male,447
+Stats for Humanities,500,600,66,10.5,68,68,blue,169,no answer,male,448
+Stats for Humanities,590,570,65,7.5,63,72,blue,147,PHARM,female,449
+Stats for Humanities,500,500,70,10.5,66,70,blue,240,no answer,male,450
+Stats for Humanities,680,500,60,6.5,59,62,blue,100,no answer,female,451
+Stats for Humanities,530,580,63,8,64,72,blue,130,no answer,female,452
+Stats for Humanities,560,750,60,6,62,71,red,100,ECON,female,453
+Stats for Humanities,630,660,67,9,65,72,blue,155,PSY,female,454
+Stats for Humanities,570,550,60,5,59,65,blue,125,HRS,female,455
+Stats for Humanities,580,580,71,11.5,65,71,red,160,no answer,male,456
+Stats for Humanities,660,670,70,10,66,72,pink,170,PHARM,female,457
+Stats for Humanities,660,650,67,8,65,75,green,152,PHARM,female,458
+Stats for Humanities,660,620,68,9.5,66,73,pink,150,PHARM,female,459
+Stats for Humanities,640,490,65,8,63,71,purple,113,HRS,female,460
+Stats for Humanities,690,700,64,8.5,64,66,orange,145,no answer,female,461
+Stats for Science,680,570,63,8.5,64,66,green,140,PHARM,female,462
+Stats for Humanities,630,590,61,7.5,65,69,blue,115,no answer,female,463
+Stats for Humanities,590,620,62,6.5,63,66,blue,129,PHARM,female,464
+Stats for Humanities,500,500,67,8.5,72,70,red,142,PSY,female,465
+Stats for Humanities,530,550,68,10.5,66,72,black,180,no answer,female,466
+Stats for Humanities,700,630,72,13,62,71,red,160,no answer,male,467
+Stats for Humanities,530,530,70,10,65,71,blue,260,no answer,female,468
+Stats for Humanities,520,680,62,7,67,72,green,125,no answer,female,469
+Stats for Humanities,570,630,66,9,69,71,blue,135,HRS,female,470
+Stats for Humanities,690,500,67,11,66,67,green,162,no answer,male,471
+Stats for Humanities,680,700,66,9,63,69,red,140,GEOL,female,472
+Stats for Humanities,500,600,59,5,59,67,blue,132,ENGLIT,female,473
+Stats for Humanities,610,570,69,11,65,73,green,160,no answer,male,474
+Stats for Humanities,610,640,70,11,62,66,black,148,PS,male,475
+Stats for Humanities,630,630,64,7.5,66,65,green,122,no answer,female,476
+Stats for Humanities,600,660,67,10,66,72,purple,170,FILMST,female,477
+Stats for Humanities,620,580,62,6.5,61,67,purple,180,no answer,female,478
+Stats for Humanities,590,590,65,9.5,69,70,red,110,PSY,female,479
+Stats for Humanities,590,570,67,9.5,63,71,blue,155,no answer,female,480
+Stats for Humanities,650,770,75,12,64,73,green,205,PS,male,481
+Stats for Humanities,610,600,67,8.5,64,72,green,145,no answer,female,482
+Stats for Humanities,770,780,60,7,63,68,orange,105,PSY,female,483
+Stats for Science,730,720,75,14,64,72,blue,210,no answer,male,484
+Stats for Science,600,600,65,7,64,70,green,116,no answer,female,485
+Stats for Humanities,510,490,66,8.5,62,74,blue,130,EDUC,female,486
+Stats for Humanities,640,620,66,9,65,72,pink,145,no answer,female,487
+Stats for Humanities,610,610,63,10,63,68,green,145,no answer,female,488
+Stats for Humanities,610,600,71,12,67,72,red,195,no answer,male,489
+Stats for Humanities,600,720,64,7,64,74,black,115,ECON,female,490
+Stats for Humanities,400,600,75,12.5,65,70,orange,232,PHARM,male,491
+Stats for Humanities,670,740,68,11,65,70,blue,250,ENGWRT,female,492
+Stats for Humanities,560,630,64,7.5,67,72,purple,118,HRS,female,493
+Stats for Humanities,450,480,71,12,62,74,blue,225,ENGWRT,male,494
+Stats for Humanities,500,550,67,10.5,64,68,blue,174,INFOSCI,male,495
+Stats for Humanities,620,620,72,11,67,68,orange,158,ECON,male,496
+Stats for Humanities,550,550,77,12,65,69,blue,215,PHARM,male,497
+Stats for Humanities,620,530,69,10.5,66,66,orange,185,no answer,male,498
+Stats for Humanities,640,570,72,10,67,71,orange,165,SOCWRK,male,499
+Stats for Humanities,540,560,64,7,70,68,pink,127,no answer,female,500
+Stats for Humanities,630,670,61,5,61,70,pink,108,ENGCMP,female,501
+Stats for Humanities,600,550,73,12,64,72,blue,150,PSY,male,502
+Stats for Humanities,530,550,64,5.5,63,72,pink,123,HRS,female,503
+Stats for Humanities,600,550,63,8,62,71,red,140,PSY,female,504
+Stats for Humanities,720,650,64,8,62,70,pink,128,no answer,female,505
+Stats for Humanities,600,600,72,12,70,67,blue,166,HIST,male,506
+Stats for Humanities,600,710,71,10.5,66,73,yellow,220,HIST,male,507
+Stats for Humanities,480,580,66,7.5,65,70,orange,132,EDUC,female,508
+Stats for Humanities,680,730,66,9.5,64,73,blue,170,NURS,female,509
+Stats for Humanities,560,630,67,8,62,74,green,140,SOC,female,510
+Stats for Humanities,620,640,73,12,69,70,red,155,no answer,male,511
+Stats for Humanities,780,700,70,11,64,69,red,145,CS,male,512
+Stats for Humanities,550,550,74,7,63,71,green,126,NURS,female,513
+Stats for Humanities,550,550,75,12,66,74,green,155,INFOSCI,male,514
+Stats for Humanities,710,650,64,7,62,69,blue,160,PSY,female,515
+Stats for Humanities,610,710,68,9.5,64,71,green,150,FILMST,male,516
+Stats for Humanities,610,580,69,9.5,61,68,purple,177,ENGLIT,male,517
+Stats for Humanities,690,740,65,8.5,64,68,pink,135,no answer,female,518
+Stats for Humanities,600,600,67,9,70,70,pink,165,no answer,female,519
+Stats for Humanities,500,570,62,7,63,68,blue,125,no answer,female,520
+Stats for Humanities,600,680,64,7,66,72,pink,115,no answer,female,521
+Stats for Humanities,650,600,70,11,66,72,green,160,PSY,male,522
+Stats for Humanities,690,670,66,9,66,71,pink,175,PSY,female,523
+Stats for Humanities,430,620,69,9,70,73,purple,165,ENGLIT,female,524
+Stats for Humanities,630,650,73,13,71,74,black,233,PHARM,male,525
+Stats for Humanities,540,540,63,7,64,66,blue,105,no answer,female,526
+Stats for Humanities,540,540,73,11,68,69,green,190,no answer,male,527
+Stats for Humanities,490,560,69,9,64,67,blue,155,no answer,male,528
+Stats for Humanities,680,670,65,8,58,65,orange,125,SOC,male,529
+Stats for Humanities,620,570,69,8,68,77,blue,148,PSY,female,530
+Stats for Humanities,580,690,63,7.5,68,68,blue,161,no answer,female,531
+Stats for Humanities,590,650,66,6.5,67,70,blue,109,no answer,female,532
+Stats for Humanities,560,550,64,7.5,65,70,red,140,no answer,female,533
+Stats for Humanities,450,600,62,7.5,63,68,green,120,SOCWRK,female,534
+Stats for Humanities,620,560,67,9,66,67,orange,151,PSY,male,535
+Stats for Humanities,590,610,63,6.5,63,68,pink,123,PSY,female,536
+Stats for Humanities,500,500,67,10,67,70,pink,140,PSY,female,537
+Stats for Humanities,610,610,63,6,64,69,pink,105,no answer,female,538
+Stats for Humanities,560,710,70,9.5,68,72,blue,137,ENGLIT,female,539
+Stats for Humanities,720,480,63,7.5,62,67,pink,125,PHARM,female,540
+Stats for Humanities,640,520,73,14,66,67,orange,275,no answer,male,541
+Stats for Humanities,600,650,62,7,68,72,pink,109,HRS,female,542
+Stats for Humanities,440,430,70,9,64,73,purple,160,SOCWRK,female,543
+Stats for Humanities,590,610,63,7.5,65,70,pink,120,HIST,female,544
+Stats for Humanities,600,620,73,11.5,69,72,yellow,170,no answer,male,545
+Stats for Humanities,610,630,67,8,63,72,blue,150,no answer,female,546
+Stats for Humanities,580,630,60,7,62,69,green,103,PHARM,female,547
+Stats for Humanities,560,620,70,10,64,71,green,145,HIST,male,548
+Stats for Humanities,650,690,64,8.5,66,72,purple,135,PHARM,female,549
+Stats for Humanities,400,600,63,7.5,62,70,blue,120,PSY,female,550
+Business Stats,620,720,76,12,70,72,blue,175,ENGLIT,male,551
+Stats for Humanities,700,570,63,8,62,67,blue,112,MATH,female,552
+Stats for Humanities,700,550,68,11,62,72,orange,130,BIOSC,female,553
+Stats for Humanities,620,600,64,8.5,60,73,pink,138,no answer,female,554
+Stats for Humanities,550,600,70,11,61,74,red,195,PS,male,555
+Stats for Humanities,740,690,64,10,60,74,black,215,PHARM,female,556
+Stats for Humanities,650,790,67,8.5,67,73,blue,135,BIOSC,female,557
+Stats for Humanities,620,650,75,11.5,67,72,blue,230,PS,male,558
+Stats for Humanities,500,500,62,8,61,71,orange,115,COMMRC,female,559
+Business Stats,740,710,68,10.5,63,74,yellow,170,no answer,male,560
+Business Stats,670,640,66,8.5,66,70,pink,136,BUS,female,561
+Business Stats,500,700,71,12,70,69,blue,212,BUS,male,562
+Business Stats,680,600,70,11.5,66,70,green,167,BUS,male,563
+Business Stats,550,550,62,6,62,73,black,112,BUS,female,564
+Business Stats,670,620,70,10.5,66,69,blue,190,BUS,male,565
+Business Stats,550,500,63,6.5,64,72,yellow,120,BUS,female,566
+Business Stats,600,550,66,9,65,65,pink,148,no answer,male,567
+Business Stats,640,510,68,11,67,70,red,160,BUS,male,568
+Business Stats,640,570,70,9.5,64,71,blue,140,BUS,male,569
+Business Stats,650,530,63,7,61,71,blue,115,no answer,female,570
+Business Stats,680,600,64,8.5,63,68,blue,130,BUS,female,571
+Business Stats,600,620,68,9,66,72,blue,145,BUS,male,572
+Business Stats,600,540,74,13,72,71,red,190,BUS,male,573
+Business Stats,620,610,79,15,71,76,orange,240,BUS,male,574
+Business Stats,590,620,61,7,69,73,green,115,BUS,female,575
+Business Stats,720,690,72,11.5,69,70,red,172,BUS,male,576
+Business Stats,710,620,59,6,67,67,green,105,no answer,female,577
+Business Stats,550,540,64,9,60,71,pink,145,BUS,female,578
+Business Stats,620,640,72,12.5,68,70,blue,175,no answer,male,579
+Business Stats,650,660,66,8.5,71,71,pink,145,no answer,female,580
+Business Stats,710,640,72,10,65,71,blue,155,BUS,male,581
+Business Stats,530,560,69,10,68,70,red,135,no answer,female,582
+Business Stats,670,640,70,10.5,67,70,green,145,BUS,male,583
+Business Stats,680,600,71,11.5,68,73,green,165,HIST,male,584
+Business Stats,620,600,73,11.5,61,71,blue,175,ECON,male,585
+Business Stats,610,510,67,7,64,73,black,118,BUS,female,586
+Business Stats,560,580,69,10.5,67,66,blue,195,no answer,male,587
+Business Stats,690,720,62,7.5,65,70,green,160,no answer,female,588
+Business Stats,620,560,74,11,71,72,blue,166,no answer,male,589
+Business Stats,730,660,71,8,67,67,blue,160,CS,male,590
+Business Stats,690,760,70,11,64,71,blue,162,ECON,male,591
+Stats for Science,660,640,63,7.5,63,65,blue,120,MED,female,592
+Stats for Science,600,600,71,11,65,68,blue,145,BIOSC,male,593
+Stats for Science,750,760,71,11,63,70,green,180,CS,male,594
+Stats for Humanities,590,600,60,7,63,70,pink,120,no answer,female,595
+Stats for Science,540,720,66,10,62,66,purple,160,no answer,female,596
+Stats for Science,600,730,66,8.5,68,71,blue,125,no answer,female,597
+Stats for Science,610,680,67,8,64,71,pink,115,PSY,female,598
+Stats for Science,620,590,79,8.5,63,70,pink,120,PSY,female,599
+Stats for Science,650,560,68,10.5,63,68,green,210,MATH,male,600
+Stats for Science,550,550,70,9,71,75,green,170,PSY,female,601
+Stats for Science,620,590,65,8.5,64,73,black,137,no answer,female,602
+Stats for Science,640,520,65,8,64,70,purple,140,BIOSC,female,603
+Stats for Humanities,540,710,67,9,66,74,purple,190,SPAN,female,604
+Stats for Humanities,600,600,64,7.5,63,69,green,108,NURS,female,605
+Stats for Humanities,610,640,70,8.5,64,75,blue,125,INFOSCI,male,606
+Stats for Humanities,620,710,67,11.5,61,71,blue,160,no answer,male,607
+Stats for Humanities,640,600,70,9,64,66,blue,145,HIST,male,608
+Stats for Humanities,580,620,64,8.5,57,70,blue,166,no answer,female,609
+Stats for Humanities,600,520,66,6,65,69,blue,120,no answer,female,610
+Stats for Humanities,670,520,66,9.5,63,73,blue,180,no answer,female,611
+Stats for Humanities,610,700,69,8.5,64,75,black,150,no answer,female,612
+Stats for Humanities,660,680,65,8.5,65,72,purple,128,no answer,female,613
+Stats for Humanities,550,550,66,9,64,71,red,145,no answer,female,614
+Stats for Humanities,780,600,67,7.5,63,68,pink,115,PHARM,female,615
+Stats for Humanities,580,440,70,10,64,68,blue,150,HRS,male,616
+Stats for Humanities,560,690,69,9.5,72,72,blue,140,HRS,female,617
+Stats for Humanities,610,550,67,8.5,62,66,red,155,COMMRC,male,618
+Stats for Humanities,500,600,67,9,67,69,purple,155,no answer,female,619
+Stats for Humanities,650,680,71,11,67,73,green,183,SPAN,male,620
+Stats for Humanities,660,660,70,11,65,69,blue,150,INFOSCI,male,621
+Stats for Humanities,570,590,67,7,62,70,blue,124,no answer,female,622
+Stats for Humanities,600,600,61,7,63,66,black,102,no answer,female,623
+Stats for Humanities,400,550,68,8,64,69,blue,140,HRS,male,624
+Stats for Humanities,400,450,64,9,65,69,pink,140,COMMRC,female,625
+Stats for Humanities,550,630,75,13,64,71,blue,165,PSY,male,626
+Stats for Humanities,480,620,61,6.5,59,70,green,96,no answer,female,627
+Stats for Humanities,500,500,72,12,68,70,blue,190,PSY,male,628
+Stats for Humanities,640,710,69,12,65,73,black,176,GER,male,629
+Stats for Humanities,540,680,68,7,62,70,blue,138,ENGWRT,female,630
+Stats for Humanities,700,500,64,10.5,63,63,blue,125,PHARM,female,631
+Stats for Humanities,600,650,74,13,67,75,orange,175,HIST,male,632
+Stats for Humanities,600,600,84,11.5,66,70,green,200,PSY,female,633
+Stats for Humanities,450,620,65,8,64,69,red,119,no answer,female,634
+Stats for Humanities,490,530,66,9,65,69,blue,150,HRS,female,635
+Stats for Humanities,400,400,73,12.5,66,75,orange,160,SOC,male,636
+Stats for Humanities,670,550,63,7,61,69,blue,115,no answer,female,637
+Stats for Humanities,520,680,73,12,70,69,blue,188,HRS,male,638
+Stats for Humanities,520,520,69,11,63,69,purple,170,COMMRC,male,639
+Stats for Humanities,630,570,65,9,62,73,pink,175,no answer,female,640
+Stats for Humanities,630,670,67,9,65,69,blue,180,HIST,female,641
+Stats for Humanities,520,560,62,6.5,63,66,green,130,no answer,female,642
+Stats for Humanities,590,610,68,11,60,65,blue,135,no answer,male,643
+Stats for Humanities,620,600,71,10,67,74,pink,170,HRS,female,644
+Stats for Humanities,500,800,63,7.5,65,67,pink,120,no answer,female,645
+Stats for Humanities,700,600,64,7.5,60,68,black,99,PHARM,female,646
+Stats for Humanities,640,610,64,7,66,69,pink,115,HRS,female,647
+Stats for Humanities,560,680,67,9.5,66,71,yellow,135,no answer,female,648
+Stats for Humanities,600,600,68,9,64,75,black,160,ANTH,female,649
+Stats for Humanities,610,600,62,6,64,70,pink,125,PS,female,650
+Stats for Humanities,620,580,67,9,70,70,pink,160,no answer,female,651
+Stats for Humanities,600,540,67,10,65,66,black,125,PHARM,male,652
+Stats for Humanities,680,620,70,10.5,66,68,blue,135,no answer,male,653
+Stats for Humanities,610,610,61,6.5,63,70,green,130,HRS,female,654
+Stats for Humanities,610,620,65,7.5,68,72,green,131,PHARM,female,655
+Stats for Humanities,600,570,63,8.5,62,69,green,120,no answer,female,656
+Stats for Humanities,650,630,67,10,66,71,pink,138,PHARM,female,657
+Stats for Humanities,600,670,73,11,67,70,green,250,no answer,male,658
+Stats for Humanities,630,600,60,5,67,71,pink,120,no answer,female,659
+Stats for Humanities,550,600,74,13,67,68,yellow,230,HIST,male,660
+Stats for Humanities,620,620,73,11,67,72,red,175,FILMST,male,661
+Stats for Humanities,540,470,73,11,68,74,blue,170,BIOSC,male,662
+Stats for Humanities,680,680,63,8.5,64,67,black,132,no answer,female,663
+Stats for Humanities,450,550,67,10,66,73,black,185,HRS,female,664
+Stats for Humanities,650,650,67,7.5,59,69,red,120,PHARM,female,665
+Stats for Humanities,550,600,63,6.5,64,68,black,135,no answer,female,666
+Stats for Humanities,650,650,64,7.5,59,74,pink,115,no answer,female,667
+Stats for Humanities,600,500,73,12,66,76,black,235,INFOSCI,male,668
+Stats for Humanities,430,530,68,9.5,69,70,blue,145,no answer,female,669
+Stats for Humanities,700,770,63,7.5,62,70,green,160,no answer,female,670
+Stats for Humanities,670,710,70,10.5,64,68,blue,158,PHARM,male,671
+Stats for Humanities,520,410,58,5.5,65,66,blue,119,no answer,female,672
+Stats for Humanities,700,620,70,10.5,66,73,green,170,no answer,male,673
+Stats for Humanities,500,600,74,12,66,74,black,160,SOCWRK,male,674
+Stats for Humanities,760,670,74,12,63,71,red,210,no answer,male,675
+Stats for Humanities,520,650,65,10,60,65,red,150,PSY,male,676
+Stats for Humanities,640,650,72,14,67,70,green,260,no answer,male,677
+Stats for Humanities,640,500,69,8.5,61,69,blue,172,EDUC,male,678
+Stats for Humanities,600,500,69,12.5,68,69,green,185,INFOSCI,male,679
+Stats for Humanities,610,640,72,10.5,66,71,blue,200,ECON,male,680
+Stats for Humanities,640,660,67,10.5,61,69,purple,161,no answer,male,681
+Stats for Humanities,600,350,63,7.5,61,62,blue,120,no answer,female,682
+Stats for Humanities,680,510,72,12,68,72,blue,195,MATH,male,683
+Stats for Humanities,590,590,65,9.5,70,71,red,112,PSY,female,684
+Stats for Humanities,520,580,62,7,60,66,green,115,no answer,female,685
+Stats for Humanities,670,800,70,11,66,71,green,135,no answer,male,686
+Stats for Humanities,660,580,67,10.5,65,68,blue,125,HRS,male,687
+Stats for Humanities,630,610,63,8,62,69,blue,123,no answer,female,688
+Stats for Humanities,620,670,73,11,65,71,red,182,ENGWRT,male,689
+Stats for Humanities,670,540,65,9,69,69,purple,125,no answer,female,690
+Stats for Humanities,600,630,72,12,64,70,black,225,HRS,male,691
+Stats for Humanities,750,550,67,10.5,68,67,green,130,PSY,female,692
+Stats for Humanities,630,610,65,9,66,73,purple,125,THEA,female,693
+Stats for Humanities,620,550,67,10,69,71,blue,130,PS,female,694
+Stats for Humanities,500,500,65,9,65,70,purple,125,SOC,female,695
+Stats for Humanities,550,670,61,8.5,66,74,blue,105,no answer,female,696
+Stats for Humanities,500,800,64,7.5,67,74,purple,107,ENGLIT,female,697
+Stats for Humanities,670,650,66,7.5,64,77,blue,122,PSY,female,698
+Business Stats,610,650,68,10,66,72,blue,140,no answer,male,699
+Business Stats,710,600,73,10.5,66,72,blue,160,BUS,male,700
+Business Stats,720,500,75,13,70,72,pink,215,BUS,male,701
+Business Stats,720,720,72,13,69,72,green,205,no answer,male,702
+Business Stats,710,700,64,9,65,73,pink,103,BUS,female,703
+Business Stats,730,680,69,12.5,60,72,green,180,BUS,male,704
+Business Stats,600,550,68,7.5,65,70,black,140,BUS,female,705
+Business Stats,610,640,71,9.5,67,71,blue,155,no answer,male,706
+Business Stats,590,590,66,8.5,66,70,pink,140,no answer,female,707
+Business Stats,560,540,64,8.5,63,68,blue,160,BUS,female,708
+Business Stats,650,610,73,12.5,67,72,blue,181,BUS,male,709
+Business Stats,510,570,70,12,68,69,black,175,no answer,male,710
+Business Stats,630,600,71,10.5,67,72,green,190,BUS,male,711
+Business Stats,670,760,61,6,58,63,blue,85,BUS,female,712
+Business Stats,610,590,72,11,68,77,black,165,BUS,male,713
+Business Stats,630,470,72,10.5,64,73,blue,195,no answer,male,714
+Business Stats,540,530,64,7,65,67,red,107,HIST,female,715
+Business Stats,650,600,71,11,67,72,yellow,142,no answer,male,716
+Business Stats,730,500,71,10.5,62,69,blue,155,BUS,male,717
+Business Stats,500,560,69,10,68,69,blue,160,no answer,female,718
+Business Stats,710,580,75,13.5,63,70,blue,200,BUS,male,719
+Business Stats,730,720,66,10,67,70,blue,140,BUS,female,720
+Business Stats,630,510,71,11.5,67,70,blue,145,BUS,male,721
+Business Stats,760,700,70,10,67,73,blue,150,no answer,female,722
+Business Stats,700,660,63,7.5,64,73,green,120,no answer,female,723
+Business Stats,720,620,74,12,67,70,orange,168,no answer,male,724
+Business Stats,600,530,63,7,62,72,pink,135,no answer,female,725
+Business Stats,680,450,68,10,63,71,blue,155,SPAN,male,726
+Business Stats,640,460,71,11,68,71,orange,170,BUS,male,727
+Business Stats,580,560,72,11.5,65,74,blue,171,BUS,male,728
+Business Stats,570,560,69,10,64,68,red,175,BUS,male,729
+Business Stats,740,640,65,8.5,65,68,yellow,117,no answer,female,730
+Business Stats,550,550,72,13.5,62,72,green,175,BUS,male,731
+Business Stats,580,470,73,11,64,72,red,170,BUS,male,732
+Business Stats,780,720,73,10.5,65,72,red,150,BUS,male,733
+Business Stats,620,600,66,7.5,64,71,blue,140,no answer,female,734
+Business Stats,600,590,64,7.5,63,73,pink,125,BUS,female,735
+Business Stats,500,600,74,11.5,66,72,red,170,BUS,male,736
+Business Stats,760,610,61,6.5,62,65,yellow,95,no answer,female,737
+Business Stats,600,540,74,13,66,73,red,175,no answer,male,738
+Business Stats,570,430,75,13,70,72,blue,183,BUS,male,739
+Business Stats,700,400,65,9,64,71,green,145,no answer,female,740
+Stats for Humanities,670,650,64,8,64,71,pink,120,no answer,female,741
+Stats for Humanities,540,650,65,8,63,68,pink,118,PSY,female,742
+Stats for Humanities,650,550,66,10,68,71,yellow,135,no answer,female,743
+Stats for Humanities,540,650,64,8.5,63,77,blue,140,no answer,female,744
+Stats for Humanities,500,600,65,8.5,66,73,blue,130,COMMRC,female,745
+Stats for Humanities,640,620,73,11.5,61,71,green,186,no answer,male,746
+Stats for Humanities,720,630,60,6,60,66,red,105,PHARM,female,747
+Stats for Humanities,600,550,67,14,64,66,red,180,PSY,male,748
+Stats for Humanities,480,540,63,7.5,60,73,pink,130,HIST,female,749
+Stats for Humanities,580,570,72,10,65,75,green,145,PUBHLT,female,750
+Stats for Science,490,530,63,8.5,64,71,green,150,SA,female,751
+Stats for Humanities,600,610,64,6.5,62,71,red,110,HRS,female,752
+Stats for Humanities,640,550,62,8,62,68,blue,124,PSY,female,753
+Stats for Humanities,570,630,72,10.5,66,69,green,150,no answer,male,754
+Stats for Humanities,590,550,69,10.5,65,69,pink,165,HRS,female,755
+Stats for Humanities,740,750,72,10.5,65,70,green,160,PHARM,male,756
+Stats for Humanities,650,530,63,7.5,63,70,green,132,PHARM,female,757
+Stats for Humanities,640,660,65,8,62,71,pink,140,no answer,female,758
+Stats for Humanities,620,630,64,8,63,71,pink,130,PSY,female,759
+Stats for Humanities,600,550,62,7,63,69,green,105,NURS,female,760
+Stats for Humanities,680,470,72,11.5,67,69,green,155,PHYS,male,761
+Stats for Humanities,620,560,65,7.5,64,72,green,127,PHARM,female,762
+Stats for Humanities,700,570,64,8,62,68,blue,111,no answer,female,763
+Stats for Humanities,500,740,65,10.5,62,75,pink,267,PSY,female,764
+Stats for Humanities,600,490,74,12.5,61,68,orange,219,PHARM,male,765
+Stats for Humanities,620,650,70,8,61,73,blue,153,no answer,male,766
+Stats for Humanities,640,610,65,7.5,60,68,pink,115,no answer,female,767
+Stats for Humanities,500,600,69,10.5,67,68,green,155,no answer,male,768
+Stats for Humanities,580,580,69,9.5,67,75,green,140,PSY,female,769
+Stats for Humanities,640,540,65,10.5,63,77,blue,170,HRS,female,770
+Stats for Humanities,740,710,66,9,69,72,pink,168,no answer,female,771
+Stats for Humanities,700,590,62,7.5,64,65,pink,135,no answer,female,772
+Stats for Humanities,600,620,68,8.5,67,72,green,140,no answer,female,773
+Stats for Humanities,610,620,66,8,64,68,green,140,no answer,female,774
+Stats for Humanities,650,630,70,12,62,73,green,210,no answer,male,775
+Stats for Humanities,660,520,66,8,70,68,red,135,no answer,female,776
+Stats for Humanities,630,570,65,8.5,61,68,yellow,125,PHARM,female,777
+Stats for Humanities,550,600,71,11,69,69,green,159,SOC,female,778
+Stats for Humanities,650,640,70,10.5,66,69,blue,169,no answer,male,779
+Stats for Humanities,580,560,70,11,64,67,blue,145,PHARM,male,780
+Stats for Humanities,670,470,65,7,63,70,blue,120,PSY,female,781
+Stats for Humanities,640,620,63,6,65,72,blue,117,MED,female,782
+Stats for Humanities,480,400,71,12,69,70,blue,205,HIST,male,783
+Stats for Humanities,600,640,72,12,66,73,orange,180,FILMST,male,784
+Stats for Humanities,590,640,68,9.5,64,73,pink,136,no answer,female,785
+Stats for Humanities,600,500,64,8,62,68,yellow,102,no answer,female,786
+Stats for Humanities,610,540,66,8,71,71,red,125,NURS,female,787
+Stats for Humanities,640,610,61,7,60,66,purple,101,PHARM,female,788
+Stats for Humanities,600,620,77,13,67,72,blue,200,no answer,male,789
+Stats for Humanities,640,600,68,9.5,61,67,blue,145,HIST,male,790
+Stats for Humanities,700,510,67,10,64,71,blue,160,EDUC,male,791
+Stats for Humanities,700,700,71,11,64,68,black,164,no answer,male,792
+Stats for Humanities,450,600,68,10,65,68,black,155,PSY,male,793
+Stats for Humanities,570,520,72,12,62,68,red,220,HIST,male,794
+Stats for Humanities,550,600,63,8,64,73,pink,115,no answer,female,795
+Stats for Humanities,540,620,67,8.5,66,68,orange,184,ECON,female,796
+Stats for Humanities,525,495,65,7,64,70,purple,105,PSY,female,797
+Stats for Humanities,750,690,63,7.5,63,70,blue,115,HRS,female,798
+Stats for Humanities,570,590,67,9,65,74,blue,150,ENGWRT,female,799
+Business Stats,500,460,66,10,62,69,blue,170,BUS,male,800
+Business Stats,740,690,67,7.5,64,74,blue,130,no answer,female,801
+Business Stats,680,500,74,11.5,66,71,blue,165,no answer,male,802
+Business Stats,600,590,72,11,69,70,green,185,no answer,male,803
+Business Stats,620,540,69,11,64,70,red,180,no answer,male,804
+Stats for Humanities,610,710,74,12.5,70,71,blue,185,no answer,male,805
+Business Stats,600,570,70,11,66,74,blue,215,no answer,male,806
+Business Stats,650,700,65,11.5,63,68,red,163,no answer,male,807
+Business Stats,660,540,73,12,67,68,blue,164,BUS,male,808
+Business Stats,600,500,68,11,65,70,blue,160,BUS,male,809
+Business Stats,450,500,62,7.5,62,75,pink,109,no answer,female,810
+Business Stats,650,600,72,13,65,70,blue,200,no answer,male,811
+Business Stats,680,660,70,11.5,68,70,orange,180,no answer,male,812
+Business Stats,600,600,71,11.5,68,73,red,180,no answer,male,813
+Business Stats,600,540,68,8,70,69,blue,122,BUS,female,814
+Business Stats,590,590,62,6.5,64,70,purple,120,BUS,female,815
+Business Stats,675,485,65,6.5,65,67,yellow,105,BUS,female,816
+Business Stats,640,570,71,11.5,62,69,blue,255,no answer,male,817
+Business Stats,630,570,69,10,66,69,blue,140,BUS,male,818
+Business Stats,580,480,73,11.5,65,70,blue,185,BUS,male,819
+Business Stats,630,580,65,9.5,60,68,orange,138,PSY,male,820
+Business Stats,800,730,73,11.5,69,75,blue,240,BUS,male,821
+Business Stats,560,560,70,11.5,64,72,blue,140,BUS,male,822
+Business Stats,540,560,69,9.5,64,71,green,145,no answer,male,823
+Business Stats,760,700,61,7,64,68,pink,120,BUS,female,824
+Business Stats,400,600,65,8,64,70,blue,125,BUS,female,825
+Business Stats,610,590,71,13,68,66,green,200,BUS,male,826
+Business Stats,580,410,74,11,66,72,blue,150,BUS,male,827
+Business Stats,625,650,61,5,70,78,purple,105,BUS,female,828
+Business Stats,630,590,66,10.5,68,66,blue,145,BUS,male,829
+Business Stats,650,610,65,7.5,67,73,pink,121,no answer,female,830
+Business Stats,610,600,65,8,67,71,blue,118,BUS,female,831
+Business Stats,620,680,64,8.5,62,71,blue,128,ENGLIT,female,832
+Business Stats,560,600,71,11,70,70,blue,190,no answer,male,833
+Business Stats,570,440,64,7,60,69,blue,125,no answer,female,834
+Business Stats,760,630,75,12.5,69,82,orange,160,no answer,male,835
+Business Stats,580,540,72,11,63,73,black,171,ENGWRT,male,836
+Business Stats,660,560,71,11,67,75,blue,165,BUS,male,837
+Business Stats,600,400,72,11,66,71,blue,160,no answer,male,838
+Business Stats,520,400,62,8,63,74,purple,135,BUS,female,839
+Business Stats,510,480,71,14,64,70,blue,160,BUS,male,840
+Business Stats,650,650,70,11.5,66,71,red,165,BUS,male,841
+Business Stats,540,560,74,12,67,71,blue,186,no answer,male,842
+Business Stats,660,660,71,10,64,69,orange,155,ECON,male,843
+Business Stats,580,570,72,10.5,68,69,blue,160,no answer,male,844
+Business Stats,690,640,66,12,62,74,yellow,140,ECON,male,845
+Business Stats,580,450,72,13,62,71,blue,230,BUS,male,846
+Business Stats,620,730,75,12,65,72,blue,245,ENGWRT,male,847
+Business Stats,700,600,70,10.5,64,71,blue,175,BUS,male,848
+Business Stats,650,510,71,11.5,67,75,blue,180,BUS,male,849
+Stats for Science,670,490,62,7.5,65,68,orange,115,PSY,female,850
+Business Stats,700,750,70,11,67,73,red,153,PS,male,851
+Business Stats,640,690,72,12.5,61,74,blue,155,no answer,male,852
+Business Stats,650,530,64,7.5,66,72,purple,115,BUS,female,853
+Business Stats,590,640,72,12,66,71,orange,200,BUS,male,854
+Business Stats,610,610,62,8,67,65,pink,126,BUS,female,855
+Business Stats,600,560,66,8,67,66,pink,115,BUS,female,856
+Business Stats,690,670,65,7.5,64,70,blue,125,BUS,female,857
+Stats for Science,570,560,64,8,60,71,pink,115,COMMRC,female,858
+Business Stats,550,550,68,9,66,66,red,140,BUS,male,859
+Business Stats,570,570,70,10,66,67,blue,195,BUS,male,860
+Business Stats,550,500,66,7.5,63,72,pink,140,BUS,female,861
+Business Stats,650,540,66,7.5,60,73,pink,140,PSY,female,862
+Business Stats,540,570,63,8,63,72,red,115,no answer,female,863
+Business Stats,660,700,75,11.5,66,74,blue,175,ECON,male,864
+Business Stats,580,520,64,7.5,62,68,pink,115,PSY,female,865
+Business Stats,620,580,68,9,60,70,green,165,no answer,male,866
+Business Stats,590,650,65,8,68,71,blue,125,no answer,female,867
+Business Stats,540,590,68,10.5,64,67,pink,135,no answer,male,868
+Business Stats,760,660,68,11,67,67,green,162,ECON,male,869
+Business Stats,620,600,67,10.5,62,69,green,135,no answer,male,870
+Business Stats,650,650,66,9,67,71,blue,132,MATH,female,871
+Stats for Humanities,510,600,72,11.5,63,75,black,171,PSY,male,872
+Stats for Humanities,400,750,61,7.5,62,70,blue,145,RELGST,female,873
+Stats for Humanities,800,620,69,10.5,62,69,yellow,170,no answer,male,874
+Stats for Humanities,680,640,67,11,60,66,blue,180,no answer,male,875
+Stats for Humanities,630,500,74,11.5,65,71,green,168,no answer,male,876
+Stats for Humanities,650,710,67,5.5,66,75,pink,124,no answer,female,877
+Stats for Humanities,700,700,69,11,63,69,green,185,no answer,male,878
+Business Stats,740,660,75,13,63,76,black,165,BUS,male,879
+Stats for Humanities,670,600,65,9,63,70,green,125,PHARM,female,880
+Stats for Humanities,650,650,69,10.5,61,76,yellow,148,no answer,male,881
+Stats for Humanities,580,580,63,8,64,70,red,125,no answer,female,882
+Stats for Humanities,610,530,76,13,68,73,green,230,PSY,male,883
+Stats for Humanities,620,560,61,7.5,60,70,red,145,no answer,female,884
+Stats for Humanities,670,550,73,12,67,72,blue,205,no answer,male,885
+Stats for Humanities,660,620,70,9.5,66,70,blue,165,no answer,male,886
+Stats for Humanities,650,540,66,8.5,65,74,pink,132,no answer,female,887
+Stats for Humanities,620,650,62,6.5,63,68,pink,100,no answer,female,888
+Stats for Humanities,550,550,63,6,67,72,pink,127,no answer,female,889
+Stats for Humanities,610,680,75,13,66,72,green,170,no answer,male,890
+Stats for Humanities,670,660,63,7,61,68,blue,120,no answer,female,891
+Stats for Humanities,660,590,68,10.5,67,76,blue,270,no answer,female,892
+Stats for Humanities,580,680,62,8,63,68,orange,130,no answer,female,893
+Stats for Humanities,520,490,65,9,64,69,black,140,no answer,female,894
+Stats for Humanities,570,610,75,13,65,74,blue,180,no answer,male,895
+Stats for Humanities,620,610,66,8,64,69,green,132,no answer,female,896
+Stats for Humanities,590,680,70,8.5,62,68,black,165,no answer,male,897
+Stats for Humanities,540,540,66,9.5,68,73,yellow,135,PHARM,female,898
+Stats for Humanities,600,620,73,13,68,70,black,235,PS,male,899
+Stats for Humanities,670,560,68,9.5,65,69,red,146,no answer,male,900
+Stats for Humanities,460,430,69,11,65,70,green,175,HRS,male,901
+Stats for Humanities,300,400,59,6,66,67,blue,95,no answer,female,902
+Stats for Humanities,710,730,68,10.5,62,67,blue,140,PSY,male,903
+Stats for Humanities,560,580,61,6,63,72,green,107,no answer,female,904
+Stats for Humanities,380,660,70,10,63,69,green,150,no answer,male,905
+Stats for Humanities,490,600,63,8.5,66,72,blue,160,SPAN,female,906
+Stats for Humanities,650,540,71,10.5,65,72,blue,165,MATH,male,907
+Stats for Humanities,650,600,73,11.5,69,74,blue,170,PSY,male,908
+Stats for Humanities,630,630,74,9.5,71,75,black,155,PSY,male,909
+Stats for Humanities,670,730,61,6,63,65,blue,93,PHARM,female,910
+Stats for Humanities,680,710,62,7.5,62,65,pink,107,no answer,female,911
+Stats for Humanities,550,660,70,8.5,65,75,blue,123,no answer,female,912
+Stats for Humanities,740,710,62,7.5,61,70,pink,128,PHARM,female,913
+Stats for Humanities,500,610,70,11.5,69,71,green,210,HIST,male,914
+Stats for Humanities,640,670,67,9.5,60,75,green,176,SOC,female,915
+Stats for Humanities,590,600,67,9.5,62,74,blue,140,no answer,female,916
+Stats for Humanities,630,610,66,9,64,70,red,128,no answer,male,917
+Stats for Humanities,660,520,71,10.5,67,69,red,145,PHARM,male,918
+Stats for Humanities,480,690,71,11.5,65,71,blue,250,ECON,male,919
+Stats for Humanities,530,560,74,11,66,68,blue,181,no answer,male,920
+Stats for Humanities,700,620,67,10,66,73,yellow,145,no answer,female,921
+Stats for Humanities,620,600,62,6.5,63,70,blue,110,HRS,female,922
+Stats for Humanities,600,570,68,9.5,66,70,blue,122,HIST,male,923
+Stats for Humanities,710,640,64,7,62,69,blue,160,no answer,female,924
+Stats for Humanities,470,530,64,8,64,71,pink,163,no answer,female,925
+Stats for Humanities,520,500,69,9,67,69,yellow,152,no answer,female,926
+Stats for Humanities,480,460,69,9.5,64,67,black,171,no answer,male,927
+Stats for Humanities,540,460,67,8.5,64,70,red,145,no answer,female,928
+Stats for Humanities,530,480,68,10,66,66,blue,168,PSY,male,929
+Stats for Humanities,600,550,67,10.5,59,68,green,148,PS,male,930
+Stats for Humanities,620,570,65,8.5,67,71,black,155,no answer,female,931
+Stats for Humanities,710,690,63,7.5,61,71,pink,124,PHARM,female,932
+Stats for Humanities,720,690,67,8,65,68,pink,120,PHARM,female,933
+Stats for Humanities,700,550,67,8.5,65,71,pink,130,no answer,female,934
+Stats for Humanities,600,650,66,9,62,72,green,155,no answer,female,935
+Stats for Humanities,540,550,63,6.5,62,70,black,115,SPAN,female,936
+Stats for Humanities,620,590,69,9.5,61,71,blue,180,no answer,male,937
+Stats for Humanities,690,720,64,8.5,64,69,green,110,PHARM,female,938
+Stats for Humanities,510,500,65,7.5,66,74,blue,126,no answer,female,939
+Stats for Humanities,460,500,66,10,67,72,blue,130,PHARM,female,940
+Stats for Humanities,700,580,67,11,60,65,blue,190,no answer,male,941
+Stats for Humanities,730,620,63,8,63,71,blue,125,NURS,female,942
+Stats for Humanities,500,500,71,10,65,67,black,190,no answer,male,943
+Stats for Science,550,400,67,9.5,64,67,green,165,CS,male,944
+Stats for Science,590,540,67,8.5,64,72,blue,140,NROSCI,female,945
+Stats for Science,620,610,62,10,65,69,blue,123,no answer,female,946
+Stats for Science,540,520,66,7,65,70,green,125,BIOSC,female,947
+Stats for Science,760,800,71,13,61,68,blue,170,CS,male,948
+Stats for Science,700,600,71,11.5,68,70,black,200,PHYS,male,949
+Stats for Science,610,540,67,10.5,62,73,blue,165,no answer,male,950
+Stats for Science,700,700,61,6,61,67,green,110,no answer,female,951
+Stats for Science,740,770,72,12,68,71,green,150,no answer,male,952
+Stats for Science,650,480,64,8.5,62,70,pink,150,no answer,female,953
+Stats for Science,500,500,62,9,59,73,red,130,no answer,female,954
+Stats for Science,650,540,65,8,64,74,blue,150,PSY,female,955
+Stats for Science,610,570,67,9,68,69,purple,125,no answer,female,956
+Stats for Science,630,680,60,7,62,66,pink,95,NROSCI,female,957
+Stats for Science,540,600,65,8.5,65,74,blue,118,no answer,female,958
+Stats for Science,540,600,74,13.5,68,72,blue,240,CS,male,959
+Stats for Science,710,650,68,10,63,66,red,145,CS,male,960
+Stats for Science,680,670,62,6,64,68,blue,118,no answer,female,961
+Stats for Science,620,660,61,6,62,70,yellow,130,no answer,female,962
+Stats for Science,650,590,68,9.5,65,73,blue,150,no answer,female,963
+Stats for Science,680,620,55,8.5,55,58,blue,135,PHARM,female,964
+Stats for Science,650,520,60,7.5,62,67,blue,115,no answer,female,965
+Stats for Science,620,500,68,9.5,63,72,green,130,no answer,female,966
+Stats for Humanities,670,690,69,9.5,64,66,blue,160,no answer,male,967
+Stats for Science,610,570,67,10,63,69,blue,210,CS,male,968
+Stats for Science,570,600,66,8,65,66,blue,130,no answer,female,969
+Stats for Science,600,700,59,7,63,65,orange,110,no answer,female,970
+Stats for Science,470,490,61,7,60,70,pink,108,PSY,female,971
+Stats for Science,560,570,66,8.5,64,71,purple,138,BIOSC,female,972
+Stats for Science,630,620,64,8,66,71,green,130,no answer,female,973
+Stats for Science,630,590,65,8,62,75,yellow,138,PS,female,974
+Stats for Science,620,700,63,7.5,60,67,red,120,no answer,female,975
+Stats for Science,650,560,65,10,66,67,blue,190,no answer,female,976
+Stats for Science,670,640,69,10,62,68,blue,149,no answer,male,977
+Stats for Science,700,730,59,6.5,60,64,blue,105,no answer,female,978
+Stats for Science,510,520,72,11,66,72,orange,180,PSY,male,979
+Stats for Science,650,480,72,10.5,64,68,green,225,CS,male,980
+Stats for Science,600,540,61,7,58,72,blue,94,no answer,female,981
+Stats for Science,590,620,63,7.5,63,71,blue,115,BIOSC,female,982
+Stats for Science,720,660,62,8,64,67,blue,149,HIST,female,983
+Stats for Science,610,610,66,7.5,66,70,blue,130,no answer,female,984
+Stats for Science,630,670,64,7.5,65,70,blue,146,PSY,female,985
+Stats for Science,530,600,64,6.5,68,67,pink,135,no answer,female,986
+Stats for Science,660,520,66,9,62,70,blue,140,no answer,male,987
+Stats for Science,580,610,69,11,60,65,blue,145,no answer,male,988
+Stats for Science,610,610,67,8.5,69,71,blue,135,no answer,female,989
+Stats for Science,680,650,69,10,64,69,yellow,145,no answer,male,990
+Stats for Science,600,550,69,9.5,64,73,blue,158,BIOSC,male,991
+Stats for Science,710,690,64,7.5,70,72,red,117,no answer,female,992
+Stats for Science,710,690,64,7.5,70,72,red,117,no answer,female,993
+Stats for Science,580,620,66,8.5,65,73,red,135,no answer,female,994
+Stats for Science,530,490,69,9,69,73,pink,133,PHARM,female,995
+Stats for Science,670,510,72,11.5,64,70,green,175,no answer,male,996
+Stats for Science,550,580,70,10,64,67,blue,200,no answer,male,997
+Stats for Science,640,640,73,11.5,68,69,blue,210,no answer,male,998
+Stats for Science,640,720,60,6.5,64,70,blue,102,BIOSC,female,999
+Stats for Science,670,610,70,11,64,69,green,180,GEOL,male,1000
+Stats for Science,680,600,65,7.5,64,72,pink,143,PHARM,female,1001
+Stats for Science,580,560,67,7.5,68,75,blue,135,BIOSC,female,1002
+Stats for Science,620,520,64,7.5,65,69,pink,127,no answer,female,1003
+Stats for Science,650,640,65,8,68,70,purple,140,BIOSC,female,1004
+Stats for Science,690,700,73,13,67,75,blue,195,no answer,male,1005
+Stats for Science,580,600,76,13,63,71,blue,235,PSY,male,1006
+Stats for Humanities,450,490,63,7,60,73,orange,156,no answer,female,1007
+Stats for Humanities,600,600,66,8,61,71,green,120,no answer,female,1008
+Stats for Humanities,550,600,66,7.5,63,68,pink,125,no answer,female,1009
+Stats for Humanities,560,540,65,9,64,74,pink,140,no answer,female,1010
+Stats for Humanities,590,540,63,8,63,69,green,135,PHARM,female,1011
+Stats for Humanities,660,550,66,9.5,70,75,purple,152,no answer,female,1012
+Stats for Humanities,630,590,64,7,64,72,green,140,HRS,female,1013
+Stats for Humanities,520,640,72,11.5,67,76,purple,260,PSY,male,1014
+Stats for Humanities,510,500,64,9,64,73,yellow,124,PSY,female,1015
+Stats for Humanities,590,600,64,9,65,71,green,140,ENGWRT,female,1016
+Stats for Humanities,700,670,65,9.5,63,70,pink,171,PHARM,female,1017
+Stats for Humanities,620,700,67,7.5,60,75,green,116,PSY,female,1018
+Stats for Humanities,560,600,63,8,62,71,purple,145,BIOSC,female,1019
+Stats for Humanities,600,650,65,8.5,67,71,yellow,150,no answer,female,1020
+Stats for Humanities,590,620,62,6.5,65,70,red,145,PSY,female,1021
+Stats for Humanities,580,580,63,6.5,63,70,blue,125,HRS,female,1022
+Stats for Humanities,470,630,67,9,62,74,blue,139,PSY,female,1023
+Stats for Humanities,610,540,62,8.5,60,70,green,140,no answer,female,1024
+Stats for Humanities,700,700,66,8.5,60,67,green,145,CS,male,1025
+Stats for Humanities,580,550,68,8,68,72,blue,150,NURS,female,1026
+Stats for Humanities,500,500,71,10,64,71,black,215,no answer,male,1027
+Stats for Humanities,500,520,64,9.5,66,66,purple,150,NURS,female,1028
+Stats for Humanities,550,500,75,12,64,73,blue,178,INFOSCI,male,1029
+Stats for Humanities,680,620,70,10.5,63,68,red,174,PHARM,male,1030
+Stats for Humanities,500,520,67,10.5,66,69,blue,180,NURS,male,1031
+Stats for Humanities,580,560,76,14,69,69,blue,270,ECON,male,1032
+Stats for Humanities,710,690,59,5,63,65,black,99,no answer,female,1033
+Stats for Humanities,650,550,73,13,65,68,blue,165,no answer,male,1034
+Stats for Humanities,650,640,66,8,65,70,black,155,PHARM,female,1035
+Stats for Humanities,600,620,62,5.5,65,65,green,114,CHEM,female,1036
+Stats for Humanities,590,500,60,7,61,72,blue,150,ECON,female,1037
+Stats for Humanities,550,550,70,11,66,73,black,140,PSY,male,1038
+Stats for Humanities,590,540,69,9.5,64,73,purple,135,HRS,female,1039
+Stats for Humanities,530,500,65,8.5,60,67,black,132,no answer,female,1040
+Stats for Humanities,610,590,72,10.5,67,72,red,160,no answer,male,1041
+Stats for Humanities,560,540,65,7.5,65,70,pink,125,no answer,female,1042
+Stats for Humanities,580,690,69,9.5,65,71,blue,130,NURS,female,1043
+Stats for Humanities,550,550,65,7.5,64,68,pink,118,ENGLIT,female,1044
+Stats for Humanities,650,770,66,8,65,67,blue,120,no answer,female,1045
+Stats for Humanities,600,650,67,8.5,65,72,blue,125,ENGLIT,female,1046
+Stats for Humanities,570,550,62,7,65,74,green,125,BIOSC,female,1047
+Stats for Humanities,710,680,67,9.5,61,74,yellow,125,PHARM,female,1048
+Stats for Humanities,690,510,74,13.5,63,69,orange,200,no answer,male,1049
+Stats for Humanities,540,680,63,7.5,63,70,pink,125,no answer,female,1050
+Stats for Humanities,560,610,63,8,63,72,orange,120,SA,female,1051
+Stats for Humanities,580,640,65,10,63,70,blue,150,no answer,female,1052
+Stats for Humanities,540,620,64,6,60,71,green,112,EDUC,female,1053
+Stats for Humanities,610,640,67,8.5,68,71,green,145,PSY,female,1054
+Stats for Humanities,610,610,62,9,63,70,pink,220,no answer,female,1055
+Stats for Humanities,620,600,62,7.5,64,70,pink,120,MATH,female,1056
+Stats for Humanities,670,670,72,13,63,71,blue,175,PHARM,male,1057
+Stats for Humanities,550,500,60,6,61,67,pink,98,no answer,female,1058
+Stats for Humanities,600,550,63,6,63,70,pink,108,no answer,female,1059
+Stats for Humanities,590,570,71,11,62,77,blue,165,ENGLIT,male,1060
+Stats for Science,640,570,75,14,63,76,blue,195,BIOSC,male,1061
+Stats for Humanities,560,530,64,9,64,69,pink,135,no answer,female,1062
+Stats for Humanities,650,640,73,12.5,64,73,black,225,no answer,male,1063
+Stats for Humanities,590,590,68,8,67,71,blue,122,FR,female,1064
+Stats for Humanities,500,580,76,6.5,73,69,green,128,PSY,female,1065
+Stats for Humanities,670,640,66,8.5,67,70,pink,140,no answer,female,1066
+Stats for Humanities,650,550,64,10.5,61,72,black,122,FILMST,male,1067
+Stats for Humanities,640,500,60,5.5,61,69,green,108,NURS,female,1068
+Stats for Humanities,630,630,67,8,66,71,red,145,THEA,female,1069
+Stats for Humanities,660,640,74,14,65,75,blue,165,no answer,male,1070
+Stats for Humanities,610,620,62,6.5,61,68,green,110,no answer,female,1071
+Stats for Humanities,530,590,61,7,64,69,green,103,NURS,female,1072
+Stats for Humanities,590,520,73,12,63,74,green,178,PSY,male,1073
+Stats for Humanities,550,650,68,8,65,74,purple,130,no answer,female,1074
+Stats for Humanities,460,460,62,6.5,64,69,pink,115,NURS,female,1075
+Stats for Humanities,510,590,65,7.5,61,69,blue,118,EDUC,female,1076
+Stats for Humanities,500,500,64,7.5,64,71,blue,115,HRS,female,1077
+Stats for Humanities,560,580,68,9.5,66,71,blue,125,no answer,female,1078
+Stats for Humanities,570,600,64,8.5,63,70,green,155,no answer,female,1079
+Business Stats,630,550,61,8.5,64,69,blue,115,no answer,female,1080
+Business Stats,730,600,64,8,65,69,blue,101,no answer,female,1081
+Business Stats,580,550,56,10,59,59,purple,141,BUS,female,1082
+Business Stats,600,600,72,13,66,72,blue,155,BUS,male,1083
+Business Stats,690,610,68,9,64,69,red,151,no answer,male,1084
+Business Stats,510,510,76,14.5,68,74,blue,245,ECON,male,1085
+Business Stats,690,580,65,8.5,62,72,blue,140,no answer,female,1086
+Business Stats,600,700,63,8,59,66,blue,104,no answer,female,1087
+Business Stats,670,520,71,10,63,71,blue,145,MATH,male,1088
+Business Stats,660,660,60,6,62,69,green,112,no answer,female,1089
+Business Stats,690,690,70,11,66,57,blue,235,no answer,male,1090
+Business Stats,500,500,71,10.5,65,70,blue,175,BUS,male,1091
+Business Stats,590,580,70,9.5,71,73,blue,142,no answer,female,1092
+Business Stats,630,650,68,9,64,71,yellow,135,no answer,female,1093
+Business Stats,540,560,66,9,67,73,pink,124,no answer,female,1094
+Business Stats,640,540,68,11.5,64,72,green,150,BUS,male,1095
+Business Stats,600,580,72,10.5,68,71,blue,165,no answer,male,1096
+Business Stats,610,710,63,8.5,66,73,yellow,120,BUS,female,1097
+Stats for Humanities,680,560,71,12,65,70,green,169,BUS,male,1098
+Business Stats,800,690,68,9,66,70,black,150,FILMST,male,1099
+Business Stats,610,530,66,8,61,67,red,135,no answer,male,1100
+Business Stats,705,210,68,8.5,64,69,blue,166,ECON,male,1101
+Business Stats,590,600,62,7.5,61,64,blue,135,no answer,male,1102
+Business Stats,650,550,70,10,67,74,red,155,MATH,female,1103
+Business Stats,570,580,72,11,67,69,black,160,no answer,male,1104
+Business Stats,600,690,64,7,67,71,blue,135,no answer,female,1105
+Business Stats,600,600,70,9,65,74,blue,130,NURS,female,1106
+Business Stats,500,450,66,8,60,72,red,140,no answer,female,1107
+Stats for Humanities,600,520,68,9,68,71,blue,125,NURS,female,1108
+Stats for Humanities,600,500,60,6.5,62,69,pink,95,HRS,female,1109
+Stats for Humanities,670,690,66,9,62,71,blue,145,no answer,male,1110
+Stats for Humanities,550,600,69,10,68,74,blue,160,NURS,female,1111
+Stats for Humanities,590,580,69,10,64,71,black,185,no answer,male,1112
+Stats for Humanities,600,600,65,8,68,70,red,118,NURS,female,1113
+Stats for Humanities,550,600,62,7.5,62,72,blue,125,NURS,female,1114
+Stats for Humanities,520,480,70,10,63,72,blue,203,INFOSCI,male,1115
+Stats for Humanities,650,700,65,9.5,61,72,purple,190,PSY,female,1116
+Stats for Humanities,650,640,65,7,64,67,blue,128,NURS,female,1117
+Stats for Humanities,500,500,74,13,66,70,yellow,165,CS,male,1118
+Stats for Humanities,600,590,64,6.5,67,68,blue,130,EDUC,female,1119
+Stats for Humanities,680,660,72,10,66,72,yellow,145,no answer,male,1120
+Stats for Humanities,680,540,62,7.5,62,71,purple,130,NURS,female,1121
+Stats for Humanities,600,630,64,8.5,68,69,pink,183,no answer,female,1122
+Stats for Humanities,580,560,63,6,64,73,pink,115,PS,female,1123
+Stats for Humanities,630,640,62,6.5,62,69,blue,150,no answer,female,1124
+Stats for Humanities,720,630,63,8.5,64,71,blue,130,NURS,female,1125
+Stats for Humanities,590,630,72,10.5,68,70,red,135,no answer,male,1126
+Stats for Humanities,600,670,70,9.5,67,73,blue,155,NURS,female,1127
+Stats for Humanities,580,600,73,12,67,67,red,280,PS,male,1128
+Stats for Humanities,550,540,64,8.5,67,67,purple,140,NURS,female,1129
+Stats for Humanities,550,490,75,15,68,74,blue,203,NURS,male,1130
+Stats for Humanities,500,560,65,10,68,67,black,168,NURS,female,1131
+Stats for Humanities,590,700,64,7,62,65,green,123,NURS,female,1132
+Stats for Humanities,500,600,60,7,62,72,yellow,110,HIST,female,1133
+Stats for Humanities,600,550,63,7.5,60,68,blue,120,PSY,female,1134
+Stats for Humanities,530,650,66,9.5,70,73,blue,160,NURS,female,1135
+Stats for Humanities,600,550,63,7.5,60,68,blue,120,PSY,female,1136
+Stats for Humanities,590,540,68,9.5,62,72,blue,142,HA&A,male,1137
+Stats for Humanities,590,640,64,7.5,69,70,purple,140,NURS,female,1138
+Stats for Humanities,700,690,70,10,70,74,orange,158,no answer,female,1139
+Stats for Humanities,560,580,68,9.5,63,69,red,138,NURS,male,1140
+Stats for Humanities,680,560,69,10.5,65,69,green,175,FILMST,male,1141
+Stats for Science,620,520,66,8,66,70,pink,130,NURS,female,1142
+Stats for Humanities,600,510,62,7,64,66,purple,115,NURS,female,1143
+Stats for Humanities,660,800,66,9.5,64,72,red,145,no answer,female,1144
+Stats for Humanities,520,680,66,8,63,71,green,144,NURS,female,1145
+Stats for Humanities,560,630,67,9,64,73,pink,150,NURS,female,1146
+Stats for Humanities,730,610,74,13,65,71,green,210,GENS,male,1147
+Stats for Humanities,590,540,75,12,66,69,red,190,PIA,male,1148
+Stats for Humanities,650,600,67,10.5,64,72,blue,175,EDUC,male,1149
+Stats for Humanities,600,570,66,9,65,73,purple,184,no answer,female,1150
+Stats for Humanities,500,500,62,6,61,68,pink,110,NURS,female,1151
+Stats for Humanities,550,600,62,7.5,65,66,green,180,NURS,female,1152
+Stats for Humanities,510,500,63,8.5,60,66,blue,128,NURS,female,1153
+Stats for Humanities,510,500,66,7.5,64,72,red,150,NURS,female,1154
+Stats for Humanities,420,520,66,8.5,64,70,purple,142,NURS,female,1155
+Stats for Humanities,610,500,68,9.5,63,74,black,152,NURS,female,1156
+Business Stats,520,600,64,7.5,63,72,blue,135,COMMRC,female,1157
+Business Stats,530,550,63,6.5,66,70,red,127,BUS,female,1158
+Business Stats,640,590,71,11.5,63,69,blue,175,ECON,male,1159
+Business Stats,710,610,61,8,66,71,black,120,no answer,female,1160
+Business Stats,650,500,68,11,63,69,blue,150,no answer,male,1161
+Business Stats,680,660,73,13,66,72,red,150,no answer,male,1162
+Business Stats,600,600,64,8,63,71,blue,130,no answer,female,1163
+Business Stats,550,550,63,6,61,69,purple,140,no answer,female,1164
+Business Stats,760,640,67,10.5,63,70,orange,150,BUS,male,1165
+Business Stats,580,640,67,9,63,68,pink,150,BUS,female,1166
+Business Stats,680,530,75,12,64,73,blue,180,BUS,male,1167
+Business Stats,670,630,77,14,64,74,red,190,BUS,male,1168
+Stats for Humanities,500,550,69,11.5,68,68,green,160,BUS,male,1169
+Business Stats,640,600,67,9.5,64,67,blue,165,BUS,male,1170
+Business Stats,620,580,65,7.5,67,68,red,145,no answer,female,1171
+Business Stats,650,570,70,10,62,70,blue,155,BUS,male,1172
+Business Stats,720,620,72,13,64,69,blue,180,no answer,male,1173
+Business Stats,620,590,63,8.5,65,69,blue,130,no answer,female,1174
+Business Stats,720,640,59,5,61,66,green,95,no answer,female,1175
+Stats for Humanities,670,500,71,10.5,66,72,green,187,ENGLIT,male,1176
+Business Stats,650,600,65,8,66,72,red,115,BUS,female,1177
+Business Stats,710,570,68,11.5,66,67,red,150,CS,male,1178
+Business Stats,670,670,66,7.5,63,71,yellow,123,no answer,female,1179
+Business Stats,650,660,65,9,66,69,green,127,no answer,female,1180
+Business Stats,720,580,70,13,62,73,blue,165,BUS,male,1181
+Business Stats,700,600,68,11,61,72,blue,170,BUS,male,1182
+Stats for Humanities,780,690,75,13,64,72,blue,189,no answer,male,1183
+Business Stats,640,650,67,9,67,71,pink,145,no answer,female,1184
+Business Stats,560,580,68,9,63,71,green,140,no answer,female,1185
+Business Stats,630,630,72,11,68,70,blue,147,no answer,male,1186
+Business Stats,530,680,66,9.5,64,74,black,150,no answer,female,1187
+Business Stats,660,420,66,9.5,68,72,green,165,MATH,female,1188
+Business Stats,620,640,63,6,61,68,pink,152,BUS,female,1189
+Stats for Humanities,450,500,66,7,62,75,red,110,PSY,female,1190
+Stats for Humanities,400,520,68,9.5,66,71,pink,168,PSY,female,1191
+Stats for Humanities,490,520,64,8,65,68,blue,125,ANTH,female,1192
+Stats for Humanities,450,430,69,11.5,64,67,blue,192,PSY,male,1193
+Stats for Humanities,520,600,65,8.5,65,72,blue,128,no answer,female,1194
+Stats for Humanities,630,640,70,10,64,73,blue,170,HIST,male,1195
+Stats for Humanities,560,580,69,8,66,73,yellow,142,no answer,female,1196
+Stats for Humanities,500,500,69,11,65,70,red,175,no answer,male,1197
+Stats for Humanities,570,570,65,7.5,63,65,blue,145,HIST,male,1198
+Stats for Humanities,530,530,63,6,64,71,red,110,NURS,female,1199
+Stats for Humanities,660,600,67,9,63,68,black,142,no answer,female,1200
+Stats for Humanities,570,620,70,9,70,76,blue,140,PSY,female,1201
+Stats for Humanities,640,470,71,13,65,67,blue,210,no answer,male,1202
+Stats for Humanities,660,650,65,9,63,68,blue,135,no answer,female,1203
+Stats for Humanities,550,580,68,10.5,64,68,blue,145,no answer,male,1204
+Stats for Humanities,560,660,67,8,65,72,pink,135,no answer,female,1205
+Stats for Humanities,600,790,69,9.5,66,72,green,164,PSY,female,1206
+Stats for Humanities,560,640,71,10,69,74,green,175,PS,female,1207
+Stats for Humanities,550,660,64,8,62,74,blue,120,no answer,female,1208
+Stats for Humanities,600,560,63,6.5,61,74,blue,103,no answer,female,1209
+Stats for Humanities,540,560,67,8.5,66,72,red,150,HRS,female,1210
+Stats for Humanities,540,540,65,8,64,67,green,130,no answer,female,1211
+Stats for Humanities,600,620,64,5,66,68,pink,140,no answer,female,1212
+Stats for Humanities,670,640,74,12,64,73,blue,175,no answer,male,1213
+Stats for Humanities,680,550,64,7,63,69,yellow,135,PHARM,female,1214
+Stats for Humanities,400,400,71,12,65,71,black,150,MUSIC,male,1215
+Stats for Humanities,450,430,69,11,66,67,blue,172,no answer,male,1216
+Stats for Humanities,660,630,69,9,63,69,green,120,SOC,male,1217
+Stats for Humanities,620,630,68,9.5,69,68,red,160,no answer,female,1218
+Stats for Humanities,720,720,71,13,62,74,green,190,no answer,male,1219
+Stats for Humanities,660,660,63,8,63,72,blue,111,no answer,female,1220
+Stats for Humanities,680,520,64,8,64,70,blue,150,PHARM,female,1221
+Stats for Humanities,580,580,71,10.5,63,71,blue,183,PS,male,1222
+Stats for Humanities,710,730,69,11,65,71,purple,185,no answer,female,1223
+Stats for Humanities,560,600,70,10.5,67,71,orange,220,no answer,male,1224
+Stats for Humanities,560,530,59,5,59,67,purple,100,PHARM,female,1225
+Stats for Humanities,690,650,62,6.5,63,68,red,120,no answer,female,1226
+Stats for Humanities,740,800,64,9,63,72,red,200,LING,female,1227
+Stats for Humanities,710,730,71,10.5,67,76,green,155,no answer,female,1228
+Stats for Humanities,700,730,70,10.5,62,71,blue,168,BIOSC,male,1229
+Stats for Humanities,650,610,67,9.5,63,71,green,130,HRS,female,1230
+Stats for Humanities,580,530,59,7,63,67,red,100,no answer,female,1231
+Stats for Humanities,500,550,63,7,65,69,blue,110,no answer,female,1232
+Stats for Humanities,660,690,75,11.5,67,67,orange,170,no answer,male,1233
+Stats for Humanities,650,600,63,10.5,64,65,purple,230,no answer,female,1234
+Stats for Humanities,490,510,66,8.5,65,66,green,128,no answer,female,1235
+Stats for Humanities,460,530,67,7.5,68,69,pink,140,PSY,female,1236
+Stats for Humanities,680,700,70,10,69,72,purple,139,PHARM,female,1237
+Stats for Humanities,680,660,70,8.5,68,71,blue,140,no answer,female,1238
+Stats for Humanities,590,600,62,7,71,70,red,125,no answer,female,1239
+Stats for Humanities,560,680,65,8,65,70,purple,140,HIST,female,1240
+Stats for Humanities,530,530,74,11,66,68,green,160,no answer,male,1241
+Stats for Humanities,670,550,72,12,66,69,blue,154,no answer,male,1242
+Stats for Humanities,540,600,66,8,62,72,purple,112,PHARM,female,1243
+Stats for Humanities,550,540,66,10,62,68,blue,180,no answer,female,1244
+Stats for Humanities,580,580,67,8.5,65,71,blue,142,EDUC,female,1245
+Stats for Humanities,520,710,64,8.5,66,72,pink,106,no answer,female,1246
+Stats for Humanities,610,750,69,9.5,65,66,blue,155,no answer,male,1247
+Stats for Humanities,590,600,66,10,64,78,red,165,SPAN,female,1248
+Stats for Humanities,680,680,62,6,63,66,purple,120,no answer,female,1249
+Stats for Humanities,480,480,68,10.5,64,67,blue,188,SOC,male,1250
+Stats for Humanities,690,600,65,8,65,72,blue,160,PSY,female,1251
+Stats for Humanities,610,600,65,6,64,76,purple,130,PHARM,female,1252
+Stats for Humanities,550,510,75,16,67,71,blue,255,PSY,male,1253
+Stats for Humanities,550,650,70,10,68,71,blue,180,PHARM,female,1254
+Stats for Humanities,450,520,61,8,66,67,pink,146,PSY,female,1255
+Stats for Humanities,640,650,64,9,67,72,green,165,no answer,female,1256
+Stats for Science,780,610,64,7.5,63,68,green,172,STAT,female,1257
+Stats for Science,610,540,63,7,62,69,purple,105,no answer,female,1258
+Stats for Science,610,680,68,10.5,68,74,green,220,BIOSC,female,1259
+Stats for Science,680,400,66,8.5,67,68,yellow,140,no answer,female,1260
+Stats for Science,620,670,67,9.5,63,69,blue,140,INFOSCI,male,1261
+Stats for Humanities,670,640,68,8,72,75,red,215,no answer,female,1262
+Stats for Science,630,720,68,8,65,67,blue,120,NROSCI,male,1263
+Stats for Science,700,770,74,12,68,72,blue,142,no answer,male,1264
+Stats for Science,590,520,69,11,65,69,blue,250,CS,female,1265
+Stats for Science,620,630,70,9.5,65,69,black,147,no answer,male,1266
+Stats for Science,550,480,79,15,66,73,blue,250,no answer,male,1267
+Stats for Science,680,660,61,7.5,60,67,black,103,CS,male,1268
+Stats for Science,590,700,67,9,61,71,green,125,no answer,male,1269
+Stats for Science,620,490,71,10.5,62,70,blue,138,CS,male,1270
+Stats for Science,650,670,62,7.5,64,69,blue,125,ANTH,female,1271
+Stats for Science,720,660,62,10,60,64,blue,128,no answer,male,1272
+Stats for Science,760,550,73,10,68,71,blue,135,PSY,female,1273
+Stats for Science,650,650,66,6,67,68,blue,130,no answer,female,1274
+Stats for Science,570,620,73,13,64,70,green,225,no answer,male,1275
+Stats for Science,520,610,64,8.5,64,70,blue,180,no answer,female,1276
+Stats for Science,710,450,69,9.5,64,66,blue,165,MATH,male,1277
+Stats for Science,650,530,70,9,63,71,blue,162,no answer,female,1278
+Stats for Science,680,580,72,11,63,73,green,212,BIOSC,male,1279
+Stats for Science,720,630,63,8,62,67,black,135,no answer,female,1280
+Stats for Science,680,620,69,10.5,66,65,red,157,no answer,male,1281
+Stats for Science,640,620,63,8.5,66,66,orange,130,ENGWRT,female,1282
+Stats for Science,690,710,63,7.5,62,69,orange,124,no answer,female,1283
+Stats for Science,590,580,65,9,65,71,blue,140,PSY,female,1284
+Stats for Science,580,580,70,11,63,72,blue,158,no answer,male,1285
+Stats for Science,650,590,67,9.5,64,72,pink,255,no answer,female,1286
+Stats for Science,540,560,63,8,64,70,pink,110,BIOSC,female,1287
+Stats for Science,590,460,69,9.5,67,76,blue,143,no answer,female,1288
+Stats for Science,600,560,67,8,65,68,purple,120,BIOSC,female,1289
+Stats for Science,500,590,69,10,68,72,black,165,HRS,male,1290
+Stats for Science,600,600,62,5.5,62,72,orange,113,no answer,female,1291
+Stats for Science,730,560,64,9,66,71,blue,175,ENGING,female,1292
+Stats for Science,550,540,62,7,63,69,green,112,CS,female,1293
+Business Stats,670,500,69,11,65,68,blue,170,no answer,male,1294
+Business Stats,620,640,65,7.5,68,69,purple,120,no answer,female,1295
+Business Stats,600,530,74,13,67,69,blue,190,no answer,male,1296
+Business Stats,700,480,67,11.5,64,67,blue,175,BUS,male,1297
+Stats for Science,650,540,72,12,64,75,blue,271,no answer,male,1298
+Stats for Science,580,540,70,12,65,73,orange,229,CS,male,1299
+Stats for Science,660,740,68,8.5,66,74,blue,150,no answer,female,1300
+Stats for Science,680,650,74,13,68,67,green,315,CS,male,1301
+Stats for Science,540,550,66,8.5,65,67,blue,172,PSY,female,1302
+Stats for Science,600,490,72,13,69,70,green,200,STAT,male,1303
+Stats for Science,650,650,69,9.5,63,73,blue,140,COMMRC,male,1304
+Stats for Science,540,520,66,8,66,70,pink,130,BIOSC,female,1305
+Stats for Science,550,560,71,11,66,75,red,196,ECON,male,1306
+Stats for Science,680,670,67,8,65,70,red,140,no answer,female,1307
+Business Stats,620,520,71,11,68,73,blue,185,no answer,male,1308
+Business Stats,590,590,69,9.5,66,75,blue,150,CS,male,1309
+Stats for Humanities,670,670,62,6.5,65,68,green,129,no answer,female,1310
+Business Stats,630,570,71,11,61,70,green,160,BUS,male,1311
+Business Stats,550,550,72,10,70,74,yellow,175,MATH,female,1312
+Business Stats,530,700,70,11,65,72,blue,165,no answer,male,1313
+Stats for Humanities,650,670,62,6.5,63,73,pink,130,no answer,female,1314
+Stats for Science,680,720,72,12,68,71,blue,201,PHARM,male,1315
+Stats for Science,750,760,69,12,64,67,blue,168,BIOSC,male,1316
+Stats for Science,650,490,72,10.5,61,71,blue,155,BIOSC,male,1317
+Stats for Science,590,580,69,11,67,69,blue,146,BIOSC,male,1318
+Stats for Science,600,580,70,9.5,66,72,black,180,no answer,male,1319
+Stats for Science,750,700,69,9,66,73,blue,125,PHARM,female,1320
+Stats for Science,480,530,75,12,64,73,green,175,SOC,male,1321
+Stats for Science,760,670,66,9,63,71,blue,155,no answer,male,1322
+Stats for Science,640,720,70,12,64,75,yellow,158,no answer,female,1323
+Stats for Science,680,590,64,7.5,63,68,blue,128,no answer,female,1324
+Stats for Science,570,570,65,7.5,63,72,green,126.5,no answer,female,1325
+Stats for Science,700,700,70,11,66,70,orange,165,PHARM,male,1326
+Stats for Science,700,750,66,9,65,71,blue,135,BIOSC,female,1327
+Stats for Science,650,650,68,9.5,69,71,blue,165,no answer,male,1328
+Stats for Science,780,680,74,12,69,68,blue,190,BIOSC,male,1329
+Stats for Science,520,580,63,7.5,66,68,blue,110,PSY,female,1330
+Stats for Science,720,640,72,10,60,73,green,145,no answer,male,1331
+Stats for Science,720,610,67,7.5,71,70,blue,135,MUSIC,female,1332
+Stats for Science,580,720,64,7.5,66,72,green,115,PSY,female,1333
+Stats for Science,500,600,62,7,63,67,black,140,no answer,female,1334
+Stats for Science,640,670,65,9,67,69,blue,130,no answer,female,1335
+Stats for Science,660,560,75,13,67,72,blue,220,NROSCI,male,1336
+Stats for Science,660,520,69,11.5,62,74,blue,160,CS,male,1337
+Stats for Science,670,570,60,6.5,62,67,blue,125,no answer,female,1338
+Stats for Science,560,560,68,8,66,72,blue,127,no answer,female,1339
+Stats for Science,700,530,68,9,65,68,blue,170,EDUC,male,1340
+Stats for Science,580,560,64,8,62,69,yellow,123,no answer,female,1341
+Stats for Humanities,720,670,66,10,65,73,green,140,PHARM,female,1342
+Stats for Humanities,580,500,67,10,64,71,purple,120,MATH,female,1343
+Stats for Humanities,570,640,70,9,59,67,blue,160,PS,male,1344
+Stats for Humanities,710,550,70,10.5,64,69,blue,145,no answer,male,1345
+Stats for Humanities,540,730,74,11,71,75,blue,135,CS,female,1346
+Stats for Humanities,680,660,71,10.5,66,72,blue,150,CHEM,male,1347
+Stats for Humanities,630,660,74,12,66,73,orange,195,no answer,male,1348
+Stats for Humanities,700,520,68,9.5,67,72,pink,133,PHARM,female,1349
+Stats for Humanities,700,720,66,8.5,66,70,black,119,ANTH,female,1350
+Stats for Humanities,550,490,70,11,65,73,red,155,PHARM,male,1351
+Stats for Humanities,710,600,62,6,63,70,orange,140,PHARM,female,1352
+Stats for Humanities,520,760,72,12,64,74,green,150,ENGWRT,male,1353
+Stats for Humanities,590,570,63,7.5,63,75,blue,133,no answer,female,1354
+Stats for Humanities,480,500,73,11,67,73,green,155,no answer,male,1355
+Stats for Humanities,520,590,60,6.5,61,71,blue,115,ANTH,female,1356
+Stats for Humanities,530,580,76,13.5,69,66,blue,183,PSY,male,1357
+Stats for Humanities,490,490,70,10.5,59,67,red,170,no answer,male,1358
+Stats for Science,650,550,60,5,69,69,red,90,no answer,female,1359
+Stats for Science,660,540,64,8.5,62,71,black,120,no answer,male,1360
+Stats for Humanities,540,600,64,9,68,72,yellow,150,EDUC,female,1361
+Stats for Science,600,580,65,8.5,65,69,red,125,no answer,female,1362
+Stats for Science,660,750,68,10.5,63,70,blue,195,no answer,male,1363
+Stats for Science,640,540,70,10.5,62,71,blue,142,ECON,male,1364
+Stats for Science,650,600,61,5.5,66,69,purple,115,BIOSC,female,1365
+Stats for Humanities,590,560,65,8.5,65,68,yellow,125,no answer,female,1366
+Stats for Science,770,640,67,9.5,65,73,purple,140,no answer,female,1367
+Stats for Humanities,650,600,68,9,70,73,green,145,no answer,female,1368
+Stats for Humanities,520,600,74,12,65,72,blue,185,no answer,male,1369
+Stats for Humanities,470,520,70,10.5,63,74,black,175,HIST,male,1370
+Stats for Humanities,620,640,68,10.5,63,72,blue,135,EDUC,male,1371
+Stats for Science,700,800,65,7.5,62,70,blue,125,no answer,female,1372
+Stats for Humanities,540,570,65,9,65,67,blue,130,PS,female,1373
+Stats for Humanities,400,600,71,11,63,72,green,215,ENGWRT,male,1374
+Stats for Science,700,650,73,11.5,69,71,green,120,no answer,male,1375
+Stats for Science,670,720,67,10,66,71,purple,153,NROSCI,female,1376
+Stats for Humanities,560,540,72,13,63,69,blue,195,HRS,male,1377
+Stats for Science,650,630,63,8,63,66,orange,128,PSY,female,1378
+Stats for Science,680,680,62,5,66,66,pink,110,BIOSC,female,1379
+Stats for Humanities,670,610,68,9,63,71,pink,150,no answer,female,1380
+Stats for Science,790,690,70,10.5,61,64,yellow,130,no answer,male,1381
+Stats for Science,650,700,62,7,62,70,blue,117,no answer,female,1382
+Stats for Humanities,550,620,64,7,62,72,blue,115,no answer,female,1383
+Stats for Science,730,580,73,13,63,73,orange,165,BIOSC,male,1384
+Stats for Science,650,520,67,10,69,67,blue,120,no answer,female,1385
+Stats for Humanities,680,550,68,8.5,68,69,orange,130,no answer,female,1386
+Stats for Humanities,540,550,57,5,62,68,blue,107,EDUC,female,1387
+Stats for Humanities,760,680,68,10,62,68,blue,153,no answer,male,1388
+Stats for Humanities,490,490,65,9.5,70,71,red,119,no answer,female,1389
+Stats for Science,720,740,71,13,63,75,blue,225,CS,male,1390
+Stats for Science,710,630,64,7.5,66,67,black,145,no answer,female,1391
+Stats for Science,710,550,67,7.5,68,68,blue,125,no answer,female,1392
+Stats for Science,670,600,64,9.5,63,71,pink,127,no answer,female,1393
+Stats for Science,670,590,68,10,66,72,green,163,no answer,female,1394
+Stats for Science,540,610,68,9,63,74,blue,175,no answer,female,1395
+Stats for Science,550,400,65,9,60,69,purple,135,PHARM,female,1396
+Stats for Science,740,750,69,11,66,72,green,175,no answer,male,1397
+Stats for Science,580,610,68,10,66,75,black,150,BIOSC,female,1398
+Stats for Humanities,600,540,70,9,66,69,blue,170,EDUC,male,1399
+Stats for Science,600,400,74,12,68,70,blue,255,MATH,male,1400
+Stats for Humanities,610,590,64,7.5,62,74,yellow,120,HRS,female,1401
+Stats for Science,710,635,66,9,69,68,orange,185,ENGING,female,1402
+Stats for Humanities,550,550,68,8,67,74,pink,135,PSY,female,1403
+Stats for Humanities,590,610,71,13,60,72,blue,142,PHARM,male,1404
+Stats for Humanities,620,490,59,6.5,62,70,purple,120,no answer,female,1405
+Stats for Humanities,650,610,73,12,63,72,yellow,195,no answer,male,1406
+Stats for Humanities,570,690,64,7,65,71,blue,118,no answer,female,1407
+Stats for Humanities,620,540,74,13,66,68,blue,160,no answer,male,1408
+Stats for Science,610,550,67,10,65,66,blue,170,no answer,male,1409
+Stats for Humanities,540,460,61,8,66,67,black,110,no answer,female,1410
+Stats for Humanities,610,580,61,6.5,61,69,green,103,PHARM,female,1411
+Stats for Humanities,580,600,74,10,65,69,green,200,HIST,male,1412
+Stats for Science,680,600,65,10,67,67,green,130,no answer,male,1413
+Stats for Science,750,430,69,12.5,63,62,blue,187,MATH,male,1414
+Stats for Humanities,570,600,74,11,68,78,purple,165,HA&A,female,1415
+Stats for Science,540,670,65,11,63,74,blue,145,no answer,female,1416
+Stats for Science,630,560,69,10.5,67,69,yellow,162,PSY,male,1417
+Stats for Humanities,600,550,62,8.5,62,70,red,138,SOCWRK,female,1418
+Stats for Science,540,660,67,9,66,71,blue,135,PUBHLT,male,1419
+Stats for Humanities,480,590,66,7.5,70,69,blue,120,HA&A,female,1420
+Stats for Science,620,530,63,7.5,59,65,green,110,PS,female,1421
+Stats for Humanities,570,500,73,12,63,73,green,175,PSY,male,1422
+Stats for Humanities,560,620,68,10,64,70,green,135,no answer,female,1423
+Stats for Science,570,560,65,9.5,62,70,pink,170,no answer,female,1424
+Stats for Science,350,600,70,12,64,73,blue,201,INFOSCI,male,1425
+Stats for Humanities,550,600,72,11,61,70,blue,150,HIST,male,1426
+Stats for Humanities,650,650,65,8,62,68,purple,165,no answer,female,1427
+Stats for Humanities,500,670,73,13,66,64,blue,185,HIST,male,1428
+Stats for Humanities,600,570,63,8.5,61,73,blue,160,no answer,female,1429
+Stats for Humanities,480,510,62,6,64,71,red,112,COMMRC,female,1430
+Stats for Humanities,600,600,67,8.5,66,69,purple,125,no answer,female,1431
+Stats for Humanities,660,510,74,13,68,74,blue,185,no answer,male,1432
+Stats for Humanities,480,490,65,8,62,67,blue,120,PSY,female,1433
+Stats for Humanities,705,555,73,12,66,73,blue,205,no answer,male,1434
+Stats for Humanities,510,500,70,9.5,66,72,pink,140,no answer,female,1435
+Stats for Humanities,710,670,74,11.5,66,81,blue,170,no answer,male,1436
+Stats for Humanities,560,600,66,8.5,64,72,purple,146,PSY,female,1437
+Stats for Humanities,540,540,68,11,62,69,black,190,HIST,male,1438
+Stats for Humanities,690,580,73,13,65,72,yellow,155,no answer,male,1439
+Stats for Humanities,300,400,65,8,64,66,black,130,PSY,female,1440
+Stats for Humanities,460,580,61,7.5,58,69,blue,167,PSY,female,1441
+Stats for Humanities,650,540,72,10.5,65,71,blue,195,HIST,male,1442
+Stats for Humanities,740,520,63,6,60,67,green,117,no answer,female,1443
+Stats for Humanities,580,800,65,7,68,72,red,110,PSY,female,1444
+Stats for Humanities,540,510,63,7,59,73,purple,110,SPAN,female,1445
+Stats for Humanities,580,520,62,6,62,75,purple,116,no answer,female,1446
+Stats for Humanities,570,500,68,8,67,64,black,150,no answer,female,1447
+Stats for Humanities,550,560,67,8.5,67,74,green,150,no answer,female,1448
+Stats for Humanities,540,670,65,8,66,70,green,135,PSY,female,1449
+Stats for Humanities,560,630,65,9.5,66,67,yellow,160,NURS,female,1450
+Stats for Humanities,500,500,67,8.5,70,70,blue,142,HIST,female,1451
+Stats for Humanities,600,600,70,10,66,71,blue,145,HRS,female,1452
+Stats for Humanities,510,530,64,9.5,64,70,purple,140,SOC,female,1453
+Stats for Humanities,570,500,69,12,65,74,blue,178,INFOSCI,male,1454
+Stats for Humanities,500,750,67,7.5,63,70,black,145,no answer,female,1455
+Stats for Humanities,600,500,66,9.5,62,65,blue,120,ENGWRT,female,1456
+Stats for Humanities,630,670,65,6,63,71,purple,100,no answer,female,1457
+Stats for Humanities,640,550,67,9,71,76,pink,130,MED,female,1458
+Stats for Humanities,500,650,70,10,64,72,blue,165,EDUC,male,1459
+Stats for Humanities,640,620,63,7.5,64,72,blue,115,no answer,female,1460
+Stats for Humanities,660,650,69,9.5,64,70,green,165,SOCWRK,female,1461
+Stats for Humanities,600,690,66,7.5,63,70,red,135,GEOL,female,1462
+Stats for Humanities,520,660,66,7.5,64,72,pink,125,no answer,female,1463
+Stats for Humanities,740,600,73,10,70,72,blue,172,BIOSC,male,1464
+Stats for Humanities,590,600,63,8.5,63,72,black,130,PHARM,female,1465
+Stats for Humanities,600,650,70,10.5,66,73,blue,140,no answer,male,1466
+Stats for Humanities,710,480,60,7,64,71,green,140,PHARM,female,1467
+Stats for Humanities,610,600,62,6,65,68,pink,100,no answer,female,1468
+Stats for Humanities,680,680,75,14,64,78,blue,290,BIOSC,male,1469
+Stats for Humanities,520,620,61,6.5,63,65,orange,120,no answer,female,1470
+Stats for Humanities,510,420,65,9.5,62,68,green,145,INFOSCI,male,1471
+Stats for Humanities,720,600,71,11,66,68,green,172,PHARM,male,1472
+Stats for Humanities,450,550,68,8,66,73,pink,130,SOC,female,1473
+Stats for Humanities,670,690,63,7.5,65,66,red,122,HRS,female,1474
+Stats for Humanities,520,490,68,8.5,67,71,blue,130,HRS,female,1475
+Stats for Humanities,550,530,67,9.5,67,73,blue,135,HRS,female,1476
+Stats for Humanities,620,620,67,9,65,68,pink,145,HIST,female,1477
+Stats for Humanities,690,530,68,10,63,70,blue,140,PSY,male,1478
+Stats for Humanities,660,580,64,10,60,68,green,146,HIST,male,1479
+Stats for Humanities,650,610,67,10,66,76,blue,185,PHARM,female,1480
+Stats for Humanities,510,500,65,8,66,71,blue,117,no answer,female,1481
+Stats for Humanities,630,630,70,11,66,66,black,270,no answer,male,1482
+Stats for Humanities,600,390,64,7.5,65,72,red,150,PS,female,1483
+Stats for Humanities,600,540,71,13,64,74,black,170,no answer,male,1484
+Stats for Humanities,590,610,66,9.5,66,72,pink,133,COMMRC,female,1485
+Stats for Humanities,580,600,70,10,68,71,yellow,118,no answer,male,1486
+Stats for Humanities,550,580,63,8.5,62,73,black,103,no answer,female,1487
+Stats for Humanities,560,540,72,10.5,66,70,blue,185,HRS,male,1488
+Stats for Humanities,400,700,74,12.5,67,72,blue,205,ENGLIT,male,1489
+Stats for Humanities,550,560,68,9,66,73,purple,154,HRS,female,1490
+Stats for Humanities,550,650,67,9,68,72,pink,200,ENGWRT,female,1491
+Stats for Humanities,450,650,64,6.5,62,68,red,107,ENGWRT,female,1492
+Stats for Humanities,640,590,66,10,67,76,blue,165,PSY,female,1493
+Stats for Humanities,480,500,64,8.5,63,65,blue,118,no answer,female,1494
+Stats for Humanities,400,420,61,7.5,63,66,blue,110,PSY,female,1495
+Stats for Humanities,670,540,61,6,64,67,pink,135,PSY,female,1496
+Stats for Humanities,640,780,63,8.5,64,69,red,120,ENGWRT,female,1497
+Stats for Humanities,620,570,66,8,63,74,purple,165,no answer,female,1498
+Stats for Humanities,580,540,70,9,66,70,green,160,COMMRC,male,1499
+Stats for Humanities,690,560,61,8.5,64,70,red,130,EDUC,female,1500
+Stats for Humanities,600,550,69,13,65,68,green,170,ECON,male,1501
+Stats for Humanities,540,580,64,9,67,67,blue,177,ENGWRT,female,1502
+Stats for Humanities,570,600,65,8.5,66,74,pink,105,no answer,female,1503
+Stats for Humanities,660,610,78,13,64,77,orange,160,no answer,male,1504
+Stats for Humanities,710,670,67,10,66,69,blue,130,no answer,female,1505
+Stats for Humanities,550,570,63,7,64,70,blue,125,EDUC,female,1506
+Stats for Humanities,530,620,64,8,63,72,blue,120,PSY,female,1507
+Stats for Humanities,640,680,63,7,59,72,green,113,no answer,female,1508
+Stats for Humanities,670,570,71,10,70,72,pink,140,no answer,female,1509
+Stats for Humanities,590,600,68,7.5,65,72,blue,135,no answer,female,1510
+Stats for Humanities,610,570,65,9,62,67,blue,145,PSY,male,1511
+Stats for Humanities,650,660,62,6.5,67,71,blue,104,INFOSCI,female,1512
+Stats for Humanities,500,520,67,9,62,73,red,145,EDUC,female,1513
+Stats for Humanities,580,460,73,12,68,66,blue,260,SOC,male,1514
+Stats for Humanities,600,450,65,9.5,64,70,purple,160,NURS,female,1515
+Stats for Humanities,530,650,67,11,61,69,pink,195,HIST,male,1516
+Stats for Humanities,600,310,64,6,64,69,purple,127,no answer,female,1517
+Stats for Humanities,500,650,65,9,59,71,blue,130,NURS,male,1518
+Stats for Humanities,610,610,74,12,67,74,blue,165,no answer,male,1519
+Stats for Humanities,580,600,62,7.5,59,72,blue,120,NURS,female,1520
+Stats for Humanities,580,550,75,14,71,73,blue,264,no answer,male,1521
+Stats for Humanities,670,570,68,8.5,61,67,blue,260,NURS,female,1522
+Stats for Humanities,550,620,70,12,66,69,blue,175,INFOSCI,male,1523
+Stats for Humanities,540,550,71,11,65,74,pink,180,COMMRC,female,1524
+Stats for Humanities,540,550,71,12,67,69,red,225,CHEM,male,1525
+Stats for Humanities,630,590,67,9,64,67,purple,150,no answer,female,1526
+Stats for Humanities,620,550,63,6.5,61,66,pink,115,no answer,female,1527
+Stats for Humanities,710,650,70,10,66,67,green,175,PHARM,male,1528
+Stats for Humanities,500,500,68,9.5,64,70,blue,125,no answer,female,1529
+Stats for Humanities,620,640,63,8,62,70,green,105,no answer,female,1530
+Stats for Humanities,580,690,72,12.5,64,72,green,215,no answer,male,1531
+Stats for Humanities,650,670,66,9.5,66,72,yellow,145,no answer,female,1532
+Stats for Humanities,650,560,64,9,64,70,blue,155,HRS,female,1533
+Stats for Humanities,540,540,64,8,63,71,red,130,no answer,female,1534
+Stats for Humanities,500,500,70,10,65,69,red,155,no answer,male,1535
+Stats for Humanities,620,560,70,12.5,66,72,blue,205,no answer,male,1536
+Stats for Humanities,580,540,68,10,66,75,blue,220,no answer,female,1537
+Stats for Humanities,560,560,70,11,63,75,yellow,165,PS,male,1538
+Stats for Humanities,680,500,71,11.5,66,66,black,155,INFOSCI,male,1539
+Stats for Humanities,650,610,63,7.5,62,70,green,130,no answer,female,1540
+Stats for Humanities,450,500,63,8.5,64,74,blue,250,no answer,female,1541
+Stats for Humanities,620,550,61,8,60,67,red,130,CHEM,female,1542
+Stats for Humanities,520,590,71,13,68,69,black,230,INFOSCI,male,1543
+Stats for Humanities,600,640,65,8,63,72,red,130,no answer,female,1544
+Stats for Humanities,630,620,67,9.5,64,71,pink,135,no answer,female,1545
+Business Stats,650,500,63,7,66,68,green,120,PHARM,female,1546
+Stats for Humanities,570,660,70,11.5,63,72,orange,160,no answer,male,1547
+Stats for Humanities,600,540,71,11,69,72,green,145,no answer,female,1548
+Stats for Humanities,700,620,68,10,64,67,blue,135,BIOSC,female,1549
+Stats for Humanities,490,640,62,7.5,62,65,green,135,no answer,female,1550
+Stats for Humanities,650,620,69,10,64,68,green,130,no answer,male,1551
+Stats for Humanities,620,530,64,8.5,64,69,pink,150,no answer,female,1552
+Stats for Humanities,630,580,75,13,66,74,blue,200,no answer,male,1553
+Stats for Humanities,580,600,64,7,68,73,blue,115,HRS,female,1554
+Stats for Humanities,610,590,63,7,68,71,purple,120,no answer,female,1555
+Stats for Humanities,640,540,71,11,64,70,blue,215,PS,male,1556
+Stats for Humanities,500,600,60,6.5,62,75,blue,115,no answer,female,1557
+Stats for Humanities,580,540,63,7,64,74,blue,124,CS,female,1558
+Stats for Humanities,540,510,69,10.5,59,69,black,210,no answer,male,1559
+Stats for Humanities,650,510,66,9,64,72,purple,165,no answer,female,1560
+Stats for Humanities,620,650,71,11,63,70,green,145,PHARM,male,1561
+Stats for Humanities,550,500,65,6.5,61,69,green,133,PSY,female,1562
+Stats for Humanities,570,560,66,7,64,73,purple,100,PSY,female,1563
+Stats for Humanities,620,580,60,7,62,65,purple,103,no answer,female,1564
+Stats for Humanities,500,500,68,9.5,64,73,blue,145,no answer,female,1565
+Stats for Humanities,610,620,69,9,66,75,pink,120,PSY,female,1566
+Stats for Humanities,580,630,63,7.5,66,67,pink,130,no answer,female,1567
+Stats for Humanities,680,680,63,6.5,65,73,green,107,PHARM,female,1568
+Business Stats,620,620,69,9.5,65,70,green,165,BUS,male,1569
+Business Stats,590,620,67,10,64,72,blue,200,no answer,female,1570
+Business Stats,620,520,72,11.5,60,75,blue,172,no answer,male,1571
+Business Stats,600,680,60,8,64,70,blue,110,HIST,female,1572
+Business Stats,700,580,68,11.5,64,68,blue,165,BUS,male,1573
+Business Stats,660,580,70,11,70,74,green,145,BUS,female,1574
+Business Stats,650,550,70,10.5,64,68,blue,158,BUS,male,1575
+Business Stats,540,710,73,12,66,70,black,160,no answer,male,1576
+Business Stats,640,580,72,12,65,69,blue,155,BUS,male,1577
+Business Stats,590,600,63,7.5,61,70,blue,115,PS,female,1578
+Business Stats,560,550,69,11,59,67,black,173,BUS,male,1579
+Business Stats,550,560,62,8.5,64,67,pink,125,BUS,female,1580
+Business Stats,600,500,69,10.5,65,70,blue,145,no answer,male,1581
+Business Stats,690,660,70,10.5,66,72,blue,188,BUS,male,1582
+Business Stats,630,540,70,10.5,58,70,blue,215,no answer,male,1583
+Business Stats,600,560,63,6,66,69,red,125,no answer,female,1584
+Business Stats,720,660,71,10.5,66,70,blue,165,BUS,male,1585
+Business Stats,550,550,68,8.5,66,75,blue,127,BUS,female,1586
+Business Stats,660,590,77,14,63,73,blue,192,BUS,male,1587
+Business Stats,600,550,69,10,63,66,blue,185,ECON,male,1588
+Business Stats,550,560,65,8.5,67,65,pink,145,no answer,female,1589
+Business Stats,710,540,71,11.5,62,71,green,147,BUS,male,1590
+Business Stats,540,570,62,7,64,74,pink,110,BUS,female,1591
+Business Stats,600,550,69,11.5,66,68,green,235,HRS,male,1592
+Business Stats,600,620,73,12,64,69,black,175,no answer,male,1593
+Business Stats,600,600,70,11.5,63,73,red,195,no answer,male,1594
+Business Stats,560,500,65,8.5,62,74,blue,129,BUS,female,1595
+Business Stats,580,520,70,10,64,66,green,165,ECON,male,1596
+Business Stats,620,470,73,10.5,65,76,orange,184,no answer,male,1597
+Business Stats,620,600,70,11.5,66,70,green,210,BUS,male,1598
+Business Stats,600,550,64,8,61,72,purple,145,BUS,female,1599
+Business Stats,630,540,68,11,59,66,blue,167,no answer,male,1600
+Business Stats,590,590,66,10,62,64,blue,160,BUS,male,1601
+Business Stats,650,610,73,12,65,72,blue,200,BUS,male,1602
+Business Stats,690,610,68,11,65,65,blue,170,no answer,male,1603
+Business Stats,560,560,67,8.5,67,74,pink,130,no answer,female,1604
+Business Stats,580,570,72,13,64,75,blue,210,PS,male,1605
+Business Stats,540,540,72,11.5,70,73,blue,158,no answer,male,1606
+Business Stats,650,670,69,11,63,67,blue,150,no answer,male,1607
+Business Stats,550,450,70,11,66,70,blue,195,ECON,male,1608
+Business Stats,630,530,70,10.5,67,69,blue,140,no answer,male,1609
+Business Stats,560,620,61,7.5,62,67,pink,105,no answer,female,1610
+Business Stats,660,400,67,8.5,64,71,black,141,no answer,female,1611
+Business Stats,560,540,68,8,62,69,blue,165,no answer,male,1612
+Business Stats,700,580,67,10,63,68,black,125,no answer,male,1613
+Business Stats,700,730,72,12,62,72,red,239,no answer,male,1614
+Business Stats,700,540,72,11.5,64,74,green,190,no answer,male,1615
+Business Stats,640,630,72,11,66,70,blue,200,no answer,male,1616
+Business Stats,530,540,67,9,65,73,blue,164,no answer,female,1617
+Business Stats,600,600,69,10,62,72,blue,145,no answer,male,1618
+Business Stats,690,690,70,10.5,61,69,blue,172,BUS,male,1619
+Business Stats,620,600,73,12,66,65,green,193,no answer,male,1620
+Business Stats,720,540,70,10.5,67,74,pink,160,no answer,female,1621
+Business Stats,600,560,64,7.5,64,68,purple,128,no answer,female,1622
+Business Stats,670,510,75,12,65,72,black,157,no answer,male,1623
+Business Stats,510,680,66,8,61,71,pink,118,no answer,female,1624
+Business Stats,550,590,71,11,69,73,blue,260,PS,female,1625
+Business Stats,530,590,66,8.5,68,70,pink,146,no answer,female,1626
+Stats for Science,630,620,77,19,72,74,blue,240,BIOSC,male,1627
+Stats for Science,540,590,71,12,66,71,blue,205,BIOSC,male,1628
+Stats for Science,600,610,68,9.5,63,73,purple,158,no answer,female,1629
+Stats for Science,720,610,70,11,66,68,blue,161,MED,male,1630
+Stats for Science,720,530,72,11,62,72,green,165,no answer,male,1631
+Stats for Science,720,650,60,5,60,68,blue,112,no answer,female,1632
+Stats for Science,640,630,65,8,64,69,pink,125,BIOSC,female,1633
+Stats for Science,650,570,71,12,65,69,blue,190,no answer,male,1634
+Stats for Science,740,600,67,8,65,72,green,130,no answer,female,1635
+Stats for Science,650,660,64,6,65,70,purple,100,SOC,female,1636
+Stats for Science,420,400,75,10.5,66,73,blue,192,PSY,male,1637
+Business Stats,640,570,64,7.5,65,68,purple,137,no answer,female,1638
+Stats for Science,620,570,64,7.5,64,69,purple,110,no answer,female,1639
+Stats for Science,700,600,74,13,68,73,blue,200,BIOSC,male,1640
+Stats for Science,630,630,60,8,59,66,black,115,PSY,female,1641
+Stats for Science,640,670,72,12,66,71,yellow,208,no answer,male,1642
+Stats for Science,720,720,74,10,69,71,orange,205,BIOSC,male,1643
+Stats for Science,600,600,62,6,63,68,blue,150,PSY,female,1644
+Stats for Science,760,640,70,10.5,68,71,green,160,PHARM,male,1645
+Business Stats,800,760,64,9,62,68,purple,115,MATH,male,1646
+Stats for Science,720,570,69,11,63,71,blue,155,no answer,male,1647
+Stats for Science,550,600,72,10.5,66,69,black,150,no answer,male,1648
+Stats for Science,680,510,65,8,60,70,pink,120,no answer,female,1649
+Stats for Science,630,680,69,10,67,70,red,160,no answer,female,1650
+Stats for Science,650,690,65,7.5,66,71,green,116,NROSCI,female,1651
+Stats for Science,600,670,68,9,65,67,red,170,CS,male,1652
+Stats for Science,610,600,66,9,66,72,pink,130,no answer,female,1653
+Stats for Science,640,580,68,12,67,70,blue,182,PHARM,male,1654
+Stats for Science,630,600,72,12,66,70,orange,156,no answer,male,1655
+Stats for Science,700,650,60,6.5,63,67,pink,95,BIOSC,female,1656
+Stats for Science,540,550,70,9,71,73,green,164,MED,female,1657
+Stats for Science,640,600,67,8.5,64,72,blue,170,PSY,female,1658
+Business Stats,620,580,70,10,64,71,blue,170,no answer,male,1659
+Business Stats,740,720,72,13,69,75,orange,160,no answer,male,1660
+Business Stats,500,590,70,12,67,70,blue,165,BUS,male,1661
+Business Stats,690,530,67,9.5,60,70,blue,145,no answer,male,1662
+Business Stats,470,470,73,10.5,66,80,blue,190,BUS,male,1663
+Business Stats,670,660,68,8.5,62,72,blue,145,no answer,female,1664
+Business Stats,580,570,66,11,71,73,red,178,BUS,female,1665
+Business Stats,670,800,71,9.5,68,73,purple,173,no answer,male,1666
+Business Stats,690,600,64,7.5,65,68,purple,120,BUS,female,1667
+Business Stats,580,610,65,7.5,64,73,orange,118,no answer,female,1668
+Business Stats,760,800,71,11,72,71,blue,145,URBST,male,1669
+Business Stats,640,640,73,14,65,74,blue,247,BUS,male,1670
+Business Stats,550,500,70,10.5,66,70,red,200,no answer,male,1671
+Business Stats,550,560,69,12,65,68,green,172,ECON,male,1672
+Business Stats,560,650,68,10.5,66,72,orange,160,no answer,male,1673
+Business Stats,530,560,61,7,65,71,pink,115,BUS,female,1674
+Business Stats,600,540,72,12,66,72,blue,210,no answer,male,1675
+Business Stats,690,610,70,11,64,66,blue,185,BUS,male,1676
+Business Stats,630,580,65,7.5,62,74,blue,122,BUS,female,1677
+Business Stats,620,570,74,10.5,64,70,black,190,no answer,male,1678
+Business Stats,560,630,70,12,61,71,blue,200,BUS,male,1679
+Business Stats,620,570,69,9,66,72,blue,190,no answer,female,1680
+Business Stats,530,410,69,10.5,67,72,green,150,no answer,male,1681
+Stats for Science,670,630,69,11.5,63,66,blue,190,CS,male,1682
+Stats for Science,550,550,66,8,66,70,green,130,no answer,female,1683
+Stats for Science,600,640,64,7.5,63,72,blue,139,BIOSC,female,1684
+Stats for Science,600,600,70,11,67,67,green,165,BIOSC,male,1685
+Stats for Science,630,630,75,12,70,72,blue,163,BIOSC,male,1686
+Stats for Science,610,700,60,6,64,68,black,93,no answer,female,1687
+Stats for Science,640,550,64,8,61,72,green,133,no answer,female,1688
+Stats for Science,690,630,61,7.5,64,70,red,155,no answer,female,1689
+Stats for Science,650,650,76,13,70,76,red,270,BIOSC,male,1690
+Stats for Science,470,520,61,6,63,69,pink,110,BIOSC,female,1691
+Stats for Science,500,600,66,9.5,62,72,blue,135,NROSCI,female,1692
+Stats for Humanities,600,500,71,10.5,67,69,blue,170,BIOSC,male,1693
+Stats for Science,700,600,67,8.5,64,70,blue,145,BIOSC,female,1694
+Stats for Science,590,600,64,9,63,71,blue,150,BIOSC,female,1695
+Stats for Humanities,570,570,66,8,68,66,yellow,130,no answer,female,1696
+Stats for Science,800,690,74,11.5,65,68,pink,190,GENS,male,1697
+Stats for Science,710,700,71,10.5,67,69,black,155,BIOSC,male,1698
+Stats for Science,780,610,68,11.5,62,69,blue,145,NROSCI,male,1699
+Stats for Science,680,580,66,8.5,66,70,blue,133,PHARM,female,1700
+Stats for Science,620,530,63,8,64,71,green,115,PSY,female,1701
+Stats for Science,680,560,63,6.5,61,69,pink,140,no answer,female,1702
+Stats for Science,730,750,67,9.5,67,74,green,148,GEOL,female,1703
+Stats for Science,620,500,73,12,65,68,blue,210,no answer,male,1704
+Stats for Science,610,520,61,7.5,64,70,pink,120,no answer,female,1705
+Stats for Science,650,580,71,11,61,68,green,165,no answer,male,1706
+Stats for Science,620,620,62,6.5,66,72,pink,155,PSY,female,1707
+Stats for Science,560,590,62,8,67,67,purple,140,no answer,female,1708
+Stats for Science,550,600,68,9.5,62,70,blue,168,no answer,female,1709
+Stats for Science,650,600,69,11,65,66,blue,200,PSY,male,1710
+Stats for Science,600,630,72,12,65,74,blue,155,no answer,male,1711
+Stats for Science,560,700,63,8.5,61,66,green,125,BIOSC,female,1712
+Business Stats,580,570,71,11.5,68,70,blue,178,BUS,male,1713
+Business Stats,600,620,65,9.5,63,69,blue,124,no answer,female,1714
+Business Stats,700,600,64,7.5,62,76,green,150,no answer,female,1715
+Business Stats,600,670,73,12,64,72,blue,155,BUS,male,1716
+Business Stats,540,530,65,8.5,64,70,blue,145,no answer,female,1717
+Business Stats,700,730,60,7.5,63,66,blue,140,no answer,female,1718
+Business Stats,600,600,71,12,61,69,green,160,BUS,male,1719
+Business Stats,550,560,71,10.5,66,70,green,145,BUS,male,1720
+Business Stats,680,620,70,12,65,71,blue,160,no answer,male,1721
+Business Stats,530,630,71,11,65,73,orange,165,no answer,male,1722
+Business Stats,750,720,73,11,70,72,blue,205,BUS,male,1723
+Business Stats,600,500,72,12,65,70,red,160,BUS,male,1724
+Business Stats,630,550,64,8,63,69,blue,118,no answer,female,1725
+Business Stats,590,540,67,9.5,65,67,blue,145,BUS,male,1726
+Business Stats,620,500,62,6,64,71,blue,136,SA,female,1727
+Business Stats,610,610,69,8.5,63,72,blue,140,no answer,female,1728
+Business Stats,630,620,68,11,66,70,blue,165,no answer,male,1729
+Business Stats,600,680,75,12.5,68,74,red,240,HIST,male,1730
+Business Stats,610,580,74,14,70,75,red,180,BUS,male,1731
+Business Stats,760,600,72,12,66,75,orange,175,no answer,male,1732
+Business Stats,580,540,72,12,68,76,green,145,BUS,male,1733
+Business Stats,460,320,69,10,64,72,black,175,no answer,male,1734
+Business Stats,570,600,67,8.5,65,71,pink,135,BUS,female,1735
+Business Stats,650,440,75,13,71,73,blue,195,BUS,male,1736
+Business Stats,620,510,57,5.5,62,72,red,99,no answer,female,1737
+Business Stats,540,500,65,8,63,71,blue,130,no answer,female,1738
+Business Stats,600,720,66,8.5,63,71,pink,155,no answer,female,1739
+Business Stats,560,560,66,9.5,60,72,blue,160,no answer,male,1740
+Business Stats,730,730,68,10.5,63,67,green,155,BUS,male,1741
+Business Stats,690,620,65,10,64,73,pink,150,no answer,female,1742
+Business Stats,720,580,72,11.5,62,74,green,175,no answer,male,1743
+Business Stats,580,560,65,8,64,69,pink,110,no answer,female,1744
+Business Stats,620,490,72,12,66,72,blue,181,BUS,male,1745
+Business Stats,560,490,65,9,68,68,blue,145,no answer,female,1746
+Business Stats,700,560,70,11.5,62,71,red,152,no answer,male,1747
+Business Stats,630,500,68,9,62,72,pink,135,PHYS,female,1748
+Business Stats,690,520,68,8,65,69,pink,150,no answer,female,1749
+Business Stats,630,540,69,10,71,72,green,163,MATH,female,1750
+Business Stats,610,550,67,9.5,59,67,blue,150,BUS,male,1751
+Business Stats,590,630,65,8.5,63,68,pink,140,no answer,female,1752
+Business Stats,700,650,62,7.5,62,71,blue,150,no answer,female,1753
+Business Stats,580,520,67,8.5,69,73,blue,125,no answer,female,1754
+Business Stats,560,550,66,9,64,68,black,145,no answer,male,1755
+Business Stats,450,550,70,9.5,66,69,black,135,BUS,male,1756
+Business Stats,720,620,74,12,69,72,blue,250,PSY,male,1757
+Business Stats,790,750,68,7.5,69,68,blue,130,PS,female,1758
+Business Stats,720,640,71,11,67,72,blue,160,BUS,male,1759
+Stats for Humanities,580,600,66,7.5,69,71,pink,200,URBST,female,1760
+Stats for Humanities,570,590,76,13,67,75,blue,208,ENGWRT,male,1761
+Stats for Humanities,575,575,75,14,70,73,red,250,ENGLIT,male,1762
+Stats for Humanities,630,630,71,10.5,66,69,blue,170,no answer,male,1763
+Stats for Humanities,640,610,61,7,63,68,pink,140,no answer,female,1764
+Stats for Humanities,550,550,74,13,65,72,blue,180,INFOSCI,male,1765
+Stats for Humanities,600,600,65,8,69,68,blue,132,PHARM,female,1766
+Stats for Humanities,580,620,65,10,66,69,pink,145,HRS,female,1767
+Stats for Humanities,630,590,71,11,63,74,red,224,HRS,female,1768
+Stats for Humanities,540,530,68,9.5,66,76,pink,135,PHARM,female,1769
+Stats for Humanities,650,670,79,16,72,74,blue,200,ENGWRT,male,1770
+Stats for Humanities,600,600,66,9,66,70,purple,180,PSY,female,1771
+Stats for Humanities,630,700,62,9,59,69,red,180,PHARM,female,1772
+Stats for Humanities,510,510,64,6.5,69,71,blue,120,no answer,female,1773
+Stats for Humanities,480,460,63,6,62,69,pink,105,PSY,female,1774
+Stats for Humanities,600,500,64,7.5,65,70,red,150,SOC,female,1775
+Stats for Humanities,560,550,68,8,67,71,green,130,no answer,female,1776
+Stats for Humanities,710,630,71,10.5,65,72,blue,153,PSY,male,1777
+Stats for Humanities,600,570,68,11,64,72,red,160,no answer,female,1778
+Stats for Humanities,690,670,62,7,61,67,black,155,PS,female,1779
+Stats for Humanities,350,550,70,10,64,75,blue,157,PSY,male,1780
+Stats for Humanities,560,450,64,6,65,69,blue,195,NROSCI,female,1781
+Stats for Humanities,640,520,65,7,60,73,green,130,LAW,female,1782
+Stats for Humanities,660,620,66,9,66,70,green,115,no answer,female,1783
+Stats for Humanities,480,620,68,11.5,62,67,green,150,FILMST,male,1784
+Stats for Humanities,560,540,69,10,62,67,red,159,no answer,male,1785
+Stats for Humanities,740,680,69,8.5,68,68,orange,155,no answer,female,1786
+Stats for Humanities,720,680,71,12,65,68,red,235,NURS,female,1787
+Stats for Humanities,550,550,67,9,70,73,blue,144,no answer,female,1788
+Stats for Humanities,610,610,65,7.5,64,71,orange,135,ENGLIT,female,1789
+Stats for Humanities,630,650,66,9,64,74,yellow,125,PHARM,female,1790
+Stats for Humanities,560,560,66,9,63,72,purple,130,no answer,female,1791
+Stats for Humanities,640,570,63,9,64,71,purple,130,PHARM,female,1792
+Stats for Humanities,510,620,71,10.5,66,68,blue,145,ENGWRT,male,1793
+Stats for Humanities,570,590,71,12,62,70,blue,175,no answer,male,1794
+Stats for Humanities,610,610,65,9,62,73,blue,150,PHARM,female,1795
+Stats for Humanities,580,620,67,9,69,68,blue,140,no answer,female,1796
+Stats for Humanities,640,480,66,8,63,70,blue,142,no answer,female,1797
+Stats for Humanities,690,620,65,8.5,66,74,blue,148,no answer,female,1798
+Stats for Humanities,660,600,62,6.5,62,63,purple,112,PHARM,female,1799
+Stats for Humanities,550,480,69,9,68,71,pink,135,no answer,female,1800
+Stats for Humanities,590,610,63,8.5,65,64,blue,116,no answer,female,1801
+Stats for Humanities,540,480,76,12,67,72,orange,235,PSY,male,1802
+Stats for Humanities,640,620,65,9,65,71,green,170,PHARM,female,1803
+Stats for Humanities,560,440,73,11,68,67,black,183,PHARM,male,1804
+Stats for Humanities,640,760,61,6.5,62,66,green,150,no answer,female,1805
+Stats for Humanities,630,440,65,8.5,64,70,blue,120,PHARM,female,1806
+Stats for Humanities,570,510,67,10,63,70,blue,110,no answer,female,1807
+Stats for Humanities,560,660,67,9,65,65,blue,125,no answer,female,1808
+Stats for Humanities,510,600,66,8,63,71,orange,143,HIST,female,1809
+Stats for Humanities,560,520,62,6.5,61,66,pink,120,no answer,female,1810
+Stats for Humanities,680,540,69,8.5,68,71,pink,144,NROSCI,female,1811
+Stats for Humanities,640,650,71,10.5,64,71,blue,170,PS,male,1812
+Stats for Humanities,620,670,65,9,67,68,green,145,COMMRC,female,1813
+Stats for Humanities,540,630,71,12,65,74,blue,143,no answer,male,1814
+Stats for Humanities,620,620,71,12,60,74,blue,186,ECON,male,1815
+Stats for Humanities,590,580,67,10.5,67,76,yellow,143,COMMRC,female,1816
+Stats for Humanities,520,630,63,8,64,71,green,220,BIOSC,female,1817
+Stats for Humanities,630,710,73,12,66,69,blue,225,COMMRC,male,1818
+Stats for Humanities,580,730,62,6.5,61,72,blue,115,ENGLIT,female,1819
+Stats for Humanities,540,750,61,7.5,57,66,blue,98,no answer,female,1820
+Stats for Humanities,520,555,75,13,66,72,blue,265,INFOSCI,male,1821
+Stats for Humanities,630,570,60,6.5,60,70,blue,110,GENS,female,1822
+Stats for Humanities,580,640,63,9,62,68,purple,170,no answer,female,1823
+Stats for Humanities,610,640,72,12,65,71,purple,230,NROSCI,male,1824
+Stats for Humanities,620,580,61,5,61,67,purple,106,no answer,female,1825
+Stats for Humanities,600,630,72,11,69,73,blue,170,PUBHLT,female,1826
+Stats for Humanities,600,610,65,7,64,71,green,140,NURS,female,1827
+Stats for Humanities,550,620,62,7.5,63,65,purple,130,no answer,female,1828
+Stats for Humanities,760,670,69,9,66,72,black,150,PHARM,male,1829
+Stats for Humanities,600,550,66,8,64,68,blue,125,no answer,female,1830
+Stats for Humanities,590,620,69,8.5,66,72,purple,129,PSY,female,1831
+Stats for Humanities,570,570,65,8.5,64,71,blue,122,AFRCNA,female,1832
+Stats for Humanities,680,530,69,9.5,62,71,blue,137,no answer,male,1833
+Stats for Humanities,570,610,64,7.5,63,70,purple,144,no answer,female,1834
+Stats for Humanities,590,550,62,7.5,64,78,blue,135,no answer,female,1835
+Stats for Humanities,620,510,61,6,64,68,purple,110,PHARM,female,1836
+Stats for Humanities,590,700,64,7.5,62,71,blue,135,PHARM,female,1837
+Stats for Humanities,630,590,70,10,67,72,blue,146,FILMST,male,1838
+Stats for Humanities,630,530,73,11,68,67,green,185,COMMRC,male,1839
+Stats for Humanities,650,550,71,10.5,65,73,blue,148,NURS,male,1840
+Stats for Humanities,500,600,61,6.5,60,70,pink,120,COMMRC,female,1841
+Stats for Humanities,550,500,66,8.5,65,72,blue,140,NURS,female,1842
+Stats for Humanities,560,530,68,7.5,64,72,pink,130,NURS,female,1843
+Stats for Humanities,550,490,64,6.5,61,70,purple,125,MED,female,1844
+Stats for Humanities,650,610,64,7.5,64,68,green,115,no answer,female,1845
+Stats for Humanities,500,520,69,7.5,61,73,pink,131,NURS,female,1846
+Stats for Humanities,610,610,70,10.5,63,71,blue,215,NURS,male,1847
+Stats for Humanities,550,470,62,7,63,68,pink,118,no answer,female,1848
+Stats for Humanities,560,540,67,10,66,72,blue,165,NURS,female,1849
+Stats for Humanities,560,560,64,7,67,69,blue,135,NURS,female,1850
+Stats for Humanities,650,750,71,11,62,73,red,235,CS,male,1851
+Stats for Humanities,680,700,69,8,67,73,blue,148,NURS,female,1852
+Stats for Humanities,710,700,62,7,64,63,blue,120,NURS,female,1853
+Stats for Humanities,500,590,63,6.5,64,68,green,108,NURS,female,1854
+Stats for Humanities,540,600,68,9,65,71,green,135,NURS,female,1855
+Stats for Humanities,550,500,70,9.5,63,76,blue,160,NURS,female,1856
+Stats for Humanities,690,620,65,7.5,66,69,pink,125,NURS,female,1857
+Stats for Humanities,640,560,66,9,65,70,red,130,PHARM,female,1858
+Stats for Humanities,440,660,63,7,62,66,purple,122,NURS,female,1859
+Stats for Humanities,570,570,68,8.5,68,70,blue,115,EDUC,female,1860
+Stats for Humanities,580,580,67,9,68,70,blue,145,NURS,female,1861
+Stats for Humanities,510,510,66,9.5,63,70,purple,150,NURS,female,1862
+Stats for Humanities,680,550,64,8,63,69,yellow,130,NURS,female,1863
+Stats for Humanities,610,580,64,7.5,63,71,blue,120,NURS,female,1864
+Stats for Humanities,640,470,71,13,65,67,blue,210,no answer,male,1865
+Stats for Humanities,660,650,65,9,63,68,blue,135,no answer,female,1866
+Stats for Humanities,550,580,68,10.5,64,68,blue,145,no answer,male,1867
+Stats for Humanities,560,660,67,8,65,72,pink,135,no answer,female,1868
+Stats for Humanities,600,790,69,9.5,66,72,green,164,PSY,female,1869
+Stats for Humanities,560,640,71,10,69,74,green,175,PS,female,1870
+Stats for Humanities,550,660,64,8,62,74,blue,120,no answer,female,1871
+Stats for Humanities,600,560,63,6.5,61,74,blue,103,no answer,female,1872
+Stats for Humanities,540,560,67,8.5,66,72,red,150,HRS,female,1873
+Stats for Humanities,540,540,65,8,64,67,green,130,no answer,female,1874
+Stats for Humanities,600,620,64,5,66,68,pink,140,no answer,female,1875
+Stats for Humanities,670,640,74,12,64,73,blue,175,no answer,male,1876
+Stats for Humanities,680,550,64,7,63,69,yellow,135,PHARM,female,1877
+Stats for Humanities,400,400,71,12,65,71,black,150,MUSIC,male,1878
+Stats for Humanities,450,430,69,11,66,67,blue,172,no answer,male,1879
+Stats for Humanities,660,630,69,9,63,69,green,120,SOC,male,1880
+Stats for Humanities,620,630,68,9.5,69,68,red,160,no answer,female,1881
+Stats for Humanities,720,720,71,13,62,74,green,190,no answer,male,1882
+Stats for Humanities,660,660,63,8,63,72,blue,111,no answer,female,1883
+Stats for Humanities,680,520,64,8,64,70,blue,150,PHARM,female,1884
+Stats for Humanities,580,580,71,10.5,63,71,blue,183,PS,male,1885
+Stats for Humanities,710,730,69,11,65,71,purple,185,no answer,female,1886
+Stats for Humanities,560,600,70,10.5,67,71,orange,220,no answer,male,1887
+Stats for Humanities,560,530,59,5,59,67,purple,100,PHARM,female,1888
+Stats for Humanities,690,650,62,6.5,63,68,red,120,no answer,female,1889
+Stats for Humanities,740,800,64,9,63,72,red,200,LING,female,1890
+Stats for Humanities,710,730,71,10.5,67,76,green,155,no answer,female,1891
+Stats for Humanities,700,730,70,10.5,62,71,blue,168,BIOSC,male,1892
+Stats for Humanities,650,610,67,9.5,63,71,green,130,HRS,female,1893
+Stats for Humanities,580,530,59,7,63,67,red,100,no answer,female,1894
+Stats for Humanities,500,550,63,7,65,69,blue,110,no answer,female,1895
+Stats for Humanities,660,690,75,11.5,67,67,orange,170,no answer,male,1896
+Stats for Humanities,650,600,63,10.5,64,65,purple,230,no answer,female,1897
+Stats for Humanities,490,510,66,8.5,65,66,green,128,no answer,female,1898
+Stats for Humanities,460,530,67,7.5,68,69,pink,140,PSY,female,1899
+Stats for Humanities,680,700,70,10,69,72,purple,139,PHARM,female,1900
+Stats for Humanities,680,660,70,8.5,68,71,blue,140,no answer,female,1901
+Stats for Humanities,590,600,62,7,71,70,red,125,no answer,female,1902
+Stats for Humanities,560,680,65,8,65,70,purple,140,HIST,female,1903
+Stats for Humanities,530,530,74,11,66,68,green,160,no answer,male,1904
+Stats for Humanities,670,550,72,12,66,69,blue,154,no answer,male,1905
+Stats for Humanities,540,600,66,8,62,72,purple,112,PHARM,female,1906
+Stats for Humanities,550,540,66,10,62,68,blue,180,no answer,female,1907
+Stats for Humanities,580,580,67,8.5,65,71,blue,142,EDUC,female,1908
+Stats for Humanities,520,710,64,8.5,66,72,pink,106,no answer,female,1909
+Stats for Humanities,610,750,69,9.5,65,66,blue,155,no answer,male,1910
+Stats for Humanities,590,600,66,10,64,78,red,165,SPAN,female,1911
+Stats for Humanities,680,680,62,6,63,66,purple,120,no answer,female,1912
+Stats for Humanities,480,480,68,10.5,64,67,blue,188,SOC,male,1913
+Stats for Humanities,690,600,65,8,65,72,blue,160,PSY,female,1914
+Stats for Humanities,610,600,65,6,64,76,purple,130,PHARM,female,1915
+Stats for Humanities,550,510,75,16,67,71,blue,255,PSY,male,1916
+Stats for Humanities,550,650,70,10,68,71,blue,180,PHARM,female,1917
+Stats for Humanities,450,520,61,8,66,67,pink,146,PSY,female,1918
+Stats for Humanities,640,650,64,9,67,72,green,165,no answer,female,1919
+Stats for Science,780,610,64,7.5,63,68,green,172,STAT,female,1920
+Stats for Science,610,540,63,7,62,69,purple,105,no answer,female,1921
+Stats for Science,610,680,68,10.5,68,74,green,220,BIOSC,female,1922
+Stats for Science,680,400,66,8.5,67,68,yellow,140,no answer,female,1923
+Stats for Science,620,670,67,9.5,63,69,blue,140,INFOSCI,male,1924
+Stats for Humanities,670,640,68,8,72,75,red,215,no answer,female,1925
+Stats for Science,630,720,68,8,65,67,blue,120,NROSCI,male,1926
+Stats for Science,700,770,74,12,68,72,blue,142,no answer,male,1927
+Stats for Science,590,520,69,11,65,69,blue,250,CS,female,1928
+Stats for Science,620,630,70,9.5,65,69,black,147,no answer,male,1929
+Stats for Science,550,480,79,15,66,73,blue,250,no answer,male,1930
+Stats for Science,680,660,61,7.5,60,67,black,103,CS,male,1931
+Stats for Science,590,700,67,9,61,71,green,125,no answer,male,1932
+Stats for Science,620,490,71,10.5,62,70,blue,138,CS,male,1933
+Stats for Science,650,670,62,7.5,64,69,blue,125,ANTH,female,1934
+Stats for Science,720,660,62,10,60,64,blue,128,no answer,male,1935
+Stats for Science,760,550,73,10,68,71,blue,135,PSY,female,1936
+Stats for Science,650,650,66,6,67,68,blue,130,no answer,female,1937
+Stats for Science,570,620,73,13,64,70,green,225,no answer,male,1938
+Stats for Science,520,610,64,8.5,64,70,blue,180,no answer,female,1939
+Stats for Science,710,450,69,9.5,64,66,blue,165,MATH,male,1940
+Stats for Science,650,530,70,9,63,71,blue,162,no answer,female,1941
+Stats for Science,680,580,72,11,63,73,green,212,BIOSC,male,1942
+Stats for Science,720,630,63,8,62,67,black,135,no answer,female,1943
+Stats for Science,680,620,69,10.5,66,65,red,157,no answer,male,1944
+Stats for Science,640,620,63,8.5,66,66,orange,130,ENGWRT,female,1945
+Stats for Science,690,710,63,7.5,62,69,orange,124,no answer,female,1946
+Stats for Science,590,580,65,9,65,71,blue,140,PSY,female,1947
+Stats for Science,580,580,70,11,63,72,blue,158,no answer,male,1948
+Stats for Science,650,590,67,9.5,64,72,pink,255,no answer,female,1949
+Stats for Science,540,560,63,8,64,70,pink,110,BIOSC,female,1950
+Stats for Science,590,460,69,9.5,67,76,blue,143,no answer,female,1951
+Stats for Science,600,560,67,8,65,68,purple,120,BIOSC,female,1952
+Stats for Science,500,590,69,10,68,72,black,165,HRS,male,1953
+Stats for Science,600,600,62,5.5,62,72,orange,113,no answer,female,1954
+Stats for Science,730,560,64,9,66,71,blue,175,ENGING,female,1955
+Stats for Science,550,540,62,7,63,69,green,112,CS,female,1956
+Business Stats,670,500,69,11,65,68,blue,170,no answer,male,1957
+Business Stats,620,640,65,7.5,68,69,purple,120,no answer,female,1958
+Business Stats,600,530,74,13,67,69,blue,190,no answer,male,1959
+Business Stats,700,480,67,11.5,64,67,blue,175,BUS,male,1960
+Stats for Science,650,540,72,12,64,75,blue,271,no answer,male,1961
+Stats for Science,580,540,70,12,65,73,orange,229,CS,male,1962
+Stats for Science,660,740,68,8.5,66,74,blue,150,no answer,female,1963
+Stats for Science,680,650,74,13,68,67,green,315,CS,male,1964
+Stats for Science,540,550,66,8.5,65,67,blue,172,PSY,female,1965
+Stats for Science,600,490,72,13,69,70,green,200,STAT,male,1966
+Stats for Science,650,650,69,9.5,63,73,blue,140,COMMRC,male,1967
+Stats for Science,540,520,66,8,66,70,pink,130,BIOSC,female,1968
+Stats for Science,550,560,71,11,66,75,red,196,ECON,male,1969
+Stats for Science,680,670,67,8,65,70,red,140,no answer,female,1970
+Business Stats,620,520,71,11,68,73,blue,185,no answer,male,1971
+Business Stats,590,590,69,9.5,66,75,blue,150,CS,male,1972
+Stats for Humanities,670,670,62,6.5,65,68,green,129,no answer,female,1973
+Business Stats,630,570,71,11,61,70,green,160,BUS,male,1974
+Business Stats,550,550,72,10,70,74,yellow,175,MATH,female,1975
+Business Stats,530,700,70,11,65,72,blue,165,no answer,male,1976
+Stats for Humanities,650,670,62,6.5,63,73,pink,130,no answer,female,1977
+Stats for Science,680,720,72,12,68,71,blue,201,PHARM,male,1978
+Stats for Science,750,760,69,12,64,67,blue,168,BIOSC,male,1979
+Stats for Science,650,490,72,10.5,61,71,blue,155,BIOSC,male,1980
+Stats for Science,590,580,69,11,67,69,blue,146,BIOSC,male,1981
+Stats for Science,600,580,70,9.5,66,72,black,180,no answer,male,1982
+Stats for Science,750,700,69,9,66,73,blue,125,PHARM,female,1983
+Stats for Science,480,530,75,12,64,73,green,175,SOC,male,1984
+Stats for Science,760,670,66,9,63,71,blue,155,no answer,male,1985
+Stats for Science,640,720,70,12,64,75,yellow,158,no answer,female,1986
+Stats for Science,680,590,64,7.5,63,68,blue,128,no answer,female,1987
+Stats for Science,570,570,65,7.5,63,72,green,126.5,no answer,female,1988
+Stats for Science,700,700,70,11,66,70,orange,165,PHARM,male,1989
+Stats for Science,700,750,66,9,65,71,blue,135,BIOSC,female,1990
+Stats for Science,650,650,68,9.5,69,71,blue,165,no answer,male,1991
+Stats for Science,780,680,74,12,69,68,blue,190,BIOSC,male,1992
+Stats for Science,520,580,63,7.5,66,68,blue,110,PSY,female,1993
+Stats for Science,720,640,72,10,60,73,green,145,no answer,male,1994
+Stats for Science,720,610,67,7.5,71,70,blue,135,MUSIC,female,1995
+Stats for Science,580,720,64,7.5,66,72,green,115,PSY,female,1996
+Stats for Science,500,600,62,7,63,67,black,140,no answer,female,1997
+Stats for Science,640,670,65,9,67,69,blue,130,no answer,female,1998
+Stats for Science,660,560,75,13,67,72,blue,220,NROSCI,male,1999
+Stats for Science,660,520,69,11.5,62,74,blue,160,CS,male,2000
+Stats for Science,670,570,60,6.5,62,67,blue,125,no answer,female,2001
+Stats for Science,560,560,68,8,66,72,blue,127,no answer,female,2002
+Stats for Science,700,530,68,9,65,68,blue,170,EDUC,male,2003
+Stats for Science,580,560,64,8,62,69,yellow,123,no answer,female,2004
+Stats for Humanities,720,670,66,10,65,73,green,140,PHARM,female,2005
+Stats for Humanities,580,500,67,10,64,71,purple,120,MATH,female,2006
+Stats for Humanities,570,640,70,9,59,67,blue,160,PS,male,2007
+Stats for Humanities,710,550,70,10.5,64,69,blue,145,no answer,male,2008
+Stats for Humanities,540,730,74,11,71,75,blue,135,CS,female,2009
+Stats for Humanities,680,660,71,10.5,66,72,blue,150,CHEM,male,2010
+Stats for Humanities,630,660,74,12,66,73,orange,195,no answer,male,2011
+Stats for Humanities,700,720,66,8.5,66,70,black,119,ANTH,female,2012
+Stats for Humanities,700,520,68,9.5,67,72,pink,133,PHARM,female,2013
+Stats for Humanities,550,490,70,11,65,73,red,155,PHARM,male,2014
+Stats for Humanities,710,600,62,6,63,70,orange,140,PHARM,female,2015
+Stats for Humanities,520,760,72,12,64,74,green,150,ENGWRT,male,2016
+Stats for Humanities,590,570,63,7.5,63,75,blue,133,no answer,female,2017
+Stats for Humanities,480,500,73,11,67,73,green,155,no answer,male,2018
+Stats for Humanities,520,590,60,6.5,61,71,blue,115,ANTH,female,2019
+Stats for Humanities,530,580,76,13.5,69,66,blue,183,PSY,male,2020
+Stats for Humanities,490,490,70,10.5,59,67,red,170,no answer,male,2021
+Stats for Science,650,550,60,5,69,69,red,90,no answer,female,2022
+Stats for Science,660,540,64,8.5,62,71,black,120,no answer,male,2023
+Stats for Humanities,540,600,64,9,68,72,yellow,150,EDUC,female,2024
+Stats for Science,600,580,65,8.5,65,69,red,125,no answer,female,2025
+Stats for Science,660,750,68,10.5,63,70,blue,195,no answer,male,2026
+Stats for Science,640,540,70,10.5,62,71,blue,142,ECON,male,2027
+Stats for Science,650,600,61,5.5,66,69,purple,115,BIOSC,female,2028
+Stats for Humanities,590,560,65,8.5,65,68,yellow,125,no answer,female,2029
+Stats for Science,770,640,67,9.5,65,73,purple,140,no answer,female,2030
+Stats for Humanities,650,600,68,9,70,73,green,145,no answer,female,2031
+Stats for Humanities,520,600,74,12,65,72,blue,185,no answer,male,2032
+Stats for Humanities,470,520,70,10.5,63,74,black,175,HIST,male,2033
+Stats for Humanities,620,640,68,10.5,63,72,blue,135,EDUC,male,2034
+Stats for Science,700,800,65,7.5,62,70,blue,125,no answer,female,2035
+Stats for Humanities,540,570,65,9,65,67,blue,130,PS,female,2036
+Stats for Humanities,400,600,71,11,63,72,green,215,ENGWRT,male,2037
+Stats for Science,700,650,73,11.5,69,71,green,120,no answer,male,2038
+Stats for Science,670,720,67,10,66,71,purple,153,NROSCI,female,2039
+Stats for Humanities,560,540,72,13,63,69,blue,195,HRS,male,2040
+Stats for Science,650,630,63,8,63,66,orange,128,PSY,female,2041
+Stats for Science,680,680,62,5,66,66,pink,110,BIOSC,female,2042
+Stats for Humanities,670,610,68,9,63,71,pink,150,no answer,female,2043
+Stats for Science,790,690,70,10.5,61,64,yellow,130,no answer,male,2044
+Stats for Science,650,700,62,7,62,70,blue,117,no answer,female,2045
+Stats for Humanities,550,620,64,7,62,72,blue,115,no answer,female,2046
+Stats for Science,730,580,73,13,63,73,orange,165,BIOSC,male,2047
+Stats for Science,650,520,67,10,69,67,blue,120,no answer,female,2048
+Stats for Humanities,680,550,68,8.5,68,69,orange,130,no answer,female,2049
+Stats for Humanities,540,550,57,5,62,68,blue,107,EDUC,female,2050
+Stats for Humanities,760,680,68,10,62,68,blue,153,no answer,male,2051
+Stats for Humanities,490,490,65,9.5,70,71,red,119,no answer,female,2052
+Stats for Science,720,740,71,13,63,75,blue,225,CS,male,2053
+Stats for Science,710,630,64,7.5,66,67,black,145,no answer,female,2054
+Stats for Science,710,550,67,7.5,68,68,blue,125,no answer,female,2055
+Stats for Science,670,600,64,9.5,63,71,pink,127,no answer,female,2056
+Stats for Science,670,590,68,10,66,72,green,163,no answer,female,2057
+Stats for Science,540,610,68,9,63,74,blue,175,no answer,female,2058
+Stats for Science,550,400,65,9,60,69,purple,135,PHARM,female,2059
+Stats for Science,740,750,69,11,66,72,green,175,no answer,male,2060
+Stats for Science,580,610,68,10,66,75,black,150,BIOSC,female,2061
+Stats for Humanities,600,540,70,9,66,69,blue,170,EDUC,male,2062
+Stats for Science,600,400,74,12,68,70,blue,255,MATH,male,2063
+Stats for Humanities,610,590,64,7.5,62,74,yellow,120,HRS,female,2064
+Stats for Science,710,635,66,9,69,68,orange,185,ENGING,female,2065
+Stats for Humanities,550,550,68,8,67,74,pink,135,PSY,female,2066
+Stats for Humanities,590,610,71,13,60,72,blue,142,PHARM,male,2067
+Stats for Humanities,620,490,59,6.5,62,70,purple,120,no answer,female,2068
+Stats for Humanities,650,610,73,12,63,72,yellow,195,no answer,male,2069
+Stats for Humanities,570,690,64,7,65,71,blue,118,no answer,female,2070
+Stats for Humanities,620,540,74,13,66,68,blue,160,no answer,male,2071
+Stats for Science,610,550,67,10,65,66,blue,170,no answer,male,2072
+Stats for Humanities,540,460,61,8,66,67,black,110,no answer,female,2073
+Stats for Humanities,610,580,61,6.5,61,69,green,103,PHARM,female,2074
+Stats for Humanities,580,600,74,10,65,69,green,200,HIST,male,2075
+Stats for Science,680,600,65,10,67,67,green,130,no answer,male,2076
+Stats for Science,750,430,69,12.5,63,62,blue,187,MATH,male,2077
+Stats for Humanities,570,600,74,11,68,78,purple,165,HA&A,female,2078
+Stats for Science,540,670,65,11,63,74,blue,145,no answer,female,2079
+Stats for Science,630,560,69,10.5,67,69,yellow,162,PSY,male,2080
+Stats for Humanities,600,550,62,8.5,62,70,red,138,SOCWRK,female,2081
+Stats for Science,540,660,67,9,66,71,blue,135,PUBHLT,male,2082
+Stats for Humanities,480,590,66,7.5,70,69,blue,120,HA&A,female,2083
+Stats for Science,620,530,63,7.5,59,65,green,110,PS,female,2084
+Stats for Humanities,570,500,73,12,63,73,green,175,PSY,male,2085
+Stats for Humanities,560,620,68,10,64,70,green,135,no answer,female,2086
+Stats for Science,570,560,65,9.5,62,70,pink,170,no answer,female,2087
+Stats for Science,350,600,70,12,64,73,blue,201,INFOSCI,male,2088
+Stats for Humanities,550,600,72,11,61,70,blue,150,HIST,male,2089
+Stats for Humanities,650,650,65,8,62,68,purple,165,no answer,female,2090
+Stats for Humanities,500,670,73,13,66,64,blue,185,HIST,male,2091
+Stats for Humanities,600,570,63,8.5,61,73,blue,160,no answer,female,2092
+Stats for Humanities,480,510,62,6,64,71,red,112,COMMRC,female,2093
+Stats for Humanities,600,600,67,8.5,66,69,purple,125,no answer,female,2094
+Stats for Humanities,660,510,74,13,68,74,blue,185,no answer,male,2095
+Stats for Humanities,480,490,65,8,62,67,blue,120,PSY,female,2096
+Stats for Humanities,705,555,73,12,66,73,blue,205,no answer,male,2097
+Stats for Humanities,510,500,70,9.5,66,72,pink,140,no answer,female,2098
+Stats for Humanities,710,670,74,11.5,66,81,blue,170,no answer,male,2099
+Stats for Humanities,560,600,66,8.5,64,72,purple,146,PSY,female,2100
+Stats for Humanities,540,540,68,11,62,69,black,190,HIST,male,2101
+Stats for Humanities,690,580,73,13,65,72,yellow,155,no answer,male,2102
+Stats for Humanities,300,400,65,8,64,66,black,130,PSY,female,2103
+Stats for Humanities,460,580,61,7.5,58,69,blue,167,PSY,female,2104
+Stats for Humanities,650,540,72,10.5,65,71,blue,195,HIST,male,2105
+Stats for Humanities,740,520,63,6,60,67,green,117,no answer,female,2106
+Stats for Humanities,580,800,65,7,68,72,red,110,PSY,female,2107
+Stats for Humanities,540,510,63,7,59,73,purple,110,SPAN,female,2108
+Stats for Humanities,580,520,62,6,62,75,purple,116,no answer,female,2109
+Stats for Humanities,570,500,68,8,67,64,black,150,no answer,female,2110
+Stats for Humanities,550,560,67,8.5,67,74,green,150,no answer,female,2111
+Stats for Humanities,540,670,65,8,66,70,green,135,PSY,female,2112
+Stats for Humanities,560,630,65,9.5,66,67,yellow,160,NURS,female,2113
+Stats for Humanities,500,500,67,8.5,70,70,blue,142,HIST,female,2114
+Stats for Humanities,600,600,70,10,66,71,blue,145,HRS,female,2115
+Stats for Humanities,510,530,64,9.5,64,70,purple,140,SOC,female,2116
+Stats for Humanities,570,500,69,12,65,74,blue,178,INFOSCI,male,2117
+Stats for Humanities,500,750,67,7.5,63,70,black,145,no answer,female,2118
+Stats for Humanities,600,500,66,9.5,62,65,blue,120,ENGWRT,female,2119
+Stats for Humanities,630,670,65,6,63,71,purple,100,no answer,female,2120
+Stats for Humanities,640,550,67,9,71,76,pink,130,MED,female,2121
+Stats for Humanities,500,650,70,10,64,72,blue,165,EDUC,male,2122
+Stats for Humanities,640,620,63,7.5,64,72,blue,115,no answer,female,2123
+Stats for Humanities,660,650,69,9.5,64,70,green,165,SOCWRK,female,2124
+Stats for Humanities,600,690,66,7.5,63,70,red,135,GEOL,female,2125
+Stats for Humanities,520,660,66,7.5,64,72,pink,125,no answer,female,2126
+Stats for Humanities,740,600,73,10,70,72,blue,172,BIOSC,male,2127
+Stats for Humanities,590,600,63,8.5,63,72,black,130,PHARM,female,2128
+Stats for Humanities,600,650,70,10.5,66,73,blue,140,no answer,male,2129
+Stats for Humanities,710,480,60,7,64,71,green,140,PHARM,female,2130
+Stats for Humanities,610,600,62,6,65,68,pink,100,no answer,female,2131
+Stats for Humanities,680,680,75,14,64,78,blue,290,BIOSC,male,2132
+Stats for Humanities,520,620,61,6.5,63,65,orange,120,no answer,female,2133
+Stats for Humanities,510,420,65,9.5,62,68,green,145,INFOSCI,male,2134
+Stats for Humanities,720,600,71,11,66,68,green,172,PHARM,male,2135
+Stats for Humanities,450,550,68,8,66,73,pink,130,SOC,female,2136
+Stats for Humanities,670,690,63,7.5,65,66,red,122,HRS,female,2137
+Stats for Humanities,520,490,68,8.5,67,71,blue,130,HRS,female,2138
+Stats for Humanities,550,530,67,9.5,67,73,blue,135,HRS,female,2139
+Stats for Humanities,620,620,67,9,65,68,pink,145,HIST,female,2140
+Stats for Humanities,690,530,68,10,63,70,blue,140,PSY,male,2141
+Stats for Humanities,660,580,64,10,60,68,green,146,HIST,male,2142
+Stats for Humanities,650,610,67,10,66,76,blue,185,PHARM,female,2143
+Stats for Humanities,510,500,65,8,66,71,blue,117,no answer,female,2144
+Stats for Humanities,630,630,70,11,66,66,black,270,no answer,male,2145
+Stats for Humanities,600,390,64,7.5,65,72,red,150,PS,female,2146
+Stats for Humanities,600,540,71,13,64,74,black,170,no answer,male,2147
+Stats for Humanities,590,610,66,9.5,66,72,pink,133,COMMRC,female,2148
+Stats for Humanities,580,600,70,10,68,71,yellow,118,no answer,male,2149
+Stats for Humanities,550,580,63,8.5,62,73,black,103,no answer,female,2150
+Stats for Humanities,560,540,72,10.5,66,70,blue,185,HRS,male,2151
+Stats for Humanities,400,700,74,12.5,67,72,blue,205,ENGLIT,male,2152
+Stats for Humanities,550,560,68,9,66,73,purple,154,HRS,female,2153
+Stats for Humanities,550,650,67,9,68,72,pink,200,ENGWRT,female,2154
+Stats for Humanities,450,650,64,6.5,62,68,red,107,ENGWRT,female,2155
+Stats for Humanities,640,590,66,10,67,76,blue,165,PSY,female,2156
+Stats for Humanities,480,500,64,8.5,63,65,blue,118,no answer,female,2157
+Stats for Humanities,400,420,61,7.5,63,66,blue,110,PSY,female,2158
+Stats for Humanities,670,540,61,6,64,67,pink,135,PSY,female,2159
+Stats for Humanities,640,780,63,8.5,64,69,red,120,ENGWRT,female,2160
+Stats for Humanities,620,570,66,8,63,74,purple,165,no answer,female,2161
+Stats for Humanities,580,540,70,9,66,70,green,160,COMMRC,male,2162
+Stats for Humanities,690,560,61,8.5,64,70,red,130,EDUC,female,2163
+Stats for Humanities,600,550,69,13,65,68,green,170,ECON,male,2164
+Stats for Humanities,540,580,64,9,67,67,blue,177,ENGWRT,female,2165
+Stats for Humanities,570,600,65,8.5,66,74,pink,105,no answer,female,2166
+Stats for Humanities,660,610,78,13,64,77,orange,160,no answer,male,2167
+Stats for Humanities,710,670,67,10,66,69,blue,130,no answer,female,2168
+Stats for Humanities,550,570,63,7,64,70,blue,125,EDUC,female,2169
+Stats for Humanities,530,620,64,8,63,72,blue,120,PSY,female,2170
+Stats for Humanities,640,680,63,7,59,72,green,113,no answer,female,2171
+Stats for Humanities,420,500,76,11,66,75,black,165,BIOSC,male,2172
+Stats for Humanities,650,580,65,7.5,69,69,purple,125,PHARM,female,2173
+Stats for Humanities,550,590,60,6,61,69,blue,105,SOCWRK,female,2174
+Stats for Humanities,570,540,66,8,62,71,blue,117,PHARM,female,2175
+Stats for Humanities,650,700,62,7.5,63,70,purple,107,no answer,female,2176
+Stats for Humanities,630,590,66,8.5,64,72,blue,145,PHARM,female,2177
+Stats for Humanities,640,560,68,10,65,65,blue,175,PHARM,female,2178
+Stats for Humanities,510,510,64,8,64,70,yellow,133,PHARM,female,2179
+Stats for Humanities,590,520,75,12,69,71,blue,175,no answer,male,2180
+Stats for Humanities,610,600,66,10.5,64,65,blue,160,no answer,male,2181
+Stats for Humanities,520,710,63,7.5,61,69,green,125,MED,female,2182
+Stats for Humanities,550,600,67,10,64,73,green,160,ENGWRT,male,2183
+Stats for Humanities,620,480,65,9,67,71,pink,143,no answer,female,2184
+Stats for Humanities,550,560,62,7.5,63,69,yellow,125,no answer,female,2185
+Stats for Humanities,550,480,68,9,65,73,blue,175,PHARM,male,2186
+Stats for Humanities,640,550,71,13,63,68,yellow,214,no answer,male,2187
+Stats for Humanities,490,650,64,8,61,73,purple,116,HA&A,female,2188
+Stats for Humanities,620,560,71,11.5,63,70,blue,153,no answer,male,2189
+Stats for Humanities,480,520,65,8.5,63,73,blue,135,no answer,female,2190
+Stats for Humanities,640,650,70,9.5,66,69,blue,165,HRS,male,2191
+Stats for Humanities,620,620,75,15,67,73,blue,315,no answer,male,2192
+Stats for Humanities,550,530,66,7,66,67,red,120,no answer,male,2193
+Stats for Humanities,580,500,64,8,61,70,purple,155,no answer,female,2194
+Stats for Humanities,600,760,64,6,69,70,blue,115,no answer,female,2195
+Stats for Humanities,650,675,62,6.5,56,66,pink,105,PSY,female,2196
+Stats for Humanities,600,300,65,7.5,69,70,blue,215,PSY,female,2197
+Stats for Humanities,610,640,68,11.5,64,70,blue,150,HRS,male,2198
+Stats for Humanities,630,640,66,10,65,70,blue,137,no answer,female,2199
+Stats for Humanities,670,640,68,11,61,70,yellow,155,no answer,male,2200
+Stats for Humanities,640,670,65,8.5,60,69,pink,123,HRS,female,2201
+Business Stats,730,660,65,8.5,63,64,black,143,BUS,female,2202
+Stats for Humanities,540,660,75,13,66,72,blue,200,ENGLIT,male,2203
+Stats for Humanities,530,520,74,12,68,71,blue,165,COMMRC,male,2204
+Stats for Humanities,540,550,64,8,63,70,black,110,no answer,female,2205
+Stats for Humanities,610,610,61,7.5,69,75,purple,124,HRS,female,2206
+Stats for Humanities,500,620,64,7.5,62,71,pink,121,no answer,female,2207
+Stats for Humanities,580,590,67,9,66,70,pink,150,no answer,female,2208
+Stats for Humanities,550,550,61,7,61,66,green,110,no answer,female,2209
+Stats for Humanities,540,560,66,9,69,70,blue,135,no answer,female,2210
+Stats for Humanities,600,680,60,6,62,66,blue,130,ANTH,female,2211
+Stats for Humanities,590,590,66,9,64,71,orange,118,no answer,female,2212
+Stats for Humanities,400,500,63,8,66,69,pink,125,PSY,female,2213
+Stats for Humanities,550,540,65,7.5,67,73,blue,150,no answer,female,2214
+Stats for Humanities,540,540,64,7.5,66,72,purple,165,PSY,female,2215
+Stats for Humanities,520,480,68,9.5,60,74,pink,133,LAW,female,2216
+Stats for Humanities,560,640,65,7.5,67,71,purple,140,SOCWRK,female,2217
+Stats for Humanities,670,660,67,9,64,71,blue,134,no answer,female,2218
+Stats for Humanities,510,570,63,6.5,66,69,red,105,no answer,female,2219
+Stats for Humanities,560,560,70,13,65,68,blue,200,HIST,male,2220
+Stats for Humanities,540,520,68,8.5,64,73,purple,130,no answer,female,2221
+Stats for Science,620,540,65,6,65,73,orange,130,SOCWRK,female,2222
+Stats for Humanities,600,600,70,11,66,68,pink,180,SOC,male,2223
+Stats for Humanities,550,550,68,9,63,69,purple,140,no answer,female,2224
+Stats for Humanities,560,560,67,9.5,67,75,red,145,no answer,female,2225
+Stats for Humanities,550,550,68,10,71,71,blue,160,MED,female,2226
+Stats for Humanities,700,780,69,10.5,62,75,yellow,145,RELGST,female,2227
+Stats for Science,670,670,68,10.5,64,66,green,180,no answer,male,2228
+Stats for Science,610,630,66,9,63,65,blue,114,BIOSC,female,2229
+Stats for Science,660,570,68,9,62,67,red,170,no answer,male,2230
+Stats for Science,620,590,64,9,62,72,purple,124,no answer,female,2231
+Stats for Science,650,670,69,10,60,69,red,160,no answer,male,2232
+Stats for Science,590,610,75,13,66,74,blue,204,NROSCI,male,2233
+Stats for Science,600,580,71,10,66,71,blue,160,BIOSC,female,2234
+Stats for Science,450,650,68,10,62,66,blue,225,PSY,male,2235
+Stats for Science,620,600,64,8,64,71,black,124,PSY,female,2236
+Stats for Science,510,590,64,7,63,71,blue,130,no answer,female,2237
+Stats for Science,520,600,68,9.5,65,68,blue,150,PSY,male,2238
+Stats for Science,580,660,63,8.5,64,69,green,135,BIOSC,female,2239
+Stats for Science,690,610,66,8,65,73,blue,135,BIOSC,female,2240
+Stats for Science,500,600,65,9.5,68,70,blue,152,BIOSC,female,2241
+Stats for Science,560,570,67,9.5,65,70,green,150,HRS,female,2242
+Stats for Science,580,700,61,6,65,70,blue,104,PSY,female,2243
+Stats for Science,660,670,68,11,61,68,green,130,no answer,male,2244
+Stats for Science,670,620,66,8.5,64,74,red,146,MATH,female,2245
+Stats for Science,600,640,64,7.5,64,71,red,132,no answer,female,2246
+Business Stats,600,620,70,11,67,71,blue,145,no answer,male,2247
+Stats for Science,690,610,65,10,69,71,black,145,no answer,female,2248
+Stats for Science,640,720,69,10,71,74,purple,135,SA,female,2249
+Stats for Science,690,720,68,10,66,68,blue,172,NROSCI,male,2250
+Stats for Science,650,600,63,6.5,61,69,green,112,no answer,female,2251
+Stats for Science,600,680,64,7,67,69,blue,110,no answer,female,2252
+Stats for Science,710,700,62,8,61,70,red,105,no answer,female,2253
+Stats for Science,500,600,68,8.5,68,70,blue,125,no answer,female,2254
+Stats for Science,670,590,67,8.5,63,71,pink,118,PSY,female,2255
+Stats for Science,710,640,65,9.5,63,68,blue,160,no answer,male,2256
+Stats for Science,600,600,62,6,63,68,pink,155,no answer,female,2257
+Stats for Science,580,500,72,11.5,65,73,green,195,no answer,male,2258
+Stats for Science,570,570,67,8,68,72,green,140,no answer,female,2259
+Stats for Science,780,670,72,12,66,70,blue,145,PS,male,2260
+Stats for Science,620,480,71,11.5,65,67,blue,145,no answer,male,2261
+Stats for Science,690,660,67,9,69,72,green,130,MED,female,2262
+Stats for Science,590,620,69,8.5,70,70,green,145,no answer,female,2263
+Stats for Science,600,800,66,9.5,65,67,blue,170,no answer,male,2264
+Stats for Science,550,550,72,10.5,64,69,black,250,no answer,male,2265
+Stats for Science,650,600,67,8,67,71,blue,133,HRS,female,2266
+Stats for Science,560,540,68,10.5,66,67,blue,155,PSY,male,2267
+Stats for Science,580,590,69,10,65,72,blue,158,PSY,male,2268
+Stats for Science,520,500,76,14,67,68,blue,185,BIOSC,male,2269
+Stats for Science,450,450,74,12,68,74,black,222,PHIL,male,2270
+Stats for Science,600,590,66,6,67,73,blue,105,no answer,female,2271
+Stats for Science,800,660,69,12,64,77,green,175,BIOSC,male,2272
+Stats for Science,620,640,62,7,64,72,pink,98,no answer,female,2273
+Stats for Science,570,580,71,11,65,68,blue,190,PS,male,2274
+Stats for Science,580,590,62,8,61,70,green,130,no answer,female,2275
+Stats for Science,590,580,65,7.5,67,67,blue,112,no answer,female,2276
+Stats for Science,580,520,71,10.5,61,71,blue,175,ISSP,male,2277
+Stats for Science,610,690,62,5.5,63,69,green,113,no answer,female,2278
+Stats for Science,670,550,64,6,59,72,purple,117,BIOSC,female,2279
+Stats for Science,620,500,66,8.5,68,68,blue,129,BIOSC,female,2280
+Stats for Science,620,580,66,10,64,66,blue,138,MATH,female,2281
+Stats for Science,700,520,76,13,66,71,blue,180,BIOSC,male,2282
+Stats for Science,680,480,71,12,61,73,blue,180,CS,male,2283
+Stats for Science,640,540,64,7,63,65,blue,126,no answer,female,2284
+Stats for Science,660,710,74,11,64,74,green,167,NROSCI,male,2285
+Stats for Science,770,590,67,10,65,73,blue,169,BIOSC,female,2286
+Stats for Science,600,560,63,8.5,63,72,red,115,no answer,female,2287
+Stats for Science,650,520,60,6.5,66,70,blue,130,PSY,female,2288
+Stats for Science,700,790,69,6,63,66,green,115,PSY,female,2289
+Stats for Humanities,530,540,66,8,62,70,purple,140,no answer,female,2290
+Stats for Science,550,610,60,5,64,71,blue,110,BIOSC,female,2291
+Stats for Science,630,500,63,9,62,68,blue,130,no answer,female,2292
+Stats for Science,600,500,70,11,64,64,black,190,INFOSCI,male,2293
+Stats for Science,530,550,64,8.5,64,70,blue,132,PHARM,female,2294
+Stats for Science,540,610,64,6.5,68,69,black,113,no answer,female,2295
+Stats for Science,620,520,70,9,66,76,blue,165,no answer,female,2296
+Stats for Humanities,610,700,63,6,68,72,purple,86,NROSCI,female,2297
+Stats for Science,630,590,68,10.5,65,66,green,155,no answer,male,2298
+Stats for Humanities,680,590,66,8.5,63,64,blue,115,INFOSCI,male,2299
+Stats for Science,600,600,63,8,63,68,pink,130,no answer,female,2300
+Stats for Science,720,690,72,13,64,70,blue,300,no answer,male,2301
+Stats for Science,750,710,64,7,63,69,purple,115,BIOSC,female,2302
+Stats for Science,620,620,66,10,64,69,blue,150,no answer,female,2303
+Stats for Science,620,600,63,7,62,65,blue,120,MATH,female,2304
+Stats for Science,660,620,72,12,64,68,blue,150,INFOSCI,male,2305
+Stats for Science,650,600,63,6.5,63,66,blue,145,BIOSC,female,2306
+Stats for Science,640,620,72,11.5,64,72,green,164,no answer,male,2307
+Stats for Science,660,560,61,7.5,63,66,purple,110,no answer,female,2308
+Stats for Science,670,620,65,9.5,69,73,red,120,no answer,female,2309
+Stats for Humanities,500,500,66,8,63,69,green,112,no answer,female,2310
+Stats for Science,740,660,70,11,67,70,orange,143,no answer,male,2311
+Stats for Science,570,500,68,10.5,64,71,orange,140,no answer,male,2312
+Stats for Humanities,690,650,74,13,68,76,blue,170,ANTH,male,2313
+Stats for Science,630,630,64,8,67,70,pink,130,PSY,female,2314
+Stats for Science,640,630,62,8,68,67,red,135,BIOSC,female,2315
+Stats for Science,620,560,69,8.5,67,72,pink,160,no answer,female,2316
+Stats for Science,500,600,64,8.5,63,72,blue,135,BUS,male,2317
+Stats for Science,700,700,64,6,62,64,red,112,INFOSCI,female,2318
+Stats for Science,580,620,66,9,63,70,blue,129,no answer,female,2319
+Stats for Science,680,650,64,7,60,68,blue,110,no answer,female,2320
+Stats for Science,680,580,63,7.5,65,74,green,110,BIOSC,female,2321
+Stats for Science,670,600,67,9,62,66,blue,140,no answer,male,2322
+Stats for Science,740,660,63,6,64,71,blue,120,PHARM,female,2323
+Stats for Science,550,560,69,8.5,69,69,blue,135,BIOSC,female,2324
+Stats for Science,610,710,65,7.5,67,67,purple,130,no answer,female,2325
+Stats for Humanities,710,680,70,11,68,72,blue,145,no answer,female,2326
+Stats for Science,650,630,69,10,69,71,yellow,174,NROSCI,female,2327
+Stats for Science,690,740,71,8.5,66,77,blue,163,NROSCI,female,2328
+Stats for Science,650,530,68,8.5,63,72,red,140,no answer,female,2329
+Stats for Humanities,540,560,64,6,66,75,yellow,150,no answer,female,2330
+Stats for Humanities,650,620,63,8,64,65,purple,120,no answer,female,2331
+Stats for Humanities,610,670,66,7,63,73,purple,136,no answer,female,2332
+Stats for Humanities,660,650,62,8,64,64,purple,108,PHARM,female,2333
+Stats for Humanities,700,720,69,9,65,68,blue,125,no answer,male,2334
+Stats for Humanities,570,560,64,7,64,75,blue,125,EDUC,female,2335
+Stats for Humanities,580,560,67,9,63,72,blue,170,ECON,male,2336
+Stats for Humanities,590,630,64,6.5,67,71,blue,112,no answer,female,2337
+Stats for Humanities,650,540,61,5.5,62,68,blue,115,no answer,female,2338
+Stats for Humanities,540,500,66,8.5,60,70,red,114,PHARM,female,2339
+Stats for Humanities,600,510,60,6.5,64,72,pink,110,HRS,female,2340
+Stats for Humanities,560,560,62,6,61,65,pink,95,no answer,female,2341
+Stats for Humanities,700,680,73,11.5,66,72,blue,152,PHARM,male,2342
+Stats for Humanities,580,480,70,10,68,76,blue,150,HRS,female,2343
+Stats for Humanities,540,520,66,10,65,72,blue,210,PHARM,female,2344
+Stats for Humanities,680,720,66,9,62,74,purple,175,no answer,female,2345
+Stats for Humanities,730,790,64,7.5,65,68,green,105,PHARM,female,2346
+Stats for Humanities,600,650,62,8,64,74,red,215,no answer,female,2347
+Stats for Humanities,580,590,68,9.5,66,70,purple,160,PHARM,female,2348
+Stats for Humanities,520,590,70,11,64,76,blue,126,PHARM,female,2349
+Stats for Humanities,600,700,73,11.5,66,69,green,161,ENGLIT,male,2350
+Stats for Humanities,700,550,70,7,68,75,pink,155,GER,female,2351
+Stats for Humanities,580,580,67,8.5,60,68,blue,140,PHARM,male,2352
+Stats for Humanities,700,610,66,9,67,67,blue,135,PHARM,female,2353
+Stats for Humanities,620,580,73,13,65,70,blue,180,PHARM,male,2354
+Stats for Humanities,540,520,64,6.5,62,69,blue,117,no answer,female,2355
+Stats for Humanities,680,670,60,6.5,60,72,red,120,no answer,female,2356
+Stats for Humanities,550,535,63,8,63,69,green,130,no answer,female,2357
+Stats for Humanities,650,640,69,12,62,72,green,165,no answer,male,2358
+Stats for Humanities,590,600,65,8.5,61,70,purple,135,no answer,female,2359
+Stats for Humanities,580,500,62,7,66,73,yellow,175,no answer,female,2360
+Stats for Humanities,650,620,61,6.5,61,70,green,120,no answer,female,2361
+Stats for Humanities,620,580,73,12,65,71,blue,160,no answer,male,2362
+Stats for Humanities,690,610,75,12,66,75,blue,190,PSY,male,2363
+Stats for Humanities,580,570,69,11,66,76,blue,136,no answer,female,2364
+Stats for Humanities,570,570,65,7.5,62,66,blue,135,no answer,male,2365
+Stats for Humanities,500,570,62,7.5,66,64,red,118,no answer,female,2366
+Stats for Humanities,610,610,64,6,65,69,purple,125,PSY,female,2367
+Stats for Humanities,520,600,73,12,64,68,blue,160,INFOSCI,male,2368
+Stats for Humanities,610,520,73,14,65,73,green,162,no answer,male,2369
+Stats for Humanities,590,580,69,8.5,69,68,yellow,140,no answer,female,2370
+Stats for Humanities,560,550,64,8,68,69,green,134,no answer,female,2371
+Stats for Humanities,550,530,70,9.5,66,72,purple,128,EDUC,female,2372
+Stats for Humanities,580,660,68,8,65,74,blue,124,PS,female,2373
+Stats for Humanities,550,500,67,8,65,70,blue,150,BIOSC,female,2374
+Stats for Humanities,620,640,63,8,59,74,yellow,134,PHARM,female,2375
+Stats for Humanities,540,510,69,9,64,74,pink,155,no answer,female,2376
+Stats for Humanities,660,600,71,11,64,71,yellow,173,no answer,male,2377
+Stats for Humanities,500,650,71,13,66,68,blue,196,INFOSCI,male,2378
+Stats for Humanities,610,600,72,12,63,73,blue,165,PHARM,male,2379
+Stats for Humanities,540,470,64,8,62,70,purple,105,PHARM,female,2380
+Stats for Humanities,450,550,68,9.5,66,65,red,150,PSY,female,2381
+Stats for Humanities,640,610,66,8,64,74,green,140,PHARM,female,2382
+Stats for Humanities,680,570,68,9.5,66,70,green,138,PHARM,female,2383
+Stats for Humanities,570,590,65,8,63,70,blue,135,no answer,female,2384
+Stats for Humanities,550,500,71,8.5,67,76,orange,135,no answer,female,2385
+Stats for Humanities,600,610,64,7,65,70,red,126,no answer,female,2386
+Stats for Humanities,550,550,60,8,62,64,pink,116,ENGLIT,female,2387
+Stats for Humanities,630,550,68,11,62,72,orange,150,no answer,male,2388
+Stats for Humanities,560,640,67,10,61,68,blue,160,FR,male,2389
+Stats for Humanities,400,400,65,7,67,71,pink,120,PSY,female,2390
+Stats for Humanities,710,580,61,7,61,66,blue,103,PHARM,female,2391
+Stats for Humanities,500,650,64,7,65,70,blue,125,ENGLIT,female,2392
+Stats for Humanities,600,500,66,8.5,63,73,purple,140,no answer,female,2393
+Stats for Science,550,620,64,9,64,73,yellow,118,no answer,female,2394
+Stats for Science,560,500,64,9,70,70,yellow,128,no answer,female,2395
+Stats for Science,640,590,64,8,60,65,blue,130,no answer,female,2396
+Stats for Science,630,600,65,9,66,66,green,128,BIOSC,female,2397
+Stats for Science,730,600,70,10,64,69,blue,135,BIOSC,male,2398
+Stats for Science,600,600,73,11.5,67,73,blue,142,no answer,male,2399
+Stats for Science,550,600,68,11,63,67,blue,155,no answer,male,2400
+Stats for Science,600,520,63,7.5,61,69,purple,132,PHARM,female,2401
+Stats for Science,620,630,70,9,63,69,blue,127,ANTH,male,2402
+Stats for Science,620,620,73,11,68,75,blue,215,PSY,female,2403
+Stats for Science,500,510,70,10,65,74,purple,175,no answer,female,2404
+Stats for Science,580,560,62,7,63,70,purple,110,no answer,female,2405
+Stats for Science,660,600,63,6.5,62,70,purple,125,PSY,female,2406
+Stats for Science,670,660,66,9,64,72,blue,160,MATH,female,2407
+Stats for Science,610,460,74,12,66,70,red,197,no answer,male,2408
+Stats for Science,600,510,65,6.5,64,68,green,135,BIOSC,female,2409
+Stats for Science,590,640,68,10,64,71,pink,141,no answer,female,2410
+Stats for Science,660,700,71,12,67,68,black,160,PS,male,2411
+Stats for Humanities,500,600,67,7.5,65,76,pink,138,BIOSC,female,2412
+Stats for Science,750,760,69,8.5,67,74,red,155,no answer,female,2413
+Stats for Science,680,790,66,8.5,66,70,blue,135,no answer,female,2414
+Stats for Science,600,660,61,6,64,71,pink,111,PSY,female,2415
+Stats for Science,620,540,63,7.5,62,72,red,116,BIOSC,female,2416
+Stats for Science,500,510,65,8,64,68,purple,123,BIOSC,female,2417
+Stats for Science,650,630,62,6,63,68,black,98,PSY,female,2418
+Stats for Science,740,750,63,8,62,67,purple,130,no answer,female,2419
+Stats for Science,650,700,67,10,63,68,blue,137,ENGING,male,2420
+Stats for Science,670,580,71,11,63,71,orange,158,no answer,male,2421
+Stats for Science,600,600,66,8.5,62,75,red,128,BIOSC,female,2422
+Stats for Science,680,720,66,9,65,72,blue,140,BUS,female,2423
+Stats for Science,650,590,79,15,66,73,black,200,CS,male,2424
+Stats for Science,650,540,74,11.5,70,72,blue,167,PHARM,male,2425
+Stats for Science,570,580,66,8,67,68,purple,150,NROSCI,female,2426
+Stats for Science,680,520,67,9.5,65,69,blue,135,CS,male,2427
+Stats for Science,720,680,64,7.5,60,65,purple,115,no answer,female,2428
+Stats for Science,650,600,72,11.5,67,66,black,195,no answer,male,2429
+Stats for Science,740,780,66,8,66,70,blue,135,NROSCI,female,2430
+Stats for Science,670,540,68,9.5,66,67,green,140,MATH,male,2431
+Stats for Science,720,570,69,10.5,64,68,black,157,CS,male,2432
+Stats for Science,720,680,72,11,64,71,blue,161,no answer,male,2433
+Stats for Science,620,620,69,10,60,63,blue,185,no answer,male,2434
+Stats for Science,680,540,69,11,66,67,black,172,CS,male,2435
+Stats for Science,610,580,67,8,67,70,pink,120,EDUC,female,2436
+Stats for Science,580,650,63,6,62,67,pink,120,no answer,female,2437
+Stats for Science,750,600,72,13,66,70,black,190,NROSCI,male,2438
+Stats for Science,800,750,68,11,62,67,blue,143,NROSCI,male,2439
+Stats for Science,630,520,72,10.5,67,75,blue,150,PSY,male,2440
+Stats for Science,630,550,64,6.5,63,70,green,125,no answer,female,2441
+Stats for Science,750,720,64,6.5,63,70,pink,100,NROSCI,female,2442
+Stats for Science,590,630,70,10.5,68,69,green,190,CS,male,2443
+Stats for Science,480,550,64,8.5,66,67,green,141,no answer,female,2444
+Stats for Science,570,540,73,10,65,70,blue,190,BUS,male,2445
+Stats for Science,690,690,68,10,68,73,green,125,BIOSC,female,2446
+Stats for Science,660,540,70,10.5,63,71,black,145,CS,male,2447
+Stats for Science,610,590,76,11.5,64,73,blue,165,no answer,male,2448
+Stats for Science,700,510,67,9,67,71,green,140,no answer,female,2449
+Stats for Science,590,590,64,8.5,68,70,blue,125,no answer,female,2450
+Stats for Science,550,530,74,13,72,74,blue,210,no answer,male,2451
+Stats for Science,650,550,71,11,68,69,blue,184,PHARM,male,2452
+Stats for Science,550,510,63,7.5,63,69,pink,110,BIOSC,female,2453
+Stats for Science,520,680,66,8.5,66,69,green,120,PHARM,female,2454
+Stats for Science,590,600,67,10,59,72,black,120,BIOSC,male,2455
+Stats for Science,660,520,66,8.5,70,71,pink,125,no answer,female,2456
+Stats for Science,520,600,73,10.5,65,75,green,170,no answer,male,2457
+Business Stats,650,540,69,9,60,67,blue,130,no answer,male,2458
+Business Stats,600,500,66,9,68,68,blue,140,BUS,female,2459
+Business Stats,800,620,74,13,63,71,blue,235,no answer,male,2460
+Stats for Humanities,590,560,73,11,66,69,blue,175,no answer,male,2461
+Business Stats,630,550,65,6.5,61,68,purple,125,ECON,female,2462
+Business Stats,670,640,63,8,62,69,pink,112,no answer,female,2463
+Business Stats,550,500,67,10.5,65,65,orange,150,no answer,male,2464
+Business Stats,650,530,69,11,63,71,blue,150,no answer,male,2465
+Business Stats,550,500,73,12,66,72,purple,185,no answer,male,2466
+Business Stats,560,540,64,8,63,66,pink,130,BUS,female,2467
+Stats for Science,590,590,76,12,64,71,green,192,ECON,male,2468
+Business Stats,690,580,72,11,67,68,blue,170,no answer,male,2469
+Business Stats,700,580,69,9,63,74,green,135,no answer,female,2470
+Business Stats,580,590,66,9,67,75,red,130,no answer,female,2471
+Business Stats,720,680,72,12,66,70,blue,200,CS,male,2472
+Business Stats,580,600,72,11,63,69,green,190,ECON,male,2473
+Business Stats,700,680,64,10,56,64,blue,165,BUS,male,2474
+Stats for Humanities,530,420,67,8.5,63,75,purple,135,BUS,female,2475
+Stats for Humanities,630,640,69,10,67,73,blue,145,COMMRC,male,2476
+Business Stats,720,530,72,13,68,70,black,250,CS,male,2477
+Business Stats,660,600,72,11,64,67,red,195,BUS,male,2478
+Business Stats,680,500,71,13,71,78,blue,167,no answer,male,2479
+Business Stats,760,530,71,10.5,69,74,green,160,no answer,male,2480
+Business Stats,750,450,71,11.5,65,72,black,170,no answer,male,2481
+Business Stats,640,540,70,11,64,67,black,168,BUS,male,2482
+Business Stats,500,450,72,10,65,72,red,260,BUS,male,2483
+Business Stats,550,700,64,8,62,72,purple,130,no answer,female,2484
+Stats for Humanities,620,600,67,9.5,68,72,green,140,no answer,female,2485
+Stats for Humanities,560,550,63,8.5,59,70,blue,115,no answer,female,2486
+Stats for Humanities,620,630,63,8,66,66,purple,115,PHARM,female,2487
+Stats for Humanities,630,670,63,9,63,68,purple,130,PHARM,female,2488
+Stats for Humanities,600,580,69,11,60,73,green,125,no answer,male,2489
+Stats for Humanities,660,620,64,8,64,72,blue,114,PHARM,female,2490
+Stats for Humanities,660,580,65,8.5,68,73,red,148,no answer,female,2491
+Stats for Humanities,550,530,64,9,65,66,pink,140,no answer,female,2492
+Stats for Humanities,650,590,71,12,66,69,blue,175,no answer,male,2493
+Stats for Humanities,770,340,71,9,62,66,green,115,PHARM,male,2494
+Stats for Humanities,630,640,61,7,62,68,purple,106,PHARM,female,2495
+Stats for Humanities,560,640,63,7,64,67,blue,140,no answer,female,2496
+Stats for Humanities,610,740,64,7.5,63,61,orange,101,no answer,female,2497
+Stats for Humanities,620,580,64,8.5,63,71,orange,155,no answer,female,2498
+Stats for Humanities,670,520,79,15,71,80,green,192,no answer,male,2499
+Stats for Humanities,740,590,63,8,60,67,red,133,HRS,female,2500
+Stats for Humanities,550,560,62,6.5,64,67,purple,115,no answer,female,2501
+Stats for Humanities,460,580,61,6.5,62,70,blue,105,no answer,female,2502
+Stats for Humanities,650,550,70,10.5,62,70,blue,145,no answer,male,2503
+Stats for Humanities,560,650,62,6.5,63,67,purple,125,no answer,female,2504
+Stats for Humanities,600,600,63,7.5,65,66,blue,120,no answer,female,2505
+Stats for Humanities,570,540,70,10.5,67,68,red,151,no answer,male,2506
+Stats for Humanities,720,600,62,7.5,63,70,blue,125,BIOSC,female,2507
+Stats for Humanities,510,620,63,8,62,66,pink,120,HIST,female,2508
+Stats for Humanities,600,590,64,9,67,70,green,140,no answer,female,2509
+Stats for Humanities,600,620,64,8,67,71,red,123,ENGLIT,female,2510
+Stats for Humanities,520,600,63,6.5,66,69,blue,120,no answer,female,2511
+Stats for Humanities,600,580,68,8,68,71,purple,145,PHARM,female,2512
+Stats for Humanities,610,590,66,8.5,60,71,blue,115,no answer,male,2513
+Stats for Humanities,580,560,61,7,60,70,red,120,SA,female,2514
+Stats for Humanities,600,660,65,8.5,67,70,green,138,SOC,female,2515
+Stats for Humanities,620,420,66,10,66,71,green,111,no answer,female,2516
+Stats for Humanities,690,630,61,6.5,59,71,blue,104,no answer,female,2517
+Stats for Humanities,720,540,63,8.5,67,67,green,130,URBST,female,2518
+Stats for Humanities,700,700,63,7.5,66,72,purple,125,no answer,male,2519
+Business Stats,790,690,72,11.5,63,69,blue,175,ECON,male,2520
+Stats for Humanities,670,590,68,10,64,68,blue,160,INFOSCI,male,2521
+Stats for Humanities,680,570,67,8.5,66,74,red,155,HRS,female,2522
+Stats for Humanities,590,520,69,10,70,76,blue,165,SOC,female,2523
+Stats for Humanities,630,720,61,7.5,64,72,blue,113,HIST,female,2524
+Stats for Humanities,275,275,69,9,67,69,blue,150,no answer,female,2525
+Stats for Humanities,350,450,66,9,64,75,purple,125,ENGWRT,female,2526
+Stats for Humanities,580,620,62,8.5,61,71,blue,130,no answer,female,2527
+Stats for Humanities,400,550,60,6.5,72,75,red,118,PSY,female,2528
+Stats for Humanities,560,560,64,7,63,72,red,115,COMMRC,female,2529
+Stats for Humanities,550,650,67,9.5,66,72,blue,160,PSY,female,2530
+Stats for Humanities,630,750,69,8,66,76,green,130,PHARM,female,2531
+Stats for Humanities,580,580,71,10.5,65,71,blue,130,PHARM,male,2532
+Stats for Humanities,600,540,72,11,68,72,blue,165,PHARM,male,2533
+Stats for Humanities,620,630,75,12,67,76,blue,185,INFOSCI,male,2534
+Stats for Humanities,500,650,65,9.5,60,74,blue,180,PS,female,2535
+Stats for Humanities,510,550,67,9,69,72,pink,123,ENGWRT,female,2536
+Stats for Humanities,480,630,65,8.5,65,72,pink,135,no answer,female,2537
+Stats for Humanities,490,500,66,10,59,72,green,160,INFOSCI,male,2538
+Stats for Humanities,680,500,72,11,62,73,blue,155,INFOSCI,male,2539
+Stats for Humanities,580,620,67,9,65,68,pink,165,HIST,female,2540
+Stats for Humanities,650,550,67,8,67,71,blue,145,HRS,female,2541
+Stats for Humanities,550,500,67,10.5,65,69,blue,155,PEDC,male,2542
+Stats for Humanities,425,375,68,9,62,70,blue,179,SOC,female,2543
+Stats for Humanities,450,700,63,9,67,71,black,160,no answer,female,2544
+Stats for Humanities,520,520,65,6.5,62,62,pink,110,COMMRC,female,2545
+Stats for Humanities,670,560,66,8.5,63,64,blue,115,INFOSCI,male,2546
+Stats for Humanities,610,470,76,14.5,69,72,blue,190,INFOSCI,male,2547
+Stats for Humanities,350,550,71,10,68,74,blue,156,no answer,male,2548
+Stats for Humanities,700,720,70,10,61,71,orange,138,no answer,male,2549
+Stats for Humanities,510,650,69,8.5,69,70,purple,140,ENGWRT,female,2550
+Stats for Humanities,680,720,70,11.5,63,72,blue,175,PSY,male,2551
